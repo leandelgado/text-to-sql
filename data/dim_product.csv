@@ -1,0 +1,1201 @@
+product_id,product_name,brand,product_category,product_subcategory,fuel_type,vehicle_segment,is_vehicle
+P0053,Batería,Genérico,repuesto,repuesto,,,0
+P0259,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0143,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0023,Service general,Genérico,service,service,,,0
+P0296,Batería,Genérico,repuesto,repuesto,,,0
+P0120,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0190,Service general,Genérico,service,service,,,0
+P0274,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0113,Cambio de aceite,Genérico,service,service,,,0
+P0162,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0109,Cambio de aceite,Genérico,service,service,,,0
+P0136,Cambio de aceite,Genérico,service,service,,,0
+P0299,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0025,Cambio de aceite,Genérico,service,service,,,0
+P0196,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0275,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0135,Cambio de aceite,Genérico,service,service,,,0
+P0102,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0166,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0123,Cambio de aceite,Genérico,service,service,,,0
+P0036,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0160,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0116,Service general,Genérico,service,service,,,0
+P0004,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0037,Service general,Genérico,service,service,,,0
+P0293,Mantenimiento programado,Genérico,service,service,,,0
+P0049,Service general,Genérico,service,service,,,0
+P0051,Cambio de aceite,Genérico,service,service,,,0
+P0230,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0227,Service general,Genérico,service,service,,,0
+P0122,Service general,Genérico,service,service,,,0
+P0195,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0217,Cambio de aceite,Genérico,service,service,,,0
+P0297,Cambio de aceite,Genérico,service,service,,,0
+P0272,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0035,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0134,Batería,Genérico,repuesto,repuesto,,,0
+P0235,Cambio de aceite,Genérico,service,service,,,0
+P0276,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0005,Mantenimiento programado,Genérico,service,service,,,0
+P0136,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0176,Batería,Genérico,repuesto,repuesto,,,0
+P0142,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0083,Mantenimiento programado,Genérico,service,service,,,0
+P0077,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0066,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0184,Mantenimiento programado,Genérico,service,service,,,0
+P0080,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0013,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0157,Mantenimiento programado,Genérico,service,service,,,0
+P0036,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0060,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0177,Batería,Genérico,repuesto,repuesto,,,0
+P0296,Service general,Genérico,service,service,,,0
+P0101,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0064,Cambio de aceite,Genérico,service,service,,,0
+P0284,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0292,Cambio de aceite,Genérico,service,service,,,0
+P0297,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0044,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0234,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0003,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0238,Mantenimiento programado,Genérico,service,service,,,0
+P0272,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0219,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0133,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0226,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0042,Cambio de aceite,Genérico,service,service,,,0
+P0033,Service general,Genérico,service,service,,,0
+P0216,Service general,Genérico,service,service,,,0
+P0004,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0113,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0208,Service general,Genérico,service,service,,,0
+P0014,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0094,Service general,Genérico,service,service,,,0
+P0195,Cambio de aceite,Genérico,service,service,,,0
+P0027,Mantenimiento programado,Genérico,service,service,,,0
+P0103,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0112,Mantenimiento programado,Genérico,service,service,,,0
+P0084,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0204,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0053,Service general,Genérico,service,service,,,0
+P0022,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0216,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0079,Cambio de aceite,Genérico,service,service,,,0
+P0248,Batería,Genérico,repuesto,repuesto,,,0
+P0045,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0173,Cambio de aceite,Genérico,service,service,,,0
+P0006,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0124,Service general,Genérico,service,service,,,0
+P0151,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0139,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0275,Mantenimiento programado,Genérico,service,service,,,0
+P0269,Mantenimiento programado,Genérico,service,service,,,0
+P0185,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0028,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0294,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0245,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0078,Cambio de aceite,Genérico,service,service,,,0
+P0157,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0109,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0002,Cambio de aceite,Genérico,service,service,,,0
+P0145,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0102,Cambio de aceite,Genérico,service,service,,,0
+P0037,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0064,Batería,Genérico,repuesto,repuesto,,,0
+P0042,Batería,Genérico,repuesto,repuesto,,,0
+P0011,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0171,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0148,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0001,Mantenimiento programado,Genérico,service,service,,,0
+P0249,Mantenimiento programado,Genérico,service,service,,,0
+P0237,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0213,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0261,Service general,Genérico,service,service,,,0
+P0175,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0297,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0171,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0293,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0196,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0170,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0210,Mantenimiento programado,Genérico,service,service,,,0
+P0204,Service general,Genérico,service,service,,,0
+P0195,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0228,Mantenimiento programado,Genérico,service,service,,,0
+P0151,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0093,Mantenimiento programado,Genérico,service,service,,,0
+P0255,Service general,Genérico,service,service,,,0
+P0154,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0012,Service general,Genérico,service,service,,,0
+P0071,Batería,Genérico,repuesto,repuesto,,,0
+P0018,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0090,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0085,Batería,Genérico,repuesto,repuesto,,,0
+P0059,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0286,Mantenimiento programado,Genérico,service,service,,,0
+P0189,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0242,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0155,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0253,Cambio de aceite,Genérico,service,service,,,0
+P0251,Batería,Genérico,repuesto,repuesto,,,0
+P0112,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0279,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0233,Service general,Genérico,service,service,,,0
+P0125,Batería,Genérico,repuesto,repuesto,,,0
+P0111,Cambio de aceite,Genérico,service,service,,,0
+P0067,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0122,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0270,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0258,Batería,Genérico,repuesto,repuesto,,,0
+P0032,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0038,Service general,Genérico,service,service,,,0
+P0281,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0259,Cambio de aceite,Genérico,service,service,,,0
+P0205,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0050,Cambio de aceite,Genérico,service,service,,,0
+P0288,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0247,Cambio de aceite,Genérico,service,service,,,0
+P0294,Service general,Genérico,service,service,,,0
+P0174,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0036,Service general,Genérico,service,service,,,0
+P0044,Mantenimiento programado,Genérico,service,service,,,0
+P0140,Cambio de aceite,Genérico,service,service,,,0
+P0059,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0270,Mantenimiento programado,Genérico,service,service,,,0
+P0149,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0273,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0224,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0208,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0088,Cambio de aceite,Genérico,service,service,,,0
+P0125,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0180,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0289,Service general,Genérico,service,service,,,0
+P0078,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0029,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0147,Mantenimiento programado,Genérico,service,service,,,0
+P0022,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0231,Mantenimiento programado,Genérico,service,service,,,0
+P0021,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0187,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0146,Cambio de aceite,Genérico,service,service,,,0
+P0159,Mantenimiento programado,Genérico,service,service,,,0
+P0287,Cambio de aceite,Genérico,service,service,,,0
+P0048,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0175,Batería,Genérico,repuesto,repuesto,,,0
+P0052,Service general,Genérico,service,service,,,0
+P0228,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0241,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0071,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0028,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0164,Cambio de aceite,Genérico,service,service,,,0
+P0072,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0132,Mantenimiento programado,Genérico,service,service,,,0
+P0148,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0150,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0269,Batería,Genérico,repuesto,repuesto,,,0
+P0284,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0130,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0298,Service general,Genérico,service,service,,,0
+P0019,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0159,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0098,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0140,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0174,Service general,Genérico,service,service,,,0
+P0218,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0041,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0141,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0082,Service general,Genérico,service,service,,,0
+P0065,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0017,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0014,Cambio de aceite,Genérico,service,service,,,0
+P0229,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0232,Batería,Genérico,repuesto,repuesto,,,0
+P0178,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0186,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0038,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0094,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0146,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0156,Service general,Genérico,service,service,,,0
+P0088,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0042,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0255,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0153,Batería,Genérico,repuesto,repuesto,,,0
+P0105,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0205,Cambio de aceite,Genérico,service,service,,,0
+P0137,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0215,Mantenimiento programado,Genérico,service,service,,,0
+P0082,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0254,Mantenimiento programado,Genérico,service,service,,,0
+P0069,Service general,Genérico,service,service,,,0
+P0288,Batería,Genérico,repuesto,repuesto,,,0
+P0144,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0024,Service general,Genérico,service,service,,,0
+P0264,Batería,Genérico,repuesto,repuesto,,,0
+P0173,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0243,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0076,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0161,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0032,Service general,Genérico,service,service,,,0
+P0270,Batería,Genérico,repuesto,repuesto,,,0
+P0280,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0116,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0287,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0203,Cambio de aceite,Genérico,service,service,,,0
+P0178,Service general,Genérico,service,service,,,0
+P0125,Mantenimiento programado,Genérico,service,service,,,0
+P0052,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0209,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0046,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0214,Batería,Genérico,repuesto,repuesto,,,0
+P0096,Mantenimiento programado,Genérico,service,service,,,0
+P0219,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0245,Service general,Genérico,service,service,,,0
+P0169,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0061,Service general,Genérico,service,service,,,0
+P0106,Cambio de aceite,Genérico,service,service,,,0
+P0012,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0024,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0192,Service general,Genérico,service,service,,,0
+P0069,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0115,Service general,Genérico,service,service,,,0
+P0218,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0142,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0124,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0126,Mantenimiento programado,Genérico,service,service,,,0
+P0072,Service general,Genérico,service,service,,,0
+P0114,Service general,Genérico,service,service,,,0
+P0219,Service general,Genérico,service,service,,,0
+P0269,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0243,Service general,Genérico,service,service,,,0
+P0030,Service general,Genérico,service,service,,,0
+P0048,Cambio de aceite,Genérico,service,service,,,0
+P0021,Mantenimiento programado,Genérico,service,service,,,0
+P0109,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0158,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0164,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0075,Mantenimiento programado,Genérico,service,service,,,0
+P0079,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0282,Mantenimiento programado,Genérico,service,service,,,0
+P0236,Service general,Genérico,service,service,,,0
+P0278,Mantenimiento programado,Genérico,service,service,,,0
+P0234,Cambio de aceite,Genérico,service,service,,,0
+P0009,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0147,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0269,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0137,Mantenimiento programado,Genérico,service,service,,,0
+P0194,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0256,Mantenimiento programado,Genérico,service,service,,,0
+P0279,Mantenimiento programado,Genérico,service,service,,,0
+P0074,Mantenimiento programado,Genérico,service,service,,,0
+P0291,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0257,Mantenimiento programado,Genérico,service,service,,,0
+P0175,Cambio de aceite,Genérico,service,service,,,0
+P0231,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0300,Cambio de aceite,Genérico,service,service,,,0
+P0200,Mantenimiento programado,Genérico,service,service,,,0
+P0185,Cambio de aceite,Genérico,service,service,,,0
+P0285,Service general,Genérico,service,service,,,0
+P0167,Service general,Genérico,service,service,,,0
+P0253,Batería,Genérico,repuesto,repuesto,,,0
+P0040,Cambio de aceite,Genérico,service,service,,,0
+P0101,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0070,Service general,Genérico,service,service,,,0
+P0167,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0103,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0108,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0256,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0194,Service general,Genérico,service,service,,,0
+P0260,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0056,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0170,Mantenimiento programado,Genérico,service,service,,,0
+P0286,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0044,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0267,Mantenimiento programado,Genérico,service,service,,,0
+P0023,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0125,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0119,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0235,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0199,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0217,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0043,Service general,Genérico,service,service,,,0
+P0276,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0153,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0220,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0142,Service general,Genérico,service,service,,,0
+P0127,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0184,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0138,Mantenimiento programado,Genérico,service,service,,,0
+P0176,Service general,Genérico,service,service,,,0
+P0226,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0085,Cambio de aceite,Genérico,service,service,,,0
+P0049,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0005,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0037,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0189,Service general,Genérico,service,service,,,0
+P0064,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0127,Service general,Genérico,service,service,,,0
+P0266,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0254,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0007,Service general,Genérico,service,service,,,0
+P0188,Cambio de aceite,Genérico,service,service,,,0
+P0135,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0257,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0123,Batería,Genérico,repuesto,repuesto,,,0
+P0029,Cambio de aceite,Genérico,service,service,,,0
+P0084,Mantenimiento programado,Genérico,service,service,,,0
+P0138,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0185,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0053,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0284,Mantenimiento programado,Genérico,service,service,,,0
+P0139,Mantenimiento programado,Genérico,service,service,,,0
+P0156,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0280,Batería,Genérico,repuesto,repuesto,,,0
+P0178,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0158,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0073,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0212,Cambio de aceite,Genérico,service,service,,,0
+P0202,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0134,Service general,Genérico,service,service,,,0
+P0120,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0055,Cambio de aceite,Genérico,service,service,,,0
+P0063,Service general,Genérico,service,service,,,0
+P0191,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0063,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0141,Batería,Genérico,repuesto,repuesto,,,0
+P0152,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0197,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0091,Service general,Genérico,service,service,,,0
+P0015,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0253,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0091,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0057,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0052,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0250,Service general,Genérico,service,service,,,0
+P0017,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0054,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0086,Cambio de aceite,Genérico,service,service,,,0
+P0229,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0056,Cambio de aceite,Genérico,service,service,,,0
+P0212,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0151,Mantenimiento programado,Genérico,service,service,,,0
+P0193,Cambio de aceite,Genérico,service,service,,,0
+P0016,Batería,Genérico,repuesto,repuesto,,,0
+P0106,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0079,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0246,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0243,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0047,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0229,Cambio de aceite,Genérico,service,service,,,0
+P0278,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0244,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0104,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0268,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0197,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0074,Batería,Genérico,repuesto,repuesto,,,0
+P0244,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0051,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0249,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0015,Cambio de aceite,Genérico,service,service,,,0
+P0238,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0243,Batería,Genérico,repuesto,repuesto,,,0
+P0097,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0207,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0133,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0098,Cambio de aceite,Genérico,service,service,,,0
+P0260,Batería,Genérico,repuesto,repuesto,,,0
+P0242,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0191,Service general,Genérico,service,service,,,0
+P0298,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0108,Mantenimiento programado,Genérico,service,service,,,0
+P0207,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0008,Service general,Genérico,service,service,,,0
+P0116,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0267,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0251,Service general,Genérico,service,service,,,0
+P0010,Cambio de aceite,Genérico,service,service,,,0
+P0131,Cambio de aceite,Genérico,service,service,,,0
+P0025,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0215,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0103,Mantenimiento programado,Genérico,service,service,,,0
+P0281,Service general,Genérico,service,service,,,0
+P0184,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0094,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0054,Cambio de aceite,Genérico,service,service,,,0
+P0248,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0161,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0268,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0198,Service general,Genérico,service,service,,,0
+P0254,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0026,Batería,Genérico,repuesto,repuesto,,,0
+P0236,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0002,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0192,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0055,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0091,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0165,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0141,Mantenimiento programado,Genérico,service,service,,,0
+P0212,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0092,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0055,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0105,Mantenimiento programado,Genérico,service,service,,,0
+P0283,Service general,Genérico,service,service,,,0
+P0264,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0083,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0021,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0252,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0095,Service general,Genérico,service,service,,,0
+P0048,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0264,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0050,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0054,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0020,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0295,Mantenimiento programado,Genérico,service,service,,,0
+P0162,Mantenimiento programado,Genérico,service,service,,,0
+P0300,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0045,Cambio de aceite,Genérico,service,service,,,0
+P0081,Service general,Genérico,service,service,,,0
+P0152,Mantenimiento programado,Genérico,service,service,,,0
+P0006,Mantenimiento programado,Genérico,service,service,,,0
+P0276,Mantenimiento programado,Genérico,service,service,,,0
+P0100,Service general,Genérico,service,service,,,0
+P0157,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0069,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0250,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0188,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0119,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0090,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0265,Cambio de aceite,Genérico,service,service,,,0
+P0177,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0226,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0233,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0104,Cambio de aceite,Genérico,service,service,,,0
+P0020,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0277,Cambio de aceite,Genérico,service,service,,,0
+P0118,Batería,Genérico,repuesto,repuesto,,,0
+P0210,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0283,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0158,Cambio de aceite,Genérico,service,service,,,0
+P0020,Mantenimiento programado,Genérico,service,service,,,0
+P0147,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0225,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0081,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0266,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0299,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0233,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0174,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0265,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0206,Mantenimiento programado,Genérico,service,service,,,0
+P0177,Service general,Genérico,service,service,,,0
+P0075,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0041,Cambio de aceite,Genérico,service,service,,,0
+P0212,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0041,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0065,Cambio de aceite,Genérico,service,service,,,0
+P0234,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0247,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0134,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0177,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0192,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0200,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0149,Cambio de aceite,Genérico,service,service,,,0
+P0010,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0145,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0008,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0196,Cambio de aceite,Genérico,service,service,,,0
+P0127,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0107,Cambio de aceite,Genérico,service,service,,,0
+P0282,Batería,Genérico,repuesto,repuesto,,,0
+P0008,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0225,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0129,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0098,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0187,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0199,Mantenimiento programado,Genérico,service,service,,,0
+P0114,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0240,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0156,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0273,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0250,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0214,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0028,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0205,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0028,Service general,Genérico,service,service,,,0
+P0057,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0193,Batería,Genérico,repuesto,repuesto,,,0
+P0261,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0046,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0021,Batería,Genérico,repuesto,repuesto,,,0
+P0144,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0169,Cambio de aceite,Genérico,service,service,,,0
+P0071,Mantenimiento programado,Genérico,service,service,,,0
+P0290,Service general,Genérico,service,service,,,0
+P0227,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0014,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0114,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0126,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0026,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0237,Service general,Genérico,service,service,,,0
+P0073,Mantenimiento programado,Genérico,service,service,,,0
+P0280,Service general,Genérico,service,service,,,0
+P0262,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0172,Service general,Genérico,service,service,,,0
+P0068,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0279,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0286,Batería,Genérico,repuesto,repuesto,,,0
+P0092,Service general,Genérico,service,service,,,0
+P0189,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0063,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0067,Cambio de aceite,Genérico,service,service,,,0
+P0061,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0035,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0246,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0172,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0290,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0182,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0274,Mantenimiento programado,Genérico,service,service,,,0
+P0168,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0106,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0160,Service general,Genérico,service,service,,,0
+P0278,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0045,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0183,Service general,Genérico,service,service,,,0
+P0167,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0237,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0208,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0273,Cambio de aceite,Genérico,service,service,,,0
+P0223,Mantenimiento programado,Genérico,service,service,,,0
+P0200,Batería,Genérico,repuesto,repuesto,,,0
+P0234,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0043,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0141,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0271,Cambio de aceite,Genérico,service,service,,,0
+P0254,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0120,Cambio de aceite,Genérico,service,service,,,0
+P0173,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0129,Batería,Genérico,repuesto,repuesto,,,0
+P0112,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0240,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0132,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0031,Service general,Genérico,service,service,,,0
+P0202,Cambio de aceite,Genérico,service,service,,,0
+P0277,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0277,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0088,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0113,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0089,Cambio de aceite,Genérico,service,service,,,0
+P0179,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0058,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0146,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0249,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0057,Cambio de aceite,Genérico,service,service,,,0
+P0111,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0144,Mantenimiento programado,Genérico,service,service,,,0
+P0127,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0043,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0293,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0095,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0027,Batería,Genérico,repuesto,repuesto,,,0
+P0090,Mantenimiento programado,Genérico,service,service,,,0
+P0045,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0056,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0117,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0181,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0083,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0134,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0164,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0076,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0288,Mantenimiento programado,Genérico,service,service,,,0
+P0034,Service general,Genérico,service,service,,,0
+P0213,Mantenimiento programado,Genérico,service,service,,,0
+P0149,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0253,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0154,Mantenimiento programado,Genérico,service,service,,,0
+P0186,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0155,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0273,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0009,Service general,Genérico,service,service,,,0
+P0268,Service general,Genérico,service,service,,,0
+P0117,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0031,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0050,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0124,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0003,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0188,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0244,Mantenimiento programado,Genérico,service,service,,,0
+P0207,Mantenimiento programado,Genérico,service,service,,,0
+P0035,Batería,Genérico,repuesto,repuesto,,,0
+P0079,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0104,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0193,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0085,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0181,Service general,Genérico,service,service,,,0
+P0179,Mantenimiento programado,Genérico,service,service,,,0
+P0291,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0163,Mantenimiento programado,Genérico,service,service,,,0
+P0222,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0296,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0223,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0224,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0143,Service general,Genérico,service,service,,,0
+P0204,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0169,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0244,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0159,Batería,Genérico,repuesto,repuesto,,,0
+P0227,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0168,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0128,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0232,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0145,Cambio de aceite,Genérico,service,service,,,0
+P0220,Service general,Genérico,service,service,,,0
+P0240,Batería,Genérico,repuesto,repuesto,,,0
+P0060,Service general,Genérico,service,service,,,0
+P0265,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0078,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0019,Cambio de aceite,Genérico,service,service,,,0
+P0058,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0166,Cambio de aceite,Genérico,service,service,,,0
+P0068,Cambio de aceite,Genérico,service,service,,,0
+P0199,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0096,Batería,Genérico,repuesto,repuesto,,,0
+P0077,Service general,Genérico,service,service,,,0
+P0025,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0236,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0065,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0086,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0300,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0171,Mantenimiento programado,Genérico,service,service,,,0
+P0250,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0230,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0055,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0186,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0267,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0161,Cambio de aceite,Genérico,service,service,,,0
+P0230,Cambio de aceite,Genérico,service,service,,,0
+P0099,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0256,Batería,Genérico,repuesto,repuesto,,,0
+P0271,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0061,Batería,Genérico,repuesto,repuesto,,,0
+P0179,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0259,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0093,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0013,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0133,Cambio de aceite,Genérico,service,service,,,0
+P0001,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0180,Service general,Genérico,service,service,,,0
+P0289,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0165,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0285,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0108,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0292,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0130,Mantenimiento programado,Genérico,service,service,,,0
+P0166,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0186,Mantenimiento programado,Genérico,service,service,,,0
+P0013,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0246,Service general,Genérico,service,service,,,0
+P0007,Batería,Genérico,repuesto,repuesto,,,0
+P0239,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0024,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0251,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0092,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0274,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0006,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0067,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0169,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0140,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0011,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0276,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0080,Service general,Genérico,service,service,,,0
+P0252,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0076,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0204,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0130,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0194,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0299,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0183,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0014,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0120,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0240,Mantenimiento programado,Genérico,service,service,,,0
+P0083,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0070,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0113,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0201,Mantenimiento programado,Genérico,service,service,,,0
+P0124,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0046,Mantenimiento programado,Genérico,service,service,,,0
+P0062,Cambio de aceite,Genérico,service,service,,,0
+P0128,Mantenimiento programado,Genérico,service,service,,,0
+P0209,Cambio de aceite,Genérico,service,service,,,0
+P0283,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0022,Service general,Genérico,service,service,,,0
+P0116,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0153,Mantenimiento programado,Genérico,service,service,,,0
+P0052,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0211,Service general,Genérico,service,service,,,0
+P0192,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0137,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0257,Batería,Genérico,repuesto,repuesto,,,0
+P0220,Batería,Genérico,repuesto,repuesto,,,0
+P0118,Service general,Genérico,service,service,,,0
+P0287,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0035,Mantenimiento programado,Genérico,service,service,,,0
+P0152,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0027,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0097,Cambio de aceite,Genérico,service,service,,,0
+P0115,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0218,Cambio de aceite,Genérico,service,service,,,0
+P0002,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0040,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0147,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0258,Mantenimiento programado,Genérico,service,service,,,0
+P0217,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0292,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0183,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0291,Service general,Genérico,service,service,,,0
+P0239,Cambio de aceite,Genérico,service,service,,,0
+P0222,Cambio de aceite,Genérico,service,service,,,0
+P0241,Mantenimiento programado,Genérico,service,service,,,0
+P0085,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0224,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0102,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0209,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0256,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0009,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0266,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0017,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0016,Cambio de aceite,Genérico,service,service,,,0
+P0129,Mantenimiento programado,Genérico,service,service,,,0
+P0197,Service general,Genérico,service,service,,,0
+P0003,Service general,Genérico,service,service,,,0
+P0054,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0104,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0232,Cambio de aceite,Genérico,service,service,,,0
+P0190,Batería,Genérico,repuesto,repuesto,,,0
+P0170,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0289,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0129,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0239,Batería,Genérico,repuesto,repuesto,,,0
+P0290,Batería,Genérico,repuesto,repuesto,,,0
+P0032,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0121,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0222,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0214,Service general,Genérico,service,service,,,0
+P0006,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0072,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0119,Service general,Genérico,service,service,,,0
+P0016,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0039,Service general,Genérico,service,service,,,0
+P0030,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0260,Service general,Genérico,service,service,,,0
+P0011,Mantenimiento programado,Genérico,service,service,,,0
+P0221,Service general,Genérico,service,service,,,0
+P0181,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0139,Batería,Genérico,repuesto,repuesto,,,0
+P0111,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0007,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0040,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0013,Mantenimiento programado,Genérico,service,service,,,0
+P0298,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0077,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0281,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0215,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0066,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0087,Service general,Genérico,service,service,,,0
+P0286,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0110,Mantenimiento programado,Genérico,service,service,,,0
+P0060,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0206,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0248,Cambio de aceite,Genérico,service,service,,,0
+P0139,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0101,Service general,Genérico,service,service,,,0
+P0242,Cambio de aceite,Genérico,service,service,,,0
+P0034,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0107,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0018,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0047,Mantenimiento programado,Genérico,service,service,,,0
+P0265,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0058,Service general,Genérico,service,service,,,0
+P0285,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0282,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0115,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0126,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0267,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0252,Cambio de aceite,Genérico,service,service,,,0
+P0300,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0001,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0261,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0225,Service general,Genérico,service,service,,,0
+P0161,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0168,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0107,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0182,Service general,Genérico,service,service,,,0
+P0163,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0165,Cambio de aceite,Genérico,service,service,,,0
+P0086,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0150,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0295,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0216,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0015,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0166,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0182,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0126,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0099,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0121,Batería,Genérico,repuesto,repuesto,,,0
+P0033,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0033,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0176,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0160,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0051,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0150,Service general,Genérico,service,service,,,0
+P0206,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0062,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0110,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0091,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0135,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0209,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0099,Mantenimiento programado,Genérico,service,service,,,0
+P0272,Mantenimiento programado,Genérico,service,service,,,0
+P0096,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0004,Batería,Genérico,repuesto,repuesto,,,0
+P0295,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0004,Service general,Genérico,service,service,,,0
+P0167,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0198,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0143,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0010,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0097,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0255,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0117,Mantenimiento programado,Genérico,service,service,,,0
+P0246,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0262,Cambio de aceite,Genérico,service,service,,,0
+P0103,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0228,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0018,Service general,Genérico,service,service,,,0
+P0191,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0131,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0036,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0068,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0245,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0238,Batería,Genérico,repuesto,repuesto,,,0
+P0263,Mantenimiento programado,Genérico,service,service,,,0
+P0275,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0118,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0047,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0121,Cambio de aceite,Genérico,service,service,,,0
+P0057,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0112,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0084,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0012,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0285,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0051,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0155,Cambio de aceite,Genérico,service,service,,,0
+P0201,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0076,Service general,Genérico,service,service,,,0
+P0223,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0255,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0087,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0062,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0136,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0130,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0211,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0143,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0159,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0221,Batería,Genérico,repuesto,repuesto,,,0
+P0100,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0016,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0136,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0235,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0039,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0038,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0263,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0266,Service general,Genérico,service,service,,,0
+P0263,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0224,Service general,Genérico,service,service,,,0
+P0101,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0202,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0201,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0062,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0089,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0252,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0270,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0262,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0293,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0264,Mantenimiento programado,Genérico,service,service,,,0
+P0179,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0247,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0208,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0294,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0277,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0034,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0023,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0061,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0072,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0038,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0131,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0100,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0172,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0095,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0017,Service general,Genérico,service,service,,,0
+P0288,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0087,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0110,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0237,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0066,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0075,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0157,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0172,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0219,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0025,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0295,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0156,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0098,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0168,Mantenimiento programado,Genérico,service,service,,,0
+P0190,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0207,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0105,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0122,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0070,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0100,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0231,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0056,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0275,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0110,Batería,Genérico,repuesto,repuesto,,,0
+P0046,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0047,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0049,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0059,Cambio de aceite,Genérico,service,service,,,0
+P0115,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0178,Batería,Genérico,repuesto,repuesto,,,0
+P0081,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0187,Service general,Genérico,service,service,,,0
+P0075,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0211,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0297,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0034,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0030,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0298,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0241,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0012,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0123,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0153,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0069,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0131,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0299,Service general,Genérico,service,service,,,0
+P0053,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0238,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0216,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0162,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0287,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0148,Cambio de aceite,Genérico,service,service,,,0
+P0138,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0138,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0203,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0029,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0019,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0206,Pastillas de freno,Genérico,repuesto,repuesto,,,0
+P0160,Batería,Genérico,repuesto,repuesto,,,0
+P0031,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0074,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0114,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0175,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0165,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0258,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0291,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0043,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0073,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0132,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0019,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0064,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0203,Amortiguadores,Genérico,repuesto,repuesto,,,0
+P0082,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0106,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0151,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0154,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0198,Batería,Genérico,repuesto,repuesto,,,0
+P0137,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0196,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0128,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0223,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0031,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0089,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0024,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0210,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0228,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0073,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0066,Mantenimiento programado,Genérico,service,service,,,0
+P0150,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0248,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0214,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0065,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0050,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0071,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0200,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0118,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0180,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0263,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0283,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0093,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0205,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0140,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0039,Filtro de aceite,Genérico,repuesto,repuesto,,,0
+P0290,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0226,Service general,Genérico,service,service,,,0
+P0015,Discos de freno,Genérico,repuesto,repuesto,,,0
+P0199,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0187,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0194,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0005,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0221,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0068,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0218,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0042,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0221,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0123,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0260,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0182,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0039,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0236,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0011,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0171,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0213,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0241,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0032,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0008,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0026,Cambio de aceite,Genérico,service,service,,,0
+P0282,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0122,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0163,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0060,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0070,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0093,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0081,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0222,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0271,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0009,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0190,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0257,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0003,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0041,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0020,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0197,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0080,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0235,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0105,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0180,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0259,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0181,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0271,Reparación eléctrica,Genérico,reparacion,reparacion,,,0
+P0026,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0132,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0067,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0247,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0033,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0202,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0158,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0191,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0154,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0174,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0274,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0044,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0280,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0220,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0163,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0001,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0007,Mecánica general,Genérico,reparacion,reparacion,,,0
+P0040,Tren delantero,Genérico,reparacion,reparacion,,,0
+P0145,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0242,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0258,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0018,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0211,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0111,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0155,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0231,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0229,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0232,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0281,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0173,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0198,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0201,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0078,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0146,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0268,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0063,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0239,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0002,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0005,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0245,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0289,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0210,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0082,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0010,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0077,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0294,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0149,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0023,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0058,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0203,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0262,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0215,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0090,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0128,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0027,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0109,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0183,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0261,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0135,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0227,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0084,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0096,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0148,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0185,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0251,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0278,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0144,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0249,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0176,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0213,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0086,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0217,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0088,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0095,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0193,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0164,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0080,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0284,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0102,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0292,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0117,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0189,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0030,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0107,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0099,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0170,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0037,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0049,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0074,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0059,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0296,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0092,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0119,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0162,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0133,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0230,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0029,Chevrolet Tracker,Chevrolet,auto,SUV,nafta,mid_range,1
+P0097,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0087,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0233,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0152,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0142,Volkswagen Amarok,Volkswagen,auto,pickup,diesel,premium,1
+P0048,Renault Kangoo,Renault,auto,utilitario,nafta,economy,1
+P0195,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0108,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0022,Toyota Corolla Cross,Toyota,auto,SUV,hibrido,mid_range,1
+P0089,Fiat Cronos,Fiat,auto,sedan,nafta,economy,1
+P0188,Nissan Frontier,Nissan,auto,pickup,diesel,mid_range,1
+P0094,Ford Ranger,Ford,auto,pickup,diesel,mid_range,1
+P0225,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0184,Toyota Yaris,Toyota,auto,hatchback,nafta,economy,1
+P0272,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1
+P0279,Toyota Hilux,Toyota,auto,pickup,diesel,mid_range,1
+P0121,Peugeot 208,Peugeot,auto,hatchback,nafta,economy,1

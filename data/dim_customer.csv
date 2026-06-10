@@ -1,0 +1,5001 @@
+customer_id,customer_since,location,customer_type
+C01144,2025-10-05,Morón,individual
+C01906,2024-05-27,Merlo,individual
+C03680,2020-10-06,CABA,individual
+C02758,2025-06-02,Tres de Febrero,individual
+C02167,2022-09-07,Tres de Febrero,individual
+C02963,2025-01-31,Quilmes,individual
+C00654,2021-08-08,Ramos Mejía,individual
+C01333,2024-06-14,La Matanza,individual
+C01402,2023-05-28,CABA,individual
+C04563,2025-06-21,CABA,individual
+C00263,2024-12-28,Ituzaingó,individual
+C02578,2023-01-05,Lanús,individual
+C01171,2024-05-04,Lanús,individual
+C03510,2024-04-02,Morón,individual
+C00745,2021-02-27,Ramos Mejía,individual
+C03153,2020-01-04,CABA,individual
+C00939,2023-02-03,CABA,individual
+C00027,2020-04-24,Lanús,empresa
+C04159,2024-04-23,Lomas de Zamora,individual
+C04907,2021-06-22,Lanús,individual
+C02520,2022-01-06,Quilmes,individual
+C03982,2021-11-15,Quilmes,individual
+C01353,2021-03-15,Avellaneda,empresa
+C01648,2020-08-19,Tres de Febrero,individual
+C02031,2023-09-19,Avellaneda,individual
+C01805,2022-07-31,Merlo,individual
+C02707,2020-07-14,Ramos Mejía,individual
+C01084,2022-09-19,Lanús,individual
+C01560,2023-07-15,San Justo,individual
+C00444,2022-01-24,CABA,individual
+C04394,2021-02-11,Lanús,individual
+C00618,2023-12-16,CABA,empresa
+C00765,2022-04-09,Ituzaingó,individual
+C01349,2024-05-14,CABA,empresa
+C02337,2023-09-06,Merlo,individual
+C00480,2023-12-13,Ramos Mejía,individual
+C04120,2021-05-08,Tres de Febrero,empresa
+C00562,2021-05-18,Ituzaingó,empresa
+C02017,2022-09-04,Avellaneda,individual
+C02592,2020-05-26,Avellaneda,individual
+C02458,2025-04-24,Ramos Mejía,empresa
+C00601,2022-03-04,Quilmes,individual
+C02002,2025-05-19,CABA,individual
+C04334,2025-12-23,Lomas de Zamora,empresa
+C01101,2025-07-18,Lomas de Zamora,empresa
+C01726,2022-09-10,Tres de Febrero,empresa
+C03470,2023-08-03,Lomas de Zamora,individual
+C02146,2023-07-18,Tres de Febrero,individual
+C00617,2021-05-30,Lanús,empresa
+C03521,2020-08-27,La Matanza,empresa
+C00327,2022-08-11,Ramos Mejía,individual
+C03330,2022-11-15,Lanús,individual
+C03378,2022-06-07,Ituzaingó,individual
+C00886,2025-12-14,San Justo,individual
+C02865,2025-09-02,CABA,individual
+C02283,2023-11-26,La Matanza,individual
+C00227,2024-06-17,Merlo,individual
+C03560,2020-02-16,Morón,individual
+C03156,2022-08-23,Lomas de Zamora,individual
+C04411,2021-03-22,Quilmes,individual
+C02572,2021-06-24,San Justo,individual
+C02423,2023-10-26,CABA,individual
+C01426,2023-11-30,La Matanza,individual
+C03522,2025-03-02,Merlo,individual
+C01391,2021-04-13,Avellaneda,individual
+C02543,2022-02-25,Lomas de Zamora,individual
+C00597,2020-07-17,Tres de Febrero,individual
+C01209,2022-01-23,Morón,individual
+C04244,2025-03-06,Avellaneda,individual
+C03807,2024-01-31,Ramos Mejía,empresa
+C04136,2022-09-08,Avellaneda,individual
+C03687,2025-12-22,Tres de Febrero,empresa
+C02250,2021-08-11,Morón,individual
+C04425,2024-05-24,Merlo,individual
+C01753,2021-01-08,Quilmes,empresa
+C01695,2022-12-22,Morón,individual
+C03908,2023-04-27,Ramos Mejía,empresa
+C04474,2022-12-26,Ramos Mejía,individual
+C02754,2021-03-17,Avellaneda,individual
+C04376,2023-12-06,Merlo,individual
+C03783,2023-11-20,Lomas de Zamora,individual
+C02765,2024-04-25,Morón,individual
+C04419,2023-05-02,Tres de Febrero,individual
+C02026,2024-11-02,Ituzaingó,individual
+C04621,2021-11-16,Merlo,individual
+C03075,2025-01-03,Avellaneda,individual
+C01990,2025-03-13,Tres de Febrero,individual
+C04637,2022-12-06,Tres de Febrero,individual
+C00104,2025-07-07,Morón,empresa
+C03767,2020-01-23,La Matanza,individual
+C04409,2020-10-11,Ramos Mejía,individual
+C02012,2024-05-06,La Matanza,individual
+C03105,2022-09-17,La Matanza,individual
+C02907,2020-02-14,Tres de Febrero,individual
+C04554,2025-06-03,CABA,individual
+C04549,2024-10-10,Ramos Mejía,individual
+C00763,2024-01-17,Tres de Febrero,individual
+C04535,2020-04-01,Quilmes,individual
+C03718,2023-01-05,La Matanza,individual
+C00980,2020-07-03,CABA,individual
+C04830,2021-12-15,CABA,individual
+C01864,2022-08-09,Lomas de Zamora,individual
+C00373,2021-06-06,Morón,individual
+C00101,2024-11-30,Ituzaingó,individual
+C02069,2023-10-02,Tres de Febrero,individual
+C00440,2020-05-24,Lomas de Zamora,individual
+C03410,2024-03-26,Lomas de Zamora,individual
+C03513,2023-08-17,Tres de Febrero,individual
+C01703,2023-06-26,CABA,individual
+C01283,2025-12-29,Ituzaingó,individual
+C02361,2025-09-07,Lanús,individual
+C04832,2022-10-25,Ituzaingó,individual
+C01166,2025-01-28,Avellaneda,empresa
+C03598,2025-10-24,Avellaneda,individual
+C03587,2023-10-16,Ituzaingó,individual
+C02052,2023-02-02,Lomas de Zamora,individual
+C04810,2021-05-27,Ituzaingó,individual
+C03623,2022-05-20,La Matanza,individual
+C03346,2021-06-11,Ramos Mejía,individual
+C04059,2024-04-22,Lanús,individual
+C00722,2025-02-18,Lomas de Zamora,empresa
+C04216,2023-09-26,Ituzaingó,empresa
+C04084,2025-08-05,Morón,individual
+C03590,2022-02-20,Avellaneda,individual
+C01298,2023-04-18,Avellaneda,individual
+C00930,2023-04-23,Merlo,individual
+C02240,2021-05-08,CABA,individual
+C01562,2022-11-03,San Justo,individual
+C03400,2022-09-03,CABA,individual
+C04809,2021-12-15,Ituzaingó,individual
+C02828,2024-07-02,La Matanza,individual
+C01957,2023-06-23,Ituzaingó,individual
+C03875,2024-08-30,Merlo,individual
+C04835,2020-01-25,Avellaneda,individual
+C01181,2024-12-07,Ituzaingó,individual
+C02774,2022-03-30,Lanús,individual
+C04372,2020-02-18,Morón,individual
+C01924,2021-11-03,Tres de Febrero,individual
+C00824,2025-03-26,Quilmes,empresa
+C00460,2023-07-10,Tres de Febrero,individual
+C01973,2021-09-26,San Justo,empresa
+C02092,2021-02-11,Lanús,individual
+C02831,2021-10-07,Lomas de Zamora,individual
+C03152,2021-09-19,Lomas de Zamora,individual
+C02419,2021-07-11,Lomas de Zamora,individual
+C00402,2024-11-14,Ramos Mejía,individual
+C02054,2023-10-21,Ituzaingó,individual
+C03612,2021-10-28,San Justo,individual
+C03404,2024-12-08,Ramos Mejía,individual
+C02233,2021-11-22,Merlo,individual
+C02775,2024-03-31,Avellaneda,empresa
+C03256,2023-11-30,Ramos Mejía,individual
+C03726,2021-10-05,Lomas de Zamora,individual
+C01916,2021-01-14,Quilmes,individual
+C03804,2025-03-31,Avellaneda,individual
+C02494,2025-03-06,Lomas de Zamora,individual
+C03717,2024-06-30,Quilmes,individual
+C00812,2024-07-31,Ituzaingó,individual
+C03036,2023-11-07,San Justo,individual
+C03010,2020-12-11,Ramos Mejía,individual
+C01001,2021-10-02,Lomas de Zamora,individual
+C02733,2021-04-13,CABA,individual
+C04804,2020-01-21,La Matanza,individual
+C01186,2022-03-17,Avellaneda,individual
+C02935,2020-03-15,CABA,individual
+C03449,2025-01-07,Lanús,individual
+C03703,2025-12-16,Morón,individual
+C00256,2021-10-06,La Matanza,individual
+C03634,2022-01-28,Quilmes,individual
+C04796,2022-03-04,La Matanza,individual
+C04517,2025-10-20,San Justo,individual
+C03716,2022-04-12,Ramos Mejía,individual
+C03067,2023-02-16,Avellaneda,individual
+C03538,2020-06-22,CABA,individual
+C04601,2020-07-13,Morón,individual
+C03465,2023-11-10,Avellaneda,individual
+C01268,2020-09-28,CABA,empresa
+C04561,2025-12-23,Ituzaingó,empresa
+C02532,2024-01-21,Ramos Mejía,individual
+C03284,2021-09-07,San Justo,individual
+C03440,2022-02-20,CABA,individual
+C04650,2020-12-24,La Matanza,individual
+C00669,2022-10-03,Quilmes,empresa
+C04198,2023-05-01,CABA,empresa
+C03987,2024-03-11,Ramos Mejía,individual
+C00449,2023-09-06,San Justo,individual
+C02094,2020-07-15,Quilmes,individual
+C03115,2021-06-25,Ituzaingó,empresa
+C00347,2022-06-12,Merlo,individual
+C04698,2023-01-24,Lanús,individual
+C02661,2022-01-04,Quilmes,individual
+C00868,2025-08-23,Ituzaingó,individual
+C01816,2023-08-09,Ramos Mejía,individual
+C02863,2022-07-15,Avellaneda,individual
+C01422,2020-08-13,Avellaneda,individual
+C03801,2025-02-02,San Justo,individual
+C02590,2020-01-24,Ramos Mejía,individual
+C04845,2020-06-19,Ituzaingó,individual
+C03021,2020-11-27,San Justo,empresa
+C04541,2024-04-08,Morón,individual
+C00507,2022-02-22,Merlo,individual
+C01414,2020-11-14,Avellaneda,individual
+C01301,2023-03-16,Lomas de Zamora,individual
+C04898,2020-12-26,Ituzaingó,individual
+C03167,2024-11-16,Tres de Febrero,individual
+C02866,2022-04-18,Merlo,individual
+C02537,2020-01-09,Lanús,individual
+C04313,2020-01-07,Quilmes,individual
+C01755,2022-05-07,La Matanza,individual
+C02424,2020-11-24,La Matanza,empresa
+C01264,2022-01-01,Lanús,individual
+C01946,2020-03-06,Ituzaingó,individual
+C02536,2025-04-12,CABA,individual
+C02309,2025-02-20,Quilmes,individual
+C04954,2022-09-08,Lanús,individual
+C04227,2025-03-19,Avellaneda,empresa
+C01208,2024-11-03,Morón,individual
+C03399,2023-01-01,San Justo,individual
+C00231,2023-07-20,Lanús,empresa
+C03871,2020-11-23,Merlo,individual
+C00156,2020-11-27,Morón,empresa
+C00911,2022-12-08,Tres de Febrero,empresa
+C03745,2025-02-21,Tres de Febrero,individual
+C01177,2020-01-14,San Justo,empresa
+C00702,2021-12-23,Morón,individual
+C03059,2023-03-23,Ituzaingó,individual
+C00850,2020-02-17,Quilmes,individual
+C01435,2024-06-12,Quilmes,empresa
+C03750,2023-07-17,Quilmes,empresa
+C02586,2021-01-12,Lomas de Zamora,individual
+C00300,2025-05-30,Quilmes,individual
+C02720,2024-09-03,La Matanza,individual
+C03168,2020-01-06,Tres de Febrero,empresa
+C00677,2023-04-16,Quilmes,empresa
+C00841,2025-05-16,Tres de Febrero,individual
+C01366,2022-09-08,Morón,individual
+C03564,2024-05-23,Ramos Mejía,empresa
+C04204,2025-01-01,Ramos Mejía,empresa
+C00286,2024-01-17,Avellaneda,individual
+C04647,2025-09-08,Merlo,individual
+C00630,2020-05-04,San Justo,individual
+C02133,2024-12-06,CABA,individual
+C00607,2021-02-03,Lanús,empresa
+C02619,2024-01-16,Lomas de Zamora,individual
+C01427,2021-12-22,Tres de Febrero,individual
+C01940,2024-09-17,Tres de Febrero,individual
+C04520,2020-04-21,Merlo,individual
+C03922,2024-09-30,Tres de Febrero,individual
+C02598,2022-06-09,Morón,individual
+C02492,2024-03-08,Merlo,individual
+C04251,2024-06-08,Quilmes,individual
+C01026,2024-11-06,Ituzaingó,individual
+C00233,2022-11-07,Morón,individual
+C00249,2023-08-26,Ituzaingó,individual
+C03327,2024-12-17,Avellaneda,individual
+C03805,2020-03-09,Lomas de Zamora,individual
+C02830,2023-08-12,La Matanza,individual
+C01004,2024-02-25,Avellaneda,individual
+C03147,2021-12-24,Morón,empresa
+C01556,2020-06-08,Morón,individual
+C03222,2022-05-19,Quilmes,individual
+C02305,2024-07-31,Tres de Febrero,empresa
+C03531,2025-07-15,CABA,individual
+C04672,2022-12-16,Ramos Mejía,individual
+C04505,2023-08-04,Lomas de Zamora,individual
+C02778,2025-03-01,Ituzaingó,individual
+C00330,2025-05-04,Morón,individual
+C04967,2021-11-19,Quilmes,individual
+C02452,2022-09-16,Lomas de Zamora,individual
+C03018,2020-06-07,Ramos Mejía,individual
+C00219,2023-02-11,La Matanza,individual
+C03613,2025-08-14,Lomas de Zamora,individual
+C03864,2021-07-13,Ituzaingó,individual
+C03919,2025-10-30,Morón,individual
+C02805,2020-02-14,Lomas de Zamora,individual
+C02446,2023-07-16,Lanús,individual
+C02858,2020-04-02,Avellaneda,individual
+C03111,2020-07-30,Morón,individual
+C00648,2020-05-25,Tres de Febrero,individual
+C02222,2021-11-23,Morón,individual
+C01961,2024-09-03,Lomas de Zamora,individual
+C03870,2025-11-14,Lanús,individual
+C01294,2025-04-15,San Justo,individual
+C00485,2021-06-05,Lanús,individual
+C01527,2020-10-27,Lanús,individual
+C02745,2025-07-09,Tres de Febrero,individual
+C03835,2021-03-16,La Matanza,empresa
+C02108,2024-09-20,Lanús,individual
+C03322,2025-07-17,Tres de Febrero,individual
+C01152,2021-05-15,San Justo,individual
+C02188,2024-08-09,Lanús,individual
+C00509,2022-12-09,Avellaneda,individual
+C02548,2022-04-15,Lanús,individual
+C01095,2024-07-10,San Justo,individual
+C04500,2022-05-10,Lanús,individual
+C00671,2023-12-14,Ituzaingó,individual
+C04487,2025-07-24,Ituzaingó,individual
+C00953,2022-10-07,Avellaneda,empresa
+C00456,2020-11-17,Merlo,individual
+C02525,2024-09-16,Tres de Febrero,individual
+C00599,2024-12-01,Lomas de Zamora,individual
+C00566,2021-10-27,Lomas de Zamora,individual
+C03444,2025-06-11,Lomas de Zamora,individual
+C04418,2020-05-13,San Justo,individual
+C01044,2024-11-20,CABA,individual
+C04461,2025-03-21,Merlo,individual
+C01271,2025-03-07,Merlo,individual
+C00129,2021-09-23,Morón,individual
+C00399,2023-02-19,Ituzaingó,individual
+C00463,2021-07-28,Ramos Mejía,individual
+C02613,2025-04-27,Quilmes,individual
+C04271,2025-06-22,Ituzaingó,individual
+C03123,2020-04-21,CABA,empresa
+C04407,2025-08-02,Ituzaingó,individual
+C03794,2021-08-26,CABA,individual
+C03182,2025-05-02,Ramos Mejía,individual
+C03040,2020-02-09,Quilmes,individual
+C04940,2025-02-02,Ramos Mejía,empresa
+C04579,2023-11-08,CABA,individual
+C00126,2022-12-12,San Justo,individual
+C01676,2020-05-06,CABA,individual
+C02944,2022-11-16,La Matanza,individual
+C03847,2021-08-29,Lanús,individual
+C01813,2020-05-15,La Matanza,individual
+C04091,2023-11-17,Merlo,individual
+C04019,2020-04-03,Ituzaingó,individual
+C01508,2022-12-13,Ituzaingó,individual
+C03379,2020-09-06,San Justo,individual
+C04143,2024-04-08,CABA,individual
+C03997,2022-09-10,San Justo,individual
+C04389,2024-10-20,Merlo,individual
+C00790,2022-04-04,Ramos Mejía,individual
+C02904,2021-07-20,Ituzaingó,individual
+C01993,2023-08-04,Tres de Febrero,individual
+C03107,2021-08-16,Tres de Febrero,individual
+C00678,2020-07-27,Ramos Mejía,individual
+C01883,2022-03-26,Ramos Mejía,individual
+C02297,2020-11-10,San Justo,individual
+C01698,2024-11-03,Ituzaingó,individual
+C01970,2022-10-29,San Justo,individual
+C00643,2023-07-29,Ituzaingó,individual
+C00623,2022-02-03,Quilmes,empresa
+C01522,2023-06-23,CABA,empresa
+C02019,2025-03-16,Quilmes,individual
+C03644,2020-07-08,La Matanza,individual
+C04584,2023-02-24,Morón,individual
+C02199,2022-06-17,Quilmes,individual
+C03967,2023-02-16,Tres de Febrero,individual
+C04865,2023-04-02,Tres de Febrero,individual
+C02722,2020-02-25,La Matanza,individual
+C04870,2021-07-20,Ramos Mejía,empresa
+C01456,2022-04-17,Lomas de Zamora,individual
+C01986,2024-04-09,Morón,individual
+C04620,2022-04-20,Lanús,individual
+C03782,2023-09-17,Tres de Febrero,individual
+C03352,2022-10-08,Lomas de Zamora,individual
+C03467,2024-04-27,Lanús,individual
+C04378,2024-12-04,Quilmes,individual
+C00697,2025-03-13,Avellaneda,individual
+C03274,2025-01-22,Ituzaingó,individual
+C04250,2025-10-19,Ituzaingó,individual
+C04822,2022-05-29,Morón,individual
+C03408,2023-03-24,San Justo,individual
+C02460,2025-08-31,Lomas de Zamora,individual
+C01347,2021-12-07,La Matanza,individual
+C03786,2022-10-15,Ituzaingó,empresa
+C00240,2023-05-11,Tres de Febrero,individual
+C02281,2021-10-12,Quilmes,individual
+C01615,2020-02-15,Quilmes,individual
+C02568,2024-08-18,Lanús,empresa
+C00959,2021-02-12,Tres de Febrero,individual
+C03144,2025-12-01,Ituzaingó,individual
+C04012,2023-01-10,Lomas de Zamora,individual
+C02942,2020-07-12,Tres de Febrero,individual
+C04141,2021-10-21,Ramos Mejía,individual
+C01371,2025-05-24,La Matanza,individual
+C01842,2023-10-16,San Justo,individual
+C00928,2025-03-24,Morón,individual
+C00341,2025-09-17,Lanús,individual
+C02028,2020-07-24,Avellaneda,individual
+C03597,2022-03-24,Tres de Febrero,individual
+C05000,2020-12-05,Morón,individual
+C04361,2020-05-07,Ituzaingó,individual
+C04692,2022-02-27,Quilmes,empresa
+C00486,2024-08-30,La Matanza,individual
+C02639,2025-09-27,San Justo,individual
+C03074,2021-07-07,Lomas de Zamora,individual
+C03024,2020-11-15,Morón,individual
+C03756,2023-08-21,San Justo,empresa
+C04053,2021-08-31,Tres de Febrero,individual
+C03976,2024-09-19,Ituzaingó,individual
+C01295,2022-09-22,San Justo,individual
+C01081,2020-12-14,La Matanza,individual
+C03047,2023-08-09,San Justo,individual
+C00748,2024-09-05,La Matanza,individual
+C03646,2024-10-05,Ramos Mejía,individual
+C03914,2021-12-07,Morón,individual
+C02567,2024-03-03,Tres de Febrero,empresa
+C01091,2022-09-08,Merlo,individual
+C01746,2023-04-06,Lomas de Zamora,individual
+C01147,2022-11-30,San Justo,individual
+C01146,2022-11-14,Merlo,individual
+C04978,2025-05-18,Ramos Mejía,individual
+C01684,2024-03-26,La Matanza,individual
+C04328,2021-02-11,CABA,individual
+C03448,2020-05-22,Quilmes,individual
+C00113,2022-05-20,Merlo,individual
+C02347,2023-02-20,Quilmes,individual
+C01251,2020-06-09,Ituzaingó,individual
+C01273,2022-08-10,Ituzaingó,individual
+C03584,2021-08-01,Merlo,individual
+C04988,2020-09-17,Ramos Mejía,individual
+C00093,2022-10-26,Merlo,individual
+C01040,2024-09-16,Ituzaingó,individual
+C02229,2021-11-18,Avellaneda,individual
+C04185,2021-02-01,San Justo,individual
+C02090,2024-07-08,Merlo,individual
+C00290,2022-09-12,San Justo,individual
+C02621,2022-05-16,Avellaneda,individual
+C01470,2024-10-03,Lomas de Zamora,individual
+C02313,2024-08-05,Ramos Mejía,individual
+C04619,2021-03-09,Lanús,individual
+C01601,2024-03-11,Lanús,empresa
+C04437,2025-10-30,Ituzaingó,individual
+C03083,2025-07-07,Lanús,individual
+C00491,2021-07-27,Avellaneda,individual
+C04258,2021-03-26,CABA,individual
+C01094,2022-01-19,San Justo,individual
+C02390,2020-07-25,Avellaneda,individual
+C02228,2022-08-02,Merlo,individual
+C01274,2023-08-22,CABA,individual
+C01701,2022-11-23,Avellaneda,individual
+C02493,2024-08-10,Lomas de Zamora,individual
+C02915,2024-12-19,Ramos Mejía,individual
+C03313,2021-11-10,Quilmes,individual
+C03282,2024-02-17,Lomas de Zamora,individual
+C00529,2025-07-13,Merlo,individual
+C02717,2023-05-09,Ramos Mejía,individual
+C03236,2021-08-18,Quilmes,individual
+C01534,2022-08-29,Ituzaingó,individual
+C02014,2024-06-25,Ituzaingó,individual
+C02292,2025-12-02,Merlo,individual
+C02042,2025-12-10,Tres de Febrero,individual
+C03971,2023-09-02,La Matanza,empresa
+C04892,2022-03-11,CABA,individual
+C02929,2021-09-10,Quilmes,individual
+C01424,2022-06-01,La Matanza,individual
+C04847,2021-09-13,Ituzaingó,individual
+C01543,2020-01-24,Merlo,individual
+C02792,2021-05-09,Morón,individual
+C01161,2021-10-02,Lanús,empresa
+C03241,2024-01-21,CABA,empresa
+C03579,2021-11-18,Merlo,individual
+C02924,2020-06-23,CABA,individual
+C04649,2025-04-22,Morón,individual
+C04633,2025-07-09,Lanús,individual
+C02618,2024-01-12,Quilmes,individual
+C02751,2022-11-07,Lomas de Zamora,individual
+C02103,2023-05-20,CABA,individual
+C01363,2023-05-06,Tres de Febrero,empresa
+C03928,2021-01-14,Ramos Mejía,individual
+C00274,2023-07-20,Lomas de Zamora,individual
+C01394,2023-04-17,Ituzaingó,individual
+C03955,2024-09-29,Quilmes,individual
+C02713,2021-08-15,Quilmes,individual
+C02307,2024-09-11,Lomas de Zamora,individual
+C04022,2022-10-02,Lomas de Zamora,individual
+C04917,2022-12-31,Ituzaingó,individual
+C00672,2020-07-10,Tres de Febrero,individual
+C02171,2022-02-10,Lomas de Zamora,individual
+C01529,2022-11-11,Merlo,individual
+C02201,2020-04-01,Lanús,empresa
+C02817,2024-01-20,La Matanza,individual
+C04387,2021-05-28,Lomas de Zamora,individual
+C00285,2022-05-31,Lomas de Zamora,empresa
+C01370,2021-11-09,Morón,individual
+C03567,2020-11-18,San Justo,individual
+C00549,2024-04-06,Avellaneda,individual
+C00102,2025-12-07,Lomas de Zamora,individual
+C04774,2021-05-17,Ituzaingó,individual
+C02164,2024-05-14,Ramos Mejía,empresa
+C03302,2022-10-24,Ituzaingó,individual
+C00404,2023-11-24,Lomas de Zamora,individual
+C04028,2022-07-05,CABA,individual
+C02629,2022-09-06,CABA,individual
+C03336,2025-07-22,Ramos Mejía,individual
+C00538,2024-07-10,Avellaneda,individual
+C04659,2024-08-10,Avellaneda,individual
+C02044,2023-01-27,CABA,individual
+C04005,2024-04-17,Avellaneda,individual
+C02119,2023-07-15,Ramos Mejía,individual
+C01756,2024-08-21,Quilmes,individual
+C00073,2025-07-30,La Matanza,individual
+C02503,2021-10-01,La Matanza,individual
+C03824,2021-10-07,Tres de Febrero,individual
+C03066,2020-10-19,Merlo,individual
+C02755,2020-02-24,Avellaneda,empresa
+C02448,2021-05-04,Ituzaingó,individual
+C04916,2025-04-13,La Matanza,individual
+C02422,2023-02-03,CABA,individual
+C04687,2021-05-16,Ramos Mejía,individual
+C02937,2022-12-02,Avellaneda,individual
+C00800,2023-10-16,Lomas de Zamora,empresa
+C02750,2022-04-26,CABA,empresa
+C02715,2021-10-29,Morón,individual
+C04781,2023-02-11,Morón,empresa
+C03127,2025-02-01,Avellaneda,individual
+C01641,2023-12-01,Ramos Mejía,individual
+C00663,2022-01-17,Avellaneda,individual
+C02241,2024-01-01,CABA,individual
+C03518,2023-05-30,Merlo,individual
+C03057,2023-05-08,Ituzaingó,individual
+C02039,2021-03-16,San Justo,individual
+C04823,2024-08-29,Morón,individual
+C03735,2022-06-15,Merlo,individual
+C02808,2023-05-11,Tres de Febrero,individual
+C03305,2020-09-29,Ituzaingó,individual
+C04831,2025-03-27,La Matanza,empresa
+C00162,2021-02-13,Tres de Febrero,individual
+C02071,2024-01-06,Avellaneda,individual
+C02467,2025-11-03,Ramos Mejía,individual
+C01124,2024-02-15,CABA,individual
+C01628,2024-11-28,Avellaneda,individual
+C00323,2022-12-31,Morón,individual
+C00105,2025-04-05,Lomas de Zamora,individual
+C00615,2024-03-20,Ramos Mejía,individual
+C00818,2024-11-06,La Matanza,individual
+C00950,2024-07-13,Ramos Mejía,individual
+C02693,2023-10-01,Avellaneda,individual
+C03160,2021-09-13,Ramos Mejía,individual
+C01306,2024-08-06,CABA,individual
+C01071,2024-07-17,Ramos Mejía,individual
+C02144,2024-05-20,Tres de Febrero,empresa
+C04253,2021-12-23,Merlo,individual
+C02833,2021-05-14,Ramos Mejía,individual
+C03845,2023-12-29,La Matanza,individual
+C02279,2022-03-22,Lanús,individual
+C00646,2023-05-10,Avellaneda,empresa
+C00973,2024-11-19,Lanús,individual
+C04499,2025-02-18,Tres de Febrero,empresa
+C03738,2022-05-07,Ituzaingó,empresa
+C04589,2020-06-15,Avellaneda,individual
+C01817,2022-04-23,Lomas de Zamora,individual
+C04277,2023-05-07,Avellaneda,individual
+C03353,2020-07-17,Ituzaingó,individual
+C01767,2022-10-03,Ramos Mejía,individual
+C04824,2024-10-18,CABA,empresa
+C00036,2025-07-13,La Matanza,individual
+C04165,2025-07-14,Ramos Mejía,individual
+C04920,2023-08-29,Tres de Febrero,individual
+C02034,2022-07-31,Morón,individual
+C01132,2020-04-15,La Matanza,individual
+C01087,2024-04-06,Quilmes,individual
+C04675,2020-12-26,San Justo,individual
+C04283,2020-10-16,Quilmes,individual
+C02418,2020-05-14,La Matanza,individual
+C04603,2021-03-23,Ramos Mejía,empresa
+C02357,2023-10-26,Tres de Febrero,individual
+C02562,2025-09-16,CABA,individual
+C03630,2024-07-18,Morón,individual
+C01586,2022-09-21,Lanús,individual
+C01066,2021-08-02,Quilmes,individual
+C01269,2020-04-16,Lomas de Zamora,individual
+C02468,2024-01-16,Lomas de Zamora,empresa
+C01802,2023-01-22,Lanús,individual
+C02956,2022-12-26,San Justo,individual
+C01998,2024-02-12,Ramos Mejía,individual
+C03162,2025-05-25,Avellaneda,individual
+C03072,2025-01-31,Merlo,individual
+C00675,2022-04-15,Merlo,individual
+C03476,2023-06-29,Ramos Mejía,individual
+C02718,2021-09-24,Avellaneda,individual
+C00578,2023-10-07,Merlo,individual
+C03548,2021-06-03,Avellaneda,empresa
+C00519,2023-01-12,Quilmes,empresa
+C02469,2022-07-22,Merlo,individual
+C03883,2024-09-17,La Matanza,individual
+C04471,2025-07-26,Quilmes,empresa
+C03229,2021-10-21,Quilmes,individual
+C04497,2023-05-09,Morón,individual
+C01618,2021-11-27,Merlo,individual
+C00820,2020-05-04,Ramos Mejía,empresa
+C02690,2021-07-10,Merlo,individual
+C01382,2023-06-27,Lomas de Zamora,individual
+C02945,2024-08-21,Avellaneda,individual
+C02299,2022-03-10,CABA,individual
+C04834,2022-12-22,Ramos Mejía,individual
+C01218,2023-06-30,CABA,empresa
+C02384,2020-08-13,CABA,individual
+C04636,2022-02-15,CABA,individual
+C03995,2020-12-14,Ituzaingó,empresa
+C04243,2021-03-31,Lanús,individual
+C02655,2024-11-16,Morón,individual
+C04671,2022-07-02,Avellaneda,individual
+C00638,2020-08-10,Morón,individual
+C02891,2022-12-02,Morón,individual
+C01139,2021-03-28,Tres de Febrero,individual
+C01231,2025-12-24,CABA,individual
+C02706,2025-03-24,La Matanza,individual
+C03367,2023-10-13,Ituzaingó,empresa
+C04200,2023-10-19,San Justo,individual
+C04233,2023-02-13,Lanús,individual
+C02323,2021-02-22,Morón,individual
+C03366,2025-03-02,Quilmes,individual
+C00136,2023-10-12,Tres de Febrero,individual
+C03899,2021-02-14,Quilmes,individual
+C04944,2023-06-09,Morón,individual
+C03515,2024-04-07,La Matanza,individual
+C04720,2023-11-22,Morón,individual
+C00687,2021-05-20,CABA,empresa
+C00059,2024-09-07,Ramos Mejía,individual
+C02588,2025-01-20,San Justo,empresa
+C02141,2024-07-03,Tres de Febrero,individual
+C03386,2022-02-13,CABA,individual
+C02079,2023-08-10,Lomas de Zamora,individual
+C00976,2021-11-17,Avellaneda,individual
+C02773,2025-11-20,Merlo,empresa
+C00747,2023-02-10,Avellaneda,individual
+C00656,2020-05-29,Tres de Febrero,empresa
+C04269,2022-10-21,Ramos Mejía,individual
+C04050,2023-12-05,CABA,individual
+C01596,2020-06-14,Ramos Mejía,individual
+C00003,2022-11-28,Lanús,individual
+C04581,2020-05-10,CABA,individual
+C01594,2022-10-06,Morón,individual
+C04577,2023-01-21,CABA,individual
+C02112,2025-02-25,Merlo,individual
+C02113,2021-12-10,Morón,individual
+C02893,2022-04-14,Tres de Febrero,individual
+C03269,2021-11-10,Tres de Febrero,individual
+C02205,2022-08-21,Lomas de Zamora,individual
+C02175,2022-10-21,Quilmes,individual
+C01278,2025-01-24,Lanús,empresa
+C04436,2025-03-20,Lanús,individual
+C04021,2021-01-06,CABA,empresa
+C03226,2025-12-04,San Justo,individual
+C00097,2020-03-11,Lanús,empresa
+C02998,2024-06-05,Lanús,individual
+C02991,2025-05-16,Quilmes,individual
+C01873,2023-05-01,Quilmes,individual
+C03121,2022-06-25,Lomas de Zamora,individual
+C01102,2020-07-25,CABA,individual
+C04652,2025-08-20,CABA,individual
+C03904,2025-05-16,Avellaneda,individual
+C04961,2020-02-27,Ramos Mejía,empresa
+C04182,2021-09-09,La Matanza,individual
+C03800,2022-06-06,Tres de Febrero,individual
+C00585,2022-10-22,Quilmes,individual
+C02192,2025-07-31,Ramos Mejía,individual
+C03689,2025-12-22,CABA,empresa
+C02062,2023-11-02,Lomas de Zamora,empresa
+C03877,2024-03-17,Ramos Mejía,individual
+C03631,2022-01-29,Tres de Febrero,individual
+C02665,2022-04-15,Morón,empresa
+C04896,2022-04-03,Tres de Febrero,individual
+C02845,2025-12-07,Ituzaingó,individual
+C03377,2023-11-29,Morón,individual
+C01117,2024-08-07,Morón,individual
+C03909,2024-06-21,Lomas de Zamora,individual
+C04491,2022-06-27,Ituzaingó,individual
+C01338,2025-09-21,La Matanza,individual
+C01120,2022-08-11,CABA,empresa
+C02627,2024-10-16,Merlo,individual
+C00838,2025-06-21,Morón,individual
+C01235,2020-10-15,San Justo,individual
+C04083,2023-10-30,Lanús,individual
+C01197,2024-01-02,CABA,individual
+C02049,2020-04-12,Quilmes,individual
+C03629,2024-11-04,Lomas de Zamora,individual
+C04270,2020-09-13,Quilmes,individual
+C00346,2023-04-10,Ituzaingó,individual
+C02953,2021-10-31,Lomas de Zamora,individual
+C02659,2020-10-28,Lanús,empresa
+C00345,2020-06-26,Ituzaingó,empresa
+C02038,2022-06-25,Ramos Mejía,empresa
+C01261,2025-07-31,Avellaneda,individual
+C02846,2023-03-19,Avellaneda,individual
+C01104,2020-10-24,Avellaneda,individual
+C04015,2023-08-16,Ramos Mejía,individual
+C04905,2022-06-05,La Matanza,individual
+C00154,2021-03-10,Lomas de Zamora,individual
+C04416,2024-06-14,Lomas de Zamora,individual
+C03358,2025-08-02,Quilmes,empresa
+C01064,2021-07-27,Ituzaingó,empresa
+C04678,2021-03-29,CABA,individual
+C03002,2020-02-17,Ituzaingó,individual
+C00577,2021-02-11,Avellaneda,individual
+C01893,2022-09-05,Morón,empresa
+C01466,2024-02-01,Quilmes,individual
+C03758,2020-02-24,Ituzaingó,individual
+C01296,2021-02-26,Morón,individual
+C02660,2022-02-24,Morón,individual
+C04614,2021-06-06,Tres de Febrero,individual
+C03666,2020-05-27,La Matanza,individual
+C01107,2023-04-20,Ramos Mejía,individual
+C00178,2025-12-15,La Matanza,individual
+C01134,2022-01-15,Lomas de Zamora,individual
+C04674,2022-07-20,Lanús,individual
+C01417,2020-03-19,La Matanza,individual
+C04721,2022-12-18,Quilmes,individual
+C03558,2021-07-26,Avellaneda,empresa
+C03134,2020-01-06,Ramos Mejía,individual
+C04116,2020-04-06,Ramos Mejía,individual
+C04713,2021-05-29,Avellaneda,individual
+C01083,2022-04-02,Quilmes,individual
+C01623,2023-12-12,Lomas de Zamora,empresa
+C00587,2021-06-21,Tres de Febrero,individual
+C03389,2022-05-24,Merlo,individual
+C00199,2021-02-08,Ramos Mejía,individual
+C00368,2021-10-01,CABA,individual
+C00921,2022-07-12,CABA,individual
+C02813,2023-06-11,Avellaneda,empresa
+C01736,2021-08-30,Ituzaingó,individual
+C00151,2022-10-28,Ituzaingó,individual
+C02223,2023-10-04,Lanús,individual
+C02951,2022-05-28,Quilmes,individual
+C03119,2020-10-06,San Justo,empresa
+C04355,2020-11-20,CABA,individual
+C00177,2023-02-28,San Justo,individual
+C04107,2021-10-19,Merlo,individual
+C04547,2021-07-02,Ramos Mejía,individual
+C00720,2024-07-26,Avellaneda,individual
+C02560,2025-10-26,Lanús,individual
+C01658,2024-01-29,Merlo,individual
+C01190,2021-05-03,La Matanza,individual
+C00970,2022-10-21,Merlo,individual
+C02486,2021-03-19,Tres de Febrero,empresa
+C01514,2023-04-25,Lomas de Zamora,individual
+C01892,2020-12-04,CABA,individual
+C01127,2025-06-30,San Justo,individual
+C03384,2022-03-22,Lanús,empresa
+C03599,2021-12-28,Ituzaingó,individual
+C00343,2023-05-12,Merlo,individual
+C00348,2020-10-10,Lanús,individual
+C04229,2022-12-20,Morón,individual
+C02343,2024-05-27,Merlo,individual
+C04236,2024-08-20,Ituzaingó,individual
+C01344,2023-08-22,CABA,individual
+C01400,2020-03-14,Ituzaingó,empresa
+C00421,2022-05-27,Merlo,individual
+C00964,2023-06-02,Quilmes,individual
+C04085,2025-03-18,Merlo,individual
+C00301,2021-12-14,Tres de Febrero,individual
+C03416,2025-08-25,Lanús,empresa
+C04606,2025-01-09,Tres de Febrero,individual
+C02645,2024-07-29,Lomas de Zamora,individual
+C01103,2020-08-21,CABA,empresa
+C01713,2021-06-02,Merlo,individual
+C02353,2020-01-08,CABA,individual
+C02899,2023-03-21,Tres de Febrero,individual
+C01474,2023-09-08,Lomas de Zamora,individual
+C03809,2020-11-18,Morón,individual
+C02085,2025-08-13,CABA,individual
+C02731,2022-06-19,Merlo,individual
+C02769,2022-02-23,La Matanza,individual
+C04399,2022-02-08,Merlo,individual
+C02453,2022-09-05,Merlo,empresa
+C02526,2022-08-29,Lomas de Zamora,individual
+C01947,2022-11-16,La Matanza,individual
+C04097,2023-04-03,Ramos Mejía,individual
+C01088,2023-05-26,La Matanza,individual
+C04265,2020-12-05,Ramos Mejía,empresa
+C02348,2020-05-09,CABA,individual
+C01291,2023-05-18,Lanús,individual
+C01693,2023-06-22,Avellaneda,empresa
+C02321,2022-10-16,San Justo,empresa
+C04429,2025-04-15,Ramos Mejía,individual
+C00441,2020-08-25,La Matanza,individual
+C03653,2023-11-13,Lanús,empresa
+C04371,2024-08-24,Tres de Febrero,individual
+C03837,2024-04-16,Lanús,individual
+C01834,2025-04-03,Ituzaingó,individual
+C00844,2024-02-27,Ramos Mejía,individual
+C02475,2020-04-14,Lanús,individual
+C01303,2025-06-09,Ituzaingó,individual
+C03532,2023-06-13,Ramos Mejía,individual
+C00639,2023-06-03,Morón,individual
+C03648,2023-06-05,Lomas de Zamora,individual
+C04886,2020-06-04,Lomas de Zamora,individual
+C02388,2020-07-18,Lomas de Zamora,individual
+C02456,2025-05-02,Quilmes,individual
+C02821,2021-09-22,Lomas de Zamora,individual
+C02410,2020-03-20,Merlo,empresa
+C02943,2024-05-21,Morón,individual
+C02607,2024-08-05,San Justo,empresa
+C03891,2020-05-19,Quilmes,individual
+C01180,2021-10-03,Ituzaingó,individual
+C03407,2021-09-25,Morón,individual
+C04081,2020-11-21,Morón,individual
+C00275,2021-10-10,Avellaneda,individual
+C00725,2022-06-11,Avellaneda,individual
+C00433,2023-10-16,Ramos Mejía,empresa
+C02716,2020-12-18,Quilmes,individual
+C04693,2024-10-27,Avellaneda,individual
+C03972,2024-02-11,La Matanza,individual
+C02302,2025-08-12,La Matanza,empresa
+C01239,2022-06-27,La Matanza,empresa
+C01482,2025-06-18,Morón,individual
+C01263,2025-11-11,Lanús,individual
+C00951,2025-11-19,Quilmes,individual
+C04363,2023-03-27,Tres de Febrero,individual
+C00098,2022-09-15,Merlo,individual
+C04353,2025-01-29,Avellaneda,empresa
+C04260,2020-12-17,CABA,individual
+C00557,2022-02-08,Lomas de Zamora,individual
+C04868,2021-09-19,La Matanza,individual
+C01065,2020-09-13,Merlo,individual
+C02414,2025-06-22,Ituzaingó,individual
+C02650,2021-06-23,Lanús,individual
+C02726,2020-10-02,Merlo,individual
+C01644,2023-04-22,Ramos Mejía,empresa
+C01790,2024-10-10,Tres de Febrero,individual
+C02053,2022-10-07,Lomas de Zamora,individual
+C00310,2020-07-22,Ituzaingó,individual
+C04020,2024-04-16,Merlo,empresa
+C00575,2023-11-18,Quilmes,empresa
+C03950,2023-09-23,Merlo,empresa
+C00743,2024-07-03,Merlo,individual
+C02376,2023-11-29,Lomas de Zamora,empresa
+C03196,2025-01-09,Morón,empresa
+C00517,2022-10-27,Lanús,individual
+C04286,2022-09-19,Avellaneda,individual
+C01160,2023-11-06,San Justo,individual
+C01070,2024-02-04,CABA,empresa
+C04875,2022-05-10,La Matanza,individual
+C03294,2023-08-30,Lomas de Zamora,individual
+C00374,2024-03-29,Ituzaingó,individual
+C01377,2020-04-26,Lanús,individual
+C01093,2021-06-10,Lomas de Zamora,individual
+C00060,2023-06-12,Ramos Mejía,individual
+C03900,2021-10-10,Lanús,individual
+C01430,2023-10-02,Lanús,individual
+C00784,2020-01-17,Quilmes,individual
+C01587,2021-05-09,San Justo,empresa
+C02984,2023-11-06,Merlo,individual
+C03713,2022-10-27,Merlo,empresa
+C00239,2025-12-18,San Justo,individual
+C04856,2022-01-31,Tres de Febrero,empresa
+C01885,2022-07-16,Quilmes,individual
+C01639,2021-11-15,Quilmes,individual
+C01188,2024-03-25,CABA,individual
+C01591,2022-01-11,La Matanza,individual
+C00489,2020-08-03,La Matanza,individual
+C02815,2022-09-13,Ituzaingó,empresa
+C04736,2024-03-19,Avellaneda,individual
+C01774,2023-09-20,Ituzaingó,individual
+C02021,2021-09-13,Tres de Febrero,individual
+C00042,2020-06-21,Lomas de Zamora,individual
+C00276,2021-04-29,Merlo,individual
+C01971,2023-10-03,Lanús,individual
+C03763,2020-07-29,Merlo,individual
+C03321,2025-09-09,CABA,individual
+C02728,2023-02-06,Morón,individual
+C04444,2023-08-24,Quilmes,empresa
+C02982,2020-12-10,La Matanza,individual
+C01955,2020-09-02,Lomas de Zamora,empresa
+C01847,2025-04-21,San Justo,individual
+C03055,2025-07-30,Ramos Mejía,individual
+C04366,2025-05-28,Ituzaingó,individual
+C03751,2020-11-27,Tres de Febrero,empresa
+C00631,2022-03-26,Avellaneda,individual
+C01674,2023-11-22,Lanús,empresa
+C01082,2022-08-24,Lanús,individual
+C01549,2021-08-31,Quilmes,individual
+C03373,2021-04-08,Quilmes,individual
+C02130,2020-10-25,San Justo,individual
+C01216,2021-04-07,Morón,individual
+C04386,2020-01-06,CABA,individual
+C01258,2022-02-25,La Matanza,empresa
+C02597,2022-02-28,Morón,empresa
+C02471,2023-02-20,Lanús,empresa
+C03753,2020-03-08,San Justo,individual
+C02714,2023-02-14,La Matanza,individual
+C04700,2023-06-15,La Matanza,empresa
+C00329,2024-12-08,Ramos Mejía,individual
+C01806,2024-12-03,Merlo,empresa
+C04780,2023-08-07,Ituzaingó,individual
+C03650,2021-11-22,La Matanza,individual
+C04191,2024-12-17,CABA,individual
+C03029,2023-06-16,CABA,individual
+C03651,2024-07-01,Lomas de Zamora,individual
+C02365,2020-07-25,Quilmes,individual
+C04899,2023-02-13,Quilmes,individual
+C02748,2024-10-15,Quilmes,individual
+C03128,2022-07-07,La Matanza,individual
+C02490,2022-07-10,Lanús,individual
+C02152,2025-04-06,Avellaneda,empresa
+C03418,2024-03-27,Quilmes,individual
+C00547,2021-11-21,Lanús,empresa
+C01198,2025-03-15,Merlo,individual
+C03437,2020-08-23,Ituzaingó,individual
+C04210,2021-04-17,CABA,individual
+C02591,2024-10-25,Quilmes,individual
+C01178,2025-09-26,Tres de Febrero,individual
+C01336,2020-03-30,Morón,individual
+C04307,2020-04-16,Tres de Febrero,individual
+C01076,2025-07-23,Quilmes,individual
+C03621,2020-07-10,Morón,individual
+C01167,2024-06-13,Quilmes,individual
+C00916,2022-01-14,Morón,individual
+C04207,2023-01-15,Morón,empresa
+C00085,2023-08-20,Ituzaingó,individual
+C04102,2023-03-10,Avellaneda,individual
+C04333,2021-09-09,Morón,empresa
+C04401,2020-05-02,Lanús,empresa
+C03889,2025-11-24,Ramos Mejía,individual
+C02575,2025-06-19,Merlo,individual
+C04565,2021-02-12,Avellaneda,individual
+C02556,2020-07-10,Quilmes,individual
+C00571,2025-04-18,Lomas de Zamora,individual
+C00862,2023-10-19,Merlo,individual
+C04838,2025-05-17,La Matanza,empresa
+C04768,2024-06-05,Lomas de Zamora,individual
+C03314,2022-09-04,La Matanza,individual
+C02679,2023-03-27,Ituzaingó,individual
+C03818,2023-03-12,Quilmes,empresa
+C02577,2023-10-15,CABA,empresa
+C02483,2021-07-23,Quilmes,individual
+C00897,2023-05-31,La Matanza,individual
+C03095,2022-12-30,Morón,individual
+C03508,2024-01-06,Lanús,individual
+C01923,2024-08-13,Merlo,individual
+C00938,2025-03-08,Merlo,individual
+C03461,2022-06-30,Merlo,individual
+C00183,2020-12-11,Avellaneda,individual
+C02454,2020-10-15,Tres de Febrero,empresa
+C02173,2024-11-04,La Matanza,individual
+C00754,2022-05-20,Quilmes,individual
+C03894,2022-08-16,Lomas de Zamora,individual
+C02457,2024-03-23,Lanús,individual
+C04222,2020-07-21,CABA,individual
+C04365,2025-03-06,Quilmes,individual
+C01233,2022-03-23,CABA,individual
+C01668,2025-07-02,San Justo,individual
+C01954,2024-06-13,San Justo,individual
+C04587,2022-05-30,Quilmes,individual
+C02117,2021-10-17,Lanús,individual
+C00454,2020-03-12,Quilmes,individual
+C00740,2024-10-08,Tres de Febrero,individual
+C00989,2020-02-24,CABA,individual
+C03472,2024-05-08,Lanús,empresa
+C02974,2021-06-12,CABA,individual
+C04963,2023-08-15,Merlo,individual
+C01937,2025-06-07,CABA,empresa
+C03596,2023-12-28,Lanús,individual
+C00823,2022-07-13,Lanús,empresa
+C01115,2022-08-28,San Justo,individual
+C01293,2024-08-21,Quilmes,individual
+C02617,2023-03-12,Tres de Febrero,individual
+C02684,2024-07-10,Lomas de Zamora,individual
+C03092,2023-01-10,Lanús,individual
+C01874,2023-12-15,San Justo,individual
+C03286,2020-04-07,Avellaneda,individual
+C01665,2022-02-21,Tres de Febrero,individual
+C00236,2023-05-31,Lomas de Zamora,individual
+C03754,2022-06-11,San Justo,individual
+C03257,2021-01-01,Quilmes,individual
+C00781,2022-02-04,Ituzaingó,individual
+C02903,2020-03-30,Lanús,individual
+C03039,2025-04-27,Ituzaingó,individual
+C02779,2025-04-04,Merlo,individual
+C02134,2025-05-27,Avellaneda,individual
+C02161,2022-06-04,Tres de Febrero,individual
+C04025,2025-11-30,La Matanza,individual
+C01501,2020-09-25,Ituzaingó,individual
+C04055,2020-11-04,Lomas de Zamora,individual
+C04039,2021-03-11,Ituzaingó,empresa
+C02328,2020-04-06,Ramos Mejía,individual
+C00034,2023-10-31,Lomas de Zamora,individual
+C03230,2023-12-01,Merlo,individual
+C03771,2022-07-27,Ituzaingó,empresa
+C03712,2022-10-29,Lomas de Zamora,individual
+C02318,2023-02-25,La Matanza,individual
+C02091,2025-03-04,Lanús,individual
+C03183,2024-06-22,Lomas de Zamora,individual
+C02541,2025-09-30,Tres de Febrero,individual
+C03017,2024-04-22,Lomas de Zamora,individual
+C03798,2024-04-18,Lomas de Zamora,individual
+C04299,2021-12-26,Ramos Mejía,individual
+C02461,2023-12-04,Tres de Febrero,individual
+C04658,2024-11-20,San Justo,individual
+C03481,2024-08-24,CABA,individual
+C04797,2022-11-05,Merlo,individual
+C01493,2022-06-15,Avellaneda,individual
+C04811,2025-01-30,Ituzaingó,empresa
+C00872,2020-06-06,Quilmes,individual
+C03988,2024-12-21,Ramos Mejía,individual
+C00718,2023-08-29,Quilmes,individual
+C01542,2020-08-07,Avellaneda,individual
+C04413,2023-06-05,Lomas de Zamora,individual
+C00955,2020-01-27,Merlo,individual
+C03683,2023-02-22,Avellaneda,individual
+C00418,2020-04-30,Ramos Mejía,empresa
+C04061,2022-09-17,La Matanza,individual
+C04842,2021-11-23,Lanús,individual
+C00521,2023-03-28,San Justo,individual
+C02841,2024-01-13,Tres de Febrero,empresa
+C03838,2022-07-02,Avellaneda,individual
+C02952,2025-08-10,Tres de Febrero,empresa
+C03956,2021-01-14,Morón,individual
+C02940,2024-12-20,Tres de Febrero,individual
+C00262,2021-10-04,La Matanza,individual
+C01836,2021-08-31,Merlo,individual
+C00909,2023-07-05,San Justo,empresa
+C01369,2023-12-01,Lomas de Zamora,empresa
+C04145,2022-08-15,CABA,individual
+C01129,2025-10-23,Merlo,empresa
+C02010,2024-02-21,Quilmes,individual
+C01870,2025-02-01,Avellaneda,individual
+C04239,2020-02-17,Lanús,individual
+C03556,2021-02-23,Ituzaingó,empresa
+C00474,2021-09-25,Ramos Mejía,empresa
+C01204,2024-09-26,Lomas de Zamora,individual
+C02741,2023-07-17,Lanús,individual
+C04192,2022-06-04,Ramos Mejía,individual
+C04424,2022-11-02,Lomas de Zamora,individual
+C03056,2024-02-12,Ramos Mejía,individual
+C01022,2020-07-08,CABA,individual
+C04369,2025-01-04,Merlo,individual
+C04771,2021-12-17,La Matanza,individual
+C03376,2024-01-24,San Justo,empresa
+C03655,2022-04-30,Lomas de Zamora,individual
+C04787,2021-10-19,Ituzaingó,empresa
+C04011,2020-09-09,Avellaneda,individual
+C04205,2023-09-05,Ramos Mejía,individual
+C03026,2022-07-12,Ramos Mejía,individual
+C02409,2025-04-29,San Justo,individual
+C02500,2025-10-21,Quilmes,individual
+C04486,2024-12-07,CABA,individual
+C03706,2025-08-14,Morón,individual
+C01135,2021-05-24,Lomas de Zamora,individual
+C04432,2022-09-03,Ituzaingó,individual
+C00204,2021-01-23,CABA,empresa
+C04439,2025-05-23,Quilmes,individual
+C04357,2023-08-10,Avellaneda,individual
+C00814,2023-03-25,Merlo,individual
+C00223,2025-05-05,Merlo,individual
+C02656,2020-09-26,Tres de Febrero,empresa
+C04801,2021-09-11,Ramos Mejía,individual
+C03808,2023-09-27,Tres de Febrero,individual
+C00153,2023-06-02,Lomas de Zamora,individual
+C01029,2025-10-17,Avellaneda,empresa
+C01667,2023-02-12,Quilmes,individual
+C04548,2020-12-14,Lanús,individual
+C01372,2022-04-30,Lanús,empresa
+C01145,2022-08-06,Lanús,individual
+C02608,2024-06-07,Lomas de Zamora,individual
+C02015,2020-08-21,Lanús,individual
+C01096,2022-01-27,Ituzaingó,individual
+C03385,2020-09-29,Ituzaingó,individual
+C00636,2020-05-13,San Justo,individual
+C02933,2025-04-22,Tres de Febrero,individual
+C03642,2024-08-04,Avellaneda,individual
+C02484,2024-01-12,Merlo,individual
+C04965,2023-03-05,Quilmes,individual
+C02273,2024-05-10,Lanús,individual
+C04635,2022-07-31,Tres de Febrero,individual
+C04669,2020-07-11,San Justo,empresa
+C00425,2024-06-13,Morón,individual
+C04060,2020-07-30,Quilmes,individual
+C03442,2022-06-28,Lanús,individual
+C04685,2023-10-23,Quilmes,individual
+C02048,2024-04-25,Avellaneda,individual
+C00229,2023-11-13,Avellaneda,empresa
+C02025,2023-08-24,La Matanza,individual
+C03658,2024-07-28,San Justo,individual
+C00533,2024-01-14,Tres de Febrero,individual
+C00539,2022-03-21,Tres de Febrero,individual
+C03368,2024-03-24,La Matanza,individual
+C00830,2020-10-20,Ituzaingó,individual
+C00842,2021-12-13,CABA,individual
+C04169,2024-01-29,Merlo,individual
+C01128,2023-10-14,Tres de Febrero,individual
+C02931,2021-08-29,San Justo,empresa
+C02385,2024-09-29,San Justo,individual
+C01649,2025-09-18,Lanús,individual
+C03722,2024-03-15,Tres de Febrero,empresa
+C01887,2025-01-23,CABA,individual
+C00082,2023-06-07,San Justo,empresa
+C04798,2020-06-24,Ramos Mejía,empresa
+C02147,2021-05-17,San Justo,individual
+C02145,2021-11-12,Quilmes,empresa
+C01404,2024-06-30,Ramos Mejía,individual
+C01072,2023-03-19,La Matanza,individual
+C02004,2020-02-10,CABA,individual
+C02685,2022-11-09,Merlo,individual
+C04785,2023-05-04,Morón,individual
+C04167,2023-01-21,Quilmes,individual
+C03063,2023-05-04,Morón,individual
+C03285,2024-05-23,CABA,individual
+C01921,2025-12-14,Tres de Febrero,individual
+C03065,2021-08-08,Quilmes,individual
+C03831,2023-05-09,Avellaneda,individual
+C00203,2024-06-12,Tres de Febrero,individual
+C00676,2021-08-07,San Justo,individual
+C02480,2020-08-24,Lanús,individual
+C04450,2025-05-14,Ramos Mejía,empresa
+C03309,2022-05-23,Lanús,individual
+C01865,2021-08-16,CABA,empresa
+C03840,2024-05-29,Avellaneda,individual
+C03422,2023-09-19,Lomas de Zamora,individual
+C04731,2024-05-24,Avellaneda,individual
+C03434,2020-11-24,CABA,individual
+C00522,2024-09-04,Merlo,empresa
+C02496,2020-01-19,Merlo,individual
+C04943,2020-09-15,San Justo,empresa
+C02326,2025-01-24,Merlo,individual
+C04248,2024-09-19,Ituzaingó,individual
+C00908,2020-03-12,Lanús,individual
+C01692,2023-07-08,San Justo,individual
+C00061,2025-03-31,Lanús,individual
+C04308,2020-11-09,La Matanza,individual
+C02359,2021-08-16,Merlo,individual
+C03370,2025-11-19,Quilmes,individual
+C02671,2024-05-11,San Justo,empresa
+C01593,2024-01-11,Avellaneda,individual
+C02680,2025-09-08,CABA,individual
+C03586,2024-05-21,La Matanza,individual
+C04973,2024-11-11,Morón,individual
+C00283,2024-10-08,Quilmes,individual
+C00843,2020-12-30,Avellaneda,individual
+C03455,2022-02-27,Avellaneda,individual
+C01807,2022-06-29,San Justo,individual
+C00990,2025-03-10,Merlo,individual
+C03023,2024-04-24,Ituzaingó,individual
+C00835,2021-04-25,Tres de Febrero,individual
+C03184,2020-09-12,La Matanza,empresa
+C01905,2024-05-31,Quilmes,empresa
+C01017,2022-01-05,Avellaneda,individual
+C03069,2021-08-28,CABA,individual
+C01951,2022-11-27,Lomas de Zamora,individual
+C00325,2022-12-31,Avellaneda,individual
+C01687,2023-12-31,Avellaneda,individual
+C04982,2024-09-08,Avellaneda,individual
+C01423,2021-11-01,Ituzaingó,individual
+C01619,2025-01-14,Quilmes,individual
+C01650,2021-11-13,Tres de Febrero,individual
+C01375,2024-01-28,San Justo,individual
+C03949,2020-10-15,La Matanza,empresa
+C01604,2025-11-22,Lanús,empresa
+C01020,2023-12-12,CABA,individual
+C02856,2023-06-25,San Justo,individual
+C03474,2024-09-26,Morón,individual
+C00232,2024-11-23,Tres de Febrero,individual
+C04933,2024-11-27,Ituzaingó,individual
+C03149,2024-11-23,Tres de Febrero,individual
+C03497,2023-06-29,San Justo,individual
+C03372,2021-03-29,San Justo,individual
+C03261,2025-09-22,Lanús,individual
+C03423,2023-12-06,Quilmes,individual
+C01742,2022-12-31,Morón,individual
+C03349,2024-10-18,Ramos Mejía,individual
+C00703,2020-02-01,Merlo,individual
+C03915,2023-08-06,Lomas de Zamora,individual
+C03038,2021-09-01,La Matanza,individual
+C00469,2024-11-27,Morón,individual
+C01138,2022-08-27,San Justo,individual
+C02037,2023-10-30,Quilmes,empresa
+C02640,2023-02-24,Quilmes,individual
+C03640,2025-03-27,Lanús,individual
+C02854,2025-04-11,Lomas de Zamora,individual
+C01173,2022-01-17,Lomas de Zamora,individual
+C04496,2024-08-19,Ramos Mejía,individual
+C01974,2024-01-02,Lomas de Zamora,individual
+C01009,2021-08-06,Avellaneda,individual
+C04604,2021-10-01,Lanús,individual
+C00731,2020-05-18,San Justo,individual
+C03180,2022-04-20,Lomas de Zamora,individual
+C04840,2023-11-01,La Matanza,individual
+C02432,2020-03-01,Merlo,empresa
+C00282,2024-06-15,Merlo,empresa
+C02730,2021-11-06,Lanús,individual
+C00431,2023-09-21,Tres de Febrero,individual
+C01305,2024-12-22,Lomas de Zamora,individual
+C01599,2022-04-08,Ituzaingó,individual
+C01187,2022-12-19,Tres de Febrero,individual
+C04716,2020-09-29,Ramos Mejía,individual
+C01379,2023-12-21,Avellaneda,individual
+C00962,2020-01-11,Ramos Mejía,individual
+C00974,2025-02-28,Merlo,individual
+C03076,2023-04-06,Ituzaingó,individual
+C00096,2022-09-07,Lanús,individual
+C04176,2023-10-13,Avellaneda,individual
+C04857,2022-09-12,Tres de Febrero,individual
+C04682,2024-05-30,Avellaneda,individual
+C04404,2020-04-09,San Justo,individual
+C04343,2022-02-19,Lanús,empresa
+C04908,2022-08-17,Morón,empresa
+C04712,2023-03-16,Ramos Mejía,individual
+C00287,2023-05-06,Lanús,individual
+C00001,2023-03-27,Quilmes,individual
+C02404,2021-01-17,Merlo,empresa
+C02885,2023-04-05,Avellaneda,individual
+C01541,2022-06-16,CABA,individual
+C04848,2021-08-04,Tres de Febrero,individual
+C02136,2021-02-10,Ituzaingó,individual
+C03485,2020-04-23,Merlo,individual
+C01579,2023-11-29,Merlo,individual
+C03553,2025-11-11,Morón,individual
+C04493,2025-06-21,Lanús,individual
+C01199,2025-10-05,Ituzaingó,individual
+C03102,2024-06-16,La Matanza,individual
+C04356,2022-10-23,Ramos Mejía,individual
+C04208,2023-03-31,Merlo,empresa
+C00434,2020-12-21,San Justo,empresa
+C02900,2021-03-30,San Justo,individual
+C01875,2025-06-22,Ituzaingó,individual
+C00739,2021-08-29,San Justo,individual
+C00693,2024-01-11,CABA,individual
+C03482,2023-08-23,Quilmes,individual
+C04327,2025-09-15,Lomas de Zamora,individual
+C04289,2025-08-17,Quilmes,individual
+C02047,2025-07-28,CABA,empresa
+C00019,2024-03-23,La Matanza,individual
+C00291,2024-09-22,Avellaneda,individual
+C02692,2022-01-10,Lomas de Zamora,individual
+C01260,2023-12-19,San Justo,individual
+C03239,2020-07-17,Avellaneda,individual
+C02208,2020-07-31,Quilmes,individual
+C00048,2024-05-02,Avellaneda,individual
+C03233,2022-10-12,Lanús,individual
+C03927,2021-08-12,La Matanza,individual
+C03276,2024-03-23,Merlo,empresa
+C00174,2025-07-03,Ramos Mejía,individual
+C02803,2020-01-08,Tres de Febrero,individual
+C00943,2024-01-21,Avellaneda,individual
+C00845,2020-06-15,La Matanza,individual
+C01219,2021-06-01,Merlo,individual
+C04301,2023-01-22,CABA,individual
+C04177,2020-01-02,Lomas de Zamora,individual
+C02876,2020-03-12,Ramos Mejía,individual
+C00428,2024-06-02,Lomas de Zamora,empresa
+C02067,2021-04-23,Morón,individual
+C04521,2022-02-17,CABA,individual
+C03045,2022-11-26,Lomas de Zamora,individual
+C03652,2024-02-12,San Justo,individual
+C01655,2020-11-23,Lanús,individual
+C03573,2024-11-24,Quilmes,individual
+C02246,2020-09-01,Lanús,individual
+C01559,2021-11-04,Ituzaingó,empresa
+C04608,2022-01-14,Merlo,individual
+C01785,2021-11-13,Morón,individual
+C01952,2024-02-25,Tres de Febrero,individual
+C02216,2021-03-08,Lomas de Zamora,individual
+C00012,2020-03-23,Quilmes,individual
+C00470,2021-09-25,Lomas de Zamora,individual
+C02109,2022-08-04,Tres de Febrero,individual
+C03240,2020-04-17,Avellaneda,individual
+C03925,2022-02-27,Lanús,individual
+C01478,2023-12-24,Avellaneda,individual
+C04980,2022-10-24,Tres de Febrero,individual
+C03298,2025-04-22,Avellaneda,individual
+C03146,2025-10-29,Tres de Febrero,individual
+C00685,2022-07-26,Ituzaingó,individual
+C02519,2020-03-23,Morón,individual
+C04454,2022-11-22,Ramos Mejía,individual
+C03403,2025-06-14,Ramos Mejía,individual
+C02895,2020-02-29,La Matanza,individual
+C00903,2023-07-28,Avellaneda,individual
+C02954,2022-04-10,Merlo,individual
+C01486,2023-03-07,Merlo,individual
+C02221,2024-02-03,Lomas de Zamora,individual
+C00626,2024-05-24,San Justo,individual
+C03920,2023-04-01,La Matanza,individual
+C02647,2020-02-04,San Justo,empresa
+C03392,2022-04-30,Lanús,individual
+C04373,2023-12-17,Tres de Febrero,individual
+C04317,2023-10-16,CABA,individual
+C00141,2021-05-06,La Matanza,individual
+C02862,2024-03-29,Tres de Febrero,individual
+C01840,2023-02-11,Quilmes,empresa
+C03093,2025-03-18,CABA,individual
+C04765,2022-10-05,Tres de Febrero,empresa
+C02008,2023-08-10,Merlo,individual
+C01148,2024-05-28,Quilmes,individual
+C00109,2020-07-17,San Justo,individual
+C01863,2023-08-26,Morón,individual
+C04582,2024-12-22,Avellaneda,individual
+C01351,2024-04-12,CABA,individual
+C02972,2021-09-06,Tres de Febrero,individual
+C00764,2025-06-07,Merlo,individual
+C03201,2020-06-04,Lanús,individual
+C00828,2023-06-30,Quilmes,individual
+C00307,2023-02-19,Lanús,individual
+C01898,2021-10-31,Avellaneda,individual
+C04987,2024-07-15,Lanús,individual
+C03530,2023-01-04,Ituzaingó,individual
+C01249,2020-07-11,Ramos Mejía,empresa
+C03775,2020-09-17,Lomas de Zamora,individual
+C04660,2020-04-21,Avellaneda,individual
+C01057,2022-08-24,Quilmes,empresa
+C03688,2023-04-10,Avellaneda,individual
+C02006,2025-12-22,Quilmes,individual
+C02859,2023-04-13,Ramos Mejía,individual
+C03252,2020-03-19,CABA,individual
+C04951,2025-02-15,Ramos Mejía,empresa
+C01276,2022-05-20,Merlo,individual
+C03116,2022-06-10,CABA,individual
+C00188,2020-01-11,San Justo,individual
+C03319,2022-09-15,Morón,empresa
+C02126,2023-02-27,Ituzaingó,individual
+C02433,2022-02-01,Quilmes,individual
+C01317,2023-05-25,San Justo,individual
+C02593,2022-01-26,San Justo,individual
+C00931,2021-02-13,Morón,individual
+C03681,2022-06-20,La Matanza,individual
+C04726,2023-08-11,Ituzaingó,individual
+C00735,2023-08-28,Morón,individual
+C04463,2021-03-17,Avellaneda,individual
+C03243,2022-09-21,La Matanza,empresa
+C03398,2020-01-13,Ituzaingó,individual
+C03068,2024-07-03,Lanús,individual
+C03523,2021-05-07,Quilmes,individual
+C00423,2020-11-08,Lomas de Zamora,individual
+C01035,2022-09-11,Lomas de Zamora,empresa
+C04530,2022-05-22,Quilmes,individual
+C04861,2024-04-03,Avellaneda,individual
+C02934,2020-04-30,Avellaneda,individual
+C03098,2024-07-16,Ituzaingó,empresa
+C00190,2021-07-30,San Justo,individual
+C02314,2024-02-03,Ramos Mejía,individual
+C01704,2020-02-14,San Justo,empresa
+C03694,2023-06-28,Lomas de Zamora,individual
+C04970,2024-11-16,Avellaneda,individual
+C00243,2020-11-15,Lomas de Zamora,empresa
+C01778,2024-10-07,Quilmes,individual
+C01037,2025-04-17,Lomas de Zamora,empresa
+C04518,2025-11-26,Merlo,individual
+C01582,2024-03-05,La Matanza,individual
+C04975,2022-01-24,Tres de Febrero,individual
+C00277,2025-03-16,Lomas de Zamora,individual
+C04346,2024-06-18,Morón,individual
+C01524,2022-08-31,San Justo,individual
+C02576,2021-07-24,Ramos Mejía,empresa
+C01782,2021-03-19,Lomas de Zamora,individual
+C02678,2020-09-12,La Matanza,individual
+C04717,2021-10-18,La Matanza,individual
+C03401,2022-01-19,Lanús,individual
+C02566,2023-12-15,Quilmes,individual
+C04042,2021-09-21,Avellaneda,individual
+C01137,2023-07-16,Lanús,individual
+C03022,2025-12-01,Lanús,individual
+C00394,2022-11-12,Ramos Mejía,individual
+C03110,2021-09-10,Lanús,empresa
+C00108,2025-08-03,Ituzaingó,individual
+C04133,2022-10-20,Ramos Mejía,individual
+C02517,2023-01-03,Tres de Febrero,individual
+C04350,2023-02-07,Ituzaingó,individual
+C03535,2023-11-16,Avellaneda,individual
+C02234,2021-09-30,Avellaneda,individual
+C01552,2020-02-19,Morón,individual
+C00409,2022-08-15,Quilmes,empresa
+C02181,2020-04-19,Tres de Febrero,individual
+C03315,2021-06-05,Tres de Febrero,individual
+C02198,2021-06-30,Avellaneda,individual
+C02360,2020-11-25,Ramos Mejía,individual
+C02502,2025-03-27,Tres de Febrero,individual
+C03730,2024-01-04,Lomas de Zamora,individual
+C02162,2020-02-24,CABA,individual
+C02382,2024-03-03,Ituzaingó,individual
+C02077,2021-05-28,Ituzaingó,empresa
+C03362,2025-08-17,Morón,empresa
+C03529,2021-05-16,CABA,individual
+C00885,2024-11-09,La Matanza,individual
+C00337,2025-01-01,Lomas de Zamora,individual
+C03728,2022-04-21,Tres de Febrero,individual
+C01206,2023-08-25,Avellaneda,empresa
+C00336,2020-06-14,Quilmes,individual
+C02886,2025-07-12,Ituzaingó,individual
+C04113,2023-05-19,Avellaneda,empresa
+C00662,2024-10-29,La Matanza,individual
+C03165,2021-06-17,CABA,individual
+C01420,2024-02-29,Lomas de Zamora,individual
+C01635,2023-07-09,La Matanza,individual
+C04643,2020-04-12,Ituzaingó,individual
+C00787,2023-08-05,Ramos Mejía,individual
+C03504,2023-10-31,Avellaneda,individual
+C04451,2024-11-12,Lanús,individual
+C00049,2021-08-04,La Matanza,individual
+C00877,2025-07-25,Quilmes,individual
+C04058,2020-12-13,Merlo,individual
+C00053,2021-05-26,Ituzaingó,individual
+C00992,2024-09-03,Avellaneda,individual
+C04144,2022-11-20,La Matanza,individual
+C01010,2020-07-20,Ituzaingó,individual
+C01972,2020-10-25,Quilmes,individual
+C03191,2021-01-24,Lanús,empresa
+C02906,2022-05-18,Quilmes,individual
+C00515,2022-03-18,Ramos Mejía,empresa
+C03765,2023-07-15,San Justo,individual
+C03963,2024-04-26,Merlo,individual
+C01304,2020-06-22,La Matanza,empresa
+C01897,2021-09-10,CABA,individual
+C00508,2024-03-19,Avellaneda,individual
+C04701,2022-09-26,Lomas de Zamora,individual
+C01848,2021-11-11,Lomas de Zamora,empresa
+C01576,2025-11-19,Lomas de Zamora,individual
+C04663,2023-10-16,Avellaneda,individual
+C04928,2025-04-08,Avellaneda,empresa
+C02060,2024-10-03,Merlo,individual
+C03271,2025-10-16,Avellaneda,individual
+C03453,2025-05-14,CABA,individual
+C04482,2020-05-26,La Matanza,individual
+C00661,2025-04-20,Tres de Febrero,empresa
+C04069,2024-10-01,Morón,empresa
+C01866,2021-08-08,Quilmes,empresa
+C03108,2021-06-15,La Matanza,individual
+C03013,2025-11-23,Merlo,individual
+C00123,2023-04-06,La Matanza,empresa
+C00359,2022-03-29,Ituzaingó,empresa
+C02001,2022-02-08,La Matanza,individual
+C04268,2021-05-24,Tres de Febrero,individual
+C01163,2020-03-03,Lanús,individual
+C02287,2022-10-02,Morón,individual
+C01839,2025-11-02,Lomas de Zamora,individual
+C00257,2021-09-21,La Matanza,individual
+C02151,2020-11-18,Quilmes,individual
+C00468,2025-09-04,Ramos Mejía,individual
+C04381,2023-04-13,Avellaneda,individual
+C04447,2023-03-11,Morón,individual
+C03636,2020-01-21,Tres de Febrero,individual
+C03934,2025-12-18,Morón,individual
+C02263,2021-03-07,Ituzaingó,individual
+C00407,2023-03-04,La Matanza,individual
+C04751,2024-03-21,Merlo,individual
+C00895,2020-07-05,La Matanza,individual
+C02669,2021-05-12,Morón,individual
+C03070,2021-04-05,Ituzaingó,empresa
+C01230,2021-11-14,Ramos Mejía,individual
+C04164,2025-10-08,Ituzaingó,individual
+C00268,2025-05-03,La Matanza,individual
+C04706,2020-12-04,San Justo,individual
+C04974,2023-12-10,CABA,individual
+C02401,2021-05-05,San Justo,individual
+C00946,2020-09-01,Avellaneda,individual
+C00627,2023-08-22,Quilmes,individual
+C01027,2020-12-08,Quilmes,empresa
+C02351,2020-04-08,Avellaneda,individual
+C00197,2024-04-22,Avellaneda,individual
+C03678,2023-08-17,Lanús,individual
+C03031,2025-05-23,La Matanza,individual
+C02289,2025-12-12,La Matanza,individual
+C04303,2020-11-01,CABA,individual
+C01462,2021-07-18,Ituzaingó,individual
+C00870,2023-02-16,Tres de Febrero,individual
+C04168,2025-12-11,Avellaneda,individual
+C04679,2022-12-04,San Justo,individual
+C00983,2025-04-08,Avellaneda,individual
+C02282,2025-07-08,Merlo,individual
+C04154,2022-04-15,Ituzaingó,individual
+C02579,2020-03-18,La Matanza,individual
+C01122,2022-05-03,CABA,individual
+C01533,2025-12-05,Avellaneda,individual
+C04230,2023-09-30,Lanús,individual
+C01460,2022-09-09,Lanús,individual
+C02857,2025-10-30,Ramos Mejía,individual
+C02394,2024-01-23,Lanús,individual
+C01794,2022-06-02,Ramos Mejía,individual
+C03262,2022-07-02,La Matanza,individual
+C02195,2025-10-21,Quilmes,individual
+C02602,2022-11-25,Avellaneda,individual
+C03668,2022-04-04,Ituzaingó,empresa
+C02701,2023-11-26,Quilmes,empresa
+C01626,2021-04-27,Tres de Febrero,individual
+C01323,2022-12-15,Avellaneda,individual
+C00112,2022-07-05,Morón,individual
+C02470,2022-03-09,Ituzaingó,individual
+C03096,2023-02-27,Avellaneda,individual
+C01592,2025-01-01,Avellaneda,individual
+C01661,2025-12-29,Morón,empresa
+C03329,2020-09-15,Ituzaingó,individual
+C03705,2024-10-11,Ituzaingó,individual
+C03906,2025-03-15,Quilmes,individual
+C00686,2024-07-20,La Matanza,individual
+C04642,2024-09-21,San Justo,individual
+C01234,2021-07-06,Quilmes,individual
+C03780,2023-02-07,Lanús,individual
+C03078,2021-07-09,La Matanza,individual
+C00932,2023-08-09,San Justo,empresa
+C02411,2024-07-11,Merlo,individual
+C04953,2025-04-22,Ramos Mejía,individual
+C01109,2024-07-18,CABA,empresa
+C03855,2020-12-21,CABA,individual
+C02712,2024-11-10,Lomas de Zamora,individual
+C01852,2024-12-25,Ituzaingó,individual
+C03492,2024-10-27,Tres de Febrero,empresa
+C02087,2020-01-05,Lomas de Zamora,individual
+C03138,2025-11-24,Merlo,empresa
+C03879,2020-05-10,Tres de Febrero,individual
+C01201,2023-03-03,Merlo,empresa
+C04100,2020-11-05,Morón,individual
+C02909,2022-01-05,Merlo,individual
+C02276,2024-09-04,Ramos Mejía,individual
+C02835,2023-05-14,Quilmes,individual
+C00088,2023-04-22,La Matanza,individual
+C00771,2024-08-19,Ramos Mejía,individual
+C03263,2025-10-15,La Matanza,individual
+C00250,2023-08-08,Merlo,individual
+C00313,2024-07-13,Lomas de Zamora,individual
+C00979,2025-12-12,CABA,individual
+C04808,2025-12-30,Morón,individual
+C00504,2024-09-19,Ituzaingó,individual
+C02258,2023-03-28,Tres de Febrero,empresa
+C00706,2025-07-01,Tres de Febrero,individual
+C00708,2024-09-01,CABA,individual
+C03772,2022-06-14,Ituzaingó,individual
+C01566,2025-07-09,Avellaneda,individual
+C01151,2021-03-18,Lomas de Zamora,individual
+C01633,2023-09-09,Morón,individual
+C04741,2024-12-18,La Matanza,individual
+C01788,2022-08-18,Lomas de Zamora,individual
+C01528,2024-06-09,CABA,individual
+C04821,2021-06-18,Ituzaingó,individual
+C02742,2023-11-13,Avellaneda,individual
+C03825,2022-08-10,La Matanza,individual
+C04719,2022-01-02,San Justo,individual
+C04923,2020-01-01,La Matanza,individual
+C01920,2023-01-12,La Matanza,individual
+C03283,2025-05-09,Ituzaingó,individual
+C04294,2025-02-22,Ramos Mejía,individual
+C03774,2025-01-15,Lomas de Zamora,empresa
+C00659,2024-01-15,Tres de Febrero,empresa
+C04550,2020-06-28,Lanús,empresa
+C00785,2023-05-31,Merlo,individual
+C02320,2024-07-24,Tres de Febrero,individual
+C04805,2023-12-20,La Matanza,individual
+C00014,2021-07-16,San Justo,individual
+C02474,2023-01-30,Avellaneda,individual
+C02335,2022-08-20,CABA,individual
+C00831,2023-12-09,La Matanza,individual
+C03725,2023-12-06,San Justo,individual
+C02989,2023-11-24,Tres de Febrero,individual
+C02762,2022-01-24,Tres de Febrero,empresa
+C00996,2020-09-03,CABA,individual
+C02068,2025-10-07,Morón,individual
+C02403,2025-10-02,Lomas de Zamora,individual
+C04881,2023-12-04,Ramos Mejía,empresa
+C04383,2021-10-03,Ituzaingó,individual
+C01203,2023-11-11,CABA,empresa
+C03462,2022-04-28,Lanús,empresa
+C00650,2020-08-17,La Matanza,individual
+C01997,2025-08-25,San Justo,individual
+C02358,2024-12-25,Morón,empresa
+C04569,2020-01-06,Lomas de Zamora,individual
+C03785,2024-05-26,Quilmes,individual
+C04681,2023-02-07,Merlo,individual
+C04339,2021-03-25,Avellaneda,individual
+C04792,2025-10-15,Avellaneda,individual
+C01079,2024-06-05,CABA,individual
+C00907,2021-03-10,Ituzaingó,individual
+C02976,2022-01-29,Ituzaingó,individual
+C03310,2025-09-17,Ramos Mejía,individual
+C00806,2021-09-25,Ituzaingó,individual
+C00238,2020-04-02,San Justo,individual
+C02663,2020-08-03,La Matanza,empresa
+C03190,2020-12-25,CABA,individual
+C00254,2024-02-16,CABA,individual
+C01982,2023-01-27,Merlo,individual
+C04402,2022-03-10,Tres de Febrero,individual
+C02400,2024-12-31,San Justo,individual
+C03605,2024-08-29,Morón,empresa
+C04750,2020-09-23,La Matanza,individual
+C01992,2021-12-20,Ituzaingó,individual
+C03690,2024-03-30,Ituzaingó,individual
+C00213,2024-02-20,San Justo,individual
+C02497,2020-08-05,Ramos Mejía,individual
+C02395,2020-10-14,San Justo,individual
+C04234,2023-07-30,Ituzaingó,individual
+C04105,2023-10-17,Morón,individual
+C01386,2023-08-13,Lomas de Zamora,individual
+C00531,2023-09-08,Merlo,individual
+C00810,2021-07-18,San Justo,individual
+C04406,2020-04-19,Ituzaingó,empresa
+C01497,2020-01-11,Ramos Mejía,empresa
+C04522,2020-10-05,Merlo,individual
+C00499,2023-02-04,Avellaneda,empresa
+C03960,2021-07-09,Quilmes,empresa
+C02256,2023-09-13,Ituzaingó,individual
+C02615,2021-10-31,Lomas de Zamora,individual
+C00891,2021-02-04,Tres de Febrero,individual
+C02459,2024-02-21,Morón,empresa
+C01408,2023-03-10,Ramos Mejía,individual
+C04877,2024-10-01,Lomas de Zamora,individual
+C02488,2023-09-06,Merlo,individual
+C02584,2020-08-27,Ituzaingó,individual
+C03311,2021-04-28,Ramos Mejía,individual
+C00160,2024-10-19,Ramos Mejía,individual
+C03503,2023-10-05,La Matanza,individual
+C02245,2025-07-19,Lomas de Zamora,individual
+C04858,2023-01-10,CABA,individual
+C04971,2021-08-15,Lanús,individual
+C03027,2020-03-05,Quilmes,individual
+C03390,2023-03-09,Ituzaingó,individual
+C02686,2022-04-11,Tres de Febrero,individual
+C00558,2023-09-19,Ituzaingó,individual
+C04131,2025-12-07,San Justo,individual
+C00619,2022-03-25,Ituzaingó,individual
+C01247,2025-02-08,Quilmes,individual
+C03543,2025-03-09,Ituzaingó,individual
+C01846,2020-05-07,CABA,individual
+C02676,2025-03-28,Merlo,empresa
+C04370,2022-08-28,Morón,individual
+C01886,2024-06-11,Ramos Mejía,individual
+C01780,2020-01-30,Ituzaingó,individual
+C03073,2024-09-10,Ramos Mejía,individual
+C04738,2023-01-25,Lanús,individual
+C02936,2020-03-24,Quilmes,individual
+C02948,2021-05-13,Lanús,individual
+C03441,2023-11-25,Ituzaingó,empresa
+C03557,2022-10-27,La Matanza,empresa
+C02251,2024-10-31,Merlo,individual
+C01049,2024-04-11,Avellaneda,individual
+C01719,2023-03-08,Morón,individual
+C04249,2020-12-09,Ramos Mejía,individual
+C01331,2021-11-01,Avellaneda,individual
+C01183,2023-09-16,Lomas de Zamora,individual
+C00821,2023-04-21,San Justo,individual
+C03897,2020-03-02,Tres de Febrero,individual
+C00006,2022-08-01,CABA,empresa
+C04217,2020-03-15,CABA,individual
+C02643,2022-06-11,Ituzaingó,individual
+C04729,2024-01-11,Tres de Febrero,individual
+C03993,2023-10-13,Lanús,individual
+C02994,2025-12-20,Tres de Febrero,individual
+C03748,2025-01-30,Ituzaingó,individual
+C03574,2023-05-19,Merlo,individual
+C04186,2024-06-04,Lomas de Zamora,individual
+C01244,2024-12-18,Morón,individual
+C04349,2020-08-14,CABA,individual
+C01854,2023-06-01,Ituzaingó,individual
+C04866,2021-11-24,Tres de Febrero,individual
+C01987,2023-10-27,San Justo,individual
+C02871,2021-01-16,Avellaneda,individual
+C04800,2021-02-12,San Justo,individual
+C00089,2023-05-02,La Matanza,individual
+C03591,2022-09-25,CABA,individual
+C02797,2022-05-23,Tres de Febrero,individual
+C03822,2022-07-13,Lanús,individual
+C03992,2021-10-28,Merlo,individual
+C03438,2020-05-13,Merlo,individual
+C04634,2020-09-07,Morón,individual
+C00808,2020-09-29,Lanús,individual
+C04947,2021-06-05,Ituzaingó,individual
+C02819,2022-02-19,Avellaneda,individual
+C02156,2022-07-25,Tres de Febrero,individual
+C00729,2025-08-08,La Matanza,individual
+C00741,2022-07-27,San Justo,individual
+C03977,2024-12-31,Lomas de Zamora,individual
+C01381,2023-04-14,Ramos Mejía,individual
+C04592,2024-12-19,Lomas de Zamora,individual
+C02408,2021-01-21,Avellaneda,individual
+C04654,2023-07-08,San Justo,individual
+C04715,2021-11-21,Tres de Febrero,empresa
+C02987,2022-04-24,San Justo,individual
+C02023,2021-05-07,Lanús,individual
+C04158,2025-01-23,Ramos Mejía,individual
+C03588,2023-12-29,San Justo,individual
+C03674,2020-10-13,Morón,empresa
+C01212,2025-01-13,Morón,individual
+C02065,2021-06-19,Quilmes,individual
+C03247,2021-03-23,Lomas de Zamora,individual
+C02708,2022-01-08,Lanús,individual
+C00582,2021-02-04,San Justo,individual
+C00772,2021-06-09,Lomas de Zamora,individual
+C04564,2025-11-12,Ramos Mejía,empresa
+C04335,2022-09-15,Lanús,individual
+C04082,2022-07-26,Lanús,individual
+C01455,2022-05-06,Merlo,individual
+C00986,2025-01-22,Lomas de Zamora,individual
+C04490,2023-12-07,Merlo,empresa
+C01159,2024-04-14,Lomas de Zamora,individual
+C03936,2022-02-15,Ramos Mejía,empresa
+C04358,2020-03-09,Lomas de Zamora,individual
+C00196,2024-06-03,Lomas de Zamora,individual
+C04813,2022-11-14,San Justo,individual
+C00387,2023-03-24,Tres de Febrero,empresa
+C03554,2025-04-09,Ituzaingó,individual
+C00809,2021-09-15,La Matanza,individual
+C02380,2022-08-01,CABA,empresa
+C03046,2021-12-01,La Matanza,individual
+C02116,2024-12-07,Merlo,individual
+C01553,2024-05-23,Lanús,individual
+C04003,2023-07-26,Avellaneda,individual
+C00293,2021-10-11,Quilmes,individual
+C01512,2021-03-18,Merlo,individual
+C01170,2024-11-29,Ituzaingó,empresa
+C02605,2021-05-19,Ituzaingó,empresa
+C02055,2023-05-31,Ituzaingó,individual
+C03114,2022-07-15,Quilmes,individual
+C04562,2021-02-08,Ituzaingó,individual
+C00851,2022-04-02,Quilmes,individual
+C04645,2020-04-08,Tres de Febrero,individual
+C03903,2020-07-05,Tres de Febrero,individual
+C03926,2023-12-14,Tres de Febrero,individual
+C01429,2023-04-19,Lomas de Zamora,individual
+C01860,2025-08-25,Merlo,individual
+C02768,2024-10-03,CABA,individual
+C02978,2020-05-20,Morón,individual
+C01158,2024-05-04,Lanús,individual
+C01277,2023-02-09,Ramos Mejía,individual
+C03659,2023-11-27,Avellaneda,individual
+C01310,2024-05-10,Morón,individual
+C01297,2024-05-11,Avellaneda,empresa
+C01202,2025-05-24,Avellaneda,individual
+C03907,2022-07-20,Morón,individual
+C03665,2021-11-08,Lomas de Zamora,empresa
+C00565,2024-01-01,Merlo,empresa
+C00131,2022-04-18,San Justo,individual
+C04264,2021-07-26,Lanús,individual
+C02512,2025-08-21,Lomas de Zamora,individual
+C03478,2023-12-04,Lanús,individual
+C04526,2020-09-30,Quilmes,individual
+C00695,2025-06-18,San Justo,empresa
+C01942,2025-07-11,Ramos Mejía,individual
+C00461,2020-08-22,Ramos Mejía,individual
+C00032,2023-12-26,La Matanza,individual
+C02625,2021-10-10,Tres de Febrero,empresa
+C04960,2025-04-02,Avellaneda,individual
+C04441,2022-07-13,Lomas de Zamora,individual
+C02633,2023-03-10,La Matanza,individual
+C04151,2023-05-27,Lomas de Zamora,empresa
+C04347,2025-12-26,Lanús,individual
+C03654,2024-06-17,Merlo,individual
+C02962,2023-03-30,Morón,individual
+C01164,2022-01-24,Lomas de Zamora,individual
+C01224,2022-04-29,Ramos Mejía,individual
+C01416,2023-06-14,CABA,individual
+C01228,2024-03-27,Lanús,individual
+C04501,2022-04-26,Ramos Mejía,individual
+C02649,2021-04-06,CABA,individual
+C01773,2021-04-04,Merlo,empresa
+C02545,2021-04-13,Quilmes,individual
+C03901,2024-09-22,Merlo,empresa
+C02637,2021-08-29,Lanús,individual
+C03849,2025-07-23,CABA,individual
+C00667,2020-10-30,Avellaneda,individual
+C03192,2022-12-20,Ramos Mejía,individual
+C01597,2025-12-09,La Matanza,individual
+C00090,2025-02-25,La Matanza,individual
+C01621,2024-11-14,Merlo,individual
+C02675,2020-09-07,Lanús,individual
+C04507,2020-12-15,La Matanza,individual
+C01926,2025-08-11,Ramos Mejía,individual
+C00570,2025-02-17,Ramos Mejía,individual
+C02137,2024-04-21,Merlo,individual
+C00158,2022-05-16,Ramos Mejía,individual
+C04393,2024-12-29,Ramos Mejía,individual
+C03217,2025-05-03,Morón,empresa
+C04193,2025-08-05,Ramos Mejía,empresa
+C01685,2021-06-10,Lomas de Zamora,empresa
+C04860,2025-10-01,CABA,empresa
+C02736,2020-08-01,Lomas de Zamora,individual
+C01354,2022-09-11,Ituzaingó,individual
+C00879,2025-05-09,Ramos Mejía,individual
+C01563,2020-12-29,Ituzaingó,individual
+C02437,2023-06-10,Quilmes,individual
+C01677,2020-08-09,Morón,individual
+C00923,2021-05-26,San Justo,individual
+C00185,2023-09-27,Avellaneda,individual
+C00016,2024-02-25,CABA,empresa
+C00388,2025-10-10,Ituzaingó,individual
+C03058,2025-09-14,Quilmes,individual
+C04052,2022-03-18,San Justo,individual
+C02814,2025-06-08,Morón,individual
+C04108,2024-02-24,San Justo,individual
+C01350,2025-07-22,Quilmes,individual
+C00255,2024-07-06,Morón,individual
+C00550,2022-04-27,Lanús,individual
+C00087,2022-10-24,San Justo,individual
+C00803,2021-10-07,San Justo,individual
+C00224,2023-09-11,Lanús,individual
+C00755,2021-03-27,CABA,individual
+C03364,2024-12-17,San Justo,individual
+C03641,2025-05-27,Ituzaingó,individual
+C01447,2023-08-17,Ramos Mejía,individual
+C01141,2022-08-11,Morón,empresa
+C02285,2023-05-20,CABA,individual
+C02930,2025-03-02,Ramos Mejía,individual
+C01328,2023-03-14,Lomas de Zamora,individual
+C02155,2021-11-15,Lomas de Zamora,individual
+C01659,2023-02-26,Quilmes,empresa
+C04180,2024-02-11,Tres de Febrero,individual
+C01123,2024-09-14,Quilmes,individual
+C02964,2020-03-11,Avellaneda,individual
+C02626,2024-02-26,Tres de Febrero,individual
+C01841,2020-12-11,Merlo,individual
+C04602,2023-12-08,CABA,individual
+C02301,2025-09-01,Merlo,individual
+C02368,2020-09-03,Ramos Mejía,individual
+C03791,2020-04-21,Lomas de Zamora,individual
+C02024,2020-08-08,Ramos Mejía,individual
+C04512,2025-12-23,Ituzaingó,empresa
+C04056,2022-08-08,Lanús,individual
+C01484,2023-07-10,Avellaneda,individual
+C04494,2020-05-13,Ramos Mejía,individual
+C02329,2023-07-19,La Matanza,individual
+C02186,2023-06-12,Avellaneda,individual
+C02210,2022-01-30,Lanús,individual
+C02528,2021-08-05,CABA,empresa
+C04293,2022-10-30,Lomas de Zamora,individual
+C04969,2022-03-10,San Justo,individual
+C02000,2020-08-28,CABA,individual
+C00168,2020-12-13,Ramos Mejía,individual
+C02853,2024-08-27,Morón,individual
+C00756,2023-02-13,Ituzaingó,individual
+C01376,2020-09-10,Ramos Mejía,individual
+C01252,2024-06-03,La Matanza,individual
+C04094,2024-12-20,La Matanza,individual
+C00947,2025-08-19,Ituzaingó,individual
+C03796,2023-10-14,CABA,empresa
+C03551,2020-07-25,Lomas de Zamora,individual
+C00332,2024-05-02,Ituzaingó,empresa
+C01360,2024-05-26,San Justo,individual
+C04174,2025-12-26,San Justo,empresa
+C01609,2021-11-03,Lomas de Zamora,individual
+C02482,2021-03-02,Ramos Mejía,individual
+C01243,2022-01-16,Merlo,individual
+C00543,2020-12-05,Ituzaingó,individual
+C01357,2025-03-08,Avellaneda,individual
+C03049,2023-03-14,La Matanza,individual
+C04087,2024-07-03,Lanús,individual
+C01213,2020-10-04,Lanús,individual
+C01256,2021-10-30,Tres de Febrero,individual
+C00544,2025-05-01,La Matanza,empresa
+C04030,2025-06-05,San Justo,individual
+C00825,2021-04-16,Tres de Febrero,individual
+C00757,2025-07-01,Merlo,individual
+C03005,2022-07-09,Avellaneda,individual
+C00320,2020-05-22,Ituzaingó,individual
+C04018,2025-02-28,Merlo,individual
+C02331,2024-06-11,CABA,individual
+C04218,2023-04-30,Morón,individual
+C01334,2022-09-25,Tres de Febrero,individual
+C01272,2023-10-02,Tres de Febrero,individual
+C04746,2020-10-05,Merlo,individual
+C04523,2025-06-12,Ituzaingó,individual
+C02066,2020-03-09,Ramos Mejía,individual
+C02277,2022-11-22,Ituzaingó,empresa
+C04137,2024-05-16,Merlo,individual
+C01612,2025-03-13,Ituzaingó,individual
+C04414,2025-04-15,San Justo,individual
+C02582,2022-03-08,Tres de Febrero,individual
+C01880,2021-11-14,Tres de Febrero,individual
+C02242,2022-08-23,Lanús,empresa
+C00420,2021-08-27,Lanús,individual
+C03519,2023-09-26,Ituzaingó,empresa
+C01672,2022-10-25,Lomas de Zamora,individual
+C04495,2022-01-01,Lanús,individual
+C01963,2024-04-05,Lomas de Zamora,individual
+C02919,2025-01-27,Tres de Febrero,individual
+C02051,2025-05-04,Quilmes,individual
+C01314,2021-08-24,Merlo,individual
+C03189,2023-10-06,San Justo,individual
+C03961,2020-05-08,CABA,individual
+C03405,2023-12-29,Quilmes,individual
+C04400,2025-12-04,Ituzaingó,individual
+C00610,2023-01-17,Quilmes,empresa
+C00215,2023-07-12,Morón,individual
+C01014,2021-04-01,Lomas de Zamora,empresa
+C02552,2022-05-02,CABA,empresa
+C00334,2021-11-05,Ituzaingó,individual
+C00773,2020-02-16,Morón,individual
+C00876,2024-08-28,Morón,individual
+C04662,2025-11-06,Morón,individual
+C01537,2021-03-26,Lomas de Zamora,individual
+C03443,2020-02-20,La Matanza,individual
+C01567,2024-12-06,Tres de Febrero,individual
+C00592,2021-02-18,Tres de Febrero,individual
+C01722,2020-01-13,CABA,empresa
+C03103,2020-04-12,Lanús,individual
+C01196,2021-01-31,San Justo,individual
+C01989,2022-06-26,Tres de Febrero,individual
+C00905,2023-01-11,Avellaneda,individual
+C01646,2024-03-22,Avellaneda,individual
+C02227,2023-08-11,Quilmes,individual
+C00878,2020-03-15,Lanús,individual
+C04555,2021-01-13,Morón,individual
+C00161,2020-04-16,Quilmes,empresa
+C00889,2021-05-22,Tres de Febrero,individual
+C02007,2022-09-08,La Matanza,individual
+C02732,2025-01-31,La Matanza,individual
+C00846,2025-08-01,Lanús,individual
+C03615,2025-02-11,Avellaneda,individual
+C02270,2024-12-27,Ramos Mejía,individual
+C01346,2024-03-11,Merlo,individual
+C02255,2023-01-20,La Matanza,individual
+C01605,2021-09-06,Quilmes,individual
+C01849,2021-08-30,Lanús,individual
+C02455,2022-08-21,Ramos Mejía,individual
+C00063,2021-12-16,Ramos Mejía,empresa
+C01362,2023-11-26,Lanús,individual
+C04869,2022-09-12,Lomas de Zamora,empresa
+C03647,2021-05-17,Tres de Febrero,individual
+C01039,2021-03-05,Ituzaingó,individual
+C01108,2025-05-24,Ramos Mejía,individual
+C00416,2020-02-14,La Matanza,empresa
+C04302,2020-06-03,CABA,individual
+C01461,2020-10-11,Quilmes,individual
+C04479,2023-01-05,Avellaneda,individual
+C02767,2021-01-24,San Justo,individual
+C04956,2020-02-06,Ramos Mejía,empresa
+C00944,2020-11-05,Ramos Mejía,individual
+C00628,2024-10-12,Merlo,individual
+C00331,2023-04-18,Morón,empresa
+C02254,2024-02-22,Avellaneda,individual
+C01223,2022-04-04,Lanús,individual
+C03000,2024-07-02,San Justo,individual
+C00435,2020-01-11,Lomas de Zamora,individual
+C03769,2025-02-20,CABA,individual
+C00385,2020-04-18,Lanús,individual
+C04336,2025-12-29,Lomas de Zamora,individual
+C03881,2024-06-16,Tres de Febrero,empresa
+C00526,2021-04-03,Merlo,individual
+C03278,2020-08-10,Merlo,individual
+C01300,2021-10-13,San Justo,individual
+C04329,2020-10-12,Ituzaingó,individual
+C00191,2025-12-28,Ituzaingó,empresa
+C02381,2025-07-03,Merlo,individual
+C04556,2023-12-12,Merlo,individual
+C01100,2024-09-08,Morón,individual
+C00472,2025-02-10,Merlo,individual
+C01818,2022-08-22,Merlo,individual
+C01622,2022-02-23,San Justo,individual
+C00322,2024-11-29,Quilmes,individual
+C00218,2024-06-25,Quilmes,individual
+C01048,2023-04-04,Quilmes,individual
+C04075,2023-05-01,Tres de Febrero,individual
+C01098,2024-04-09,Ituzaingó,individual
+C04711,2025-11-07,Quilmes,individual
+C02810,2020-09-22,Morón,individual
+C01292,2023-02-24,Avellaneda,individual
+C00175,2021-07-07,CABA,individual
+C00380,2023-09-25,Lomas de Zamora,individual
+C00148,2022-06-28,La Matanza,individual
+C04977,2025-08-18,CABA,individual
+C01744,2022-01-16,Tres de Febrero,individual
+C04508,2020-07-17,CABA,individual
+C00390,2024-12-21,Morón,individual
+C00130,2021-01-04,Merlo,empresa
+C03447,2020-02-24,Ituzaingó,individual
+C04918,2023-11-27,Quilmes,individual
+C01828,2022-07-31,Morón,empresa
+C00965,2024-08-20,Morón,individual
+C01869,2024-06-23,Tres de Febrero,empresa
+C02333,2021-02-17,Lanús,individual
+C04639,2024-04-14,Lomas de Zamora,individual
+C02939,2024-04-23,La Matanza,individual
+C04511,2021-03-31,San Justo,individual
+C01775,2020-09-18,Lomas de Zamora,individual
+C01194,2025-12-24,Quilmes,individual
+C04170,2023-07-14,Quilmes,empresa
+C01656,2022-06-23,Lomas de Zamora,empresa
+C00209,2025-12-07,Avellaneda,individual
+C04275,2021-01-11,Lomas de Zamora,empresa
+C03627,2023-12-18,Ramos Mejía,individual
+C04632,2024-07-24,La Matanza,individual
+C02153,2020-01-30,Avellaneda,individual
+C00644,2024-10-02,Merlo,individual
+C02168,2024-12-08,La Matanza,individual
+C03264,2022-05-04,Morón,individual
+C03490,2022-01-30,Merlo,individual
+C04453,2022-03-19,Tres de Febrero,individual
+C04284,2022-11-27,CABA,individual
+C02366,2020-12-23,San Justo,individual
+C02711,2024-04-19,Quilmes,individual
+C04901,2025-08-12,Ramos Mejía,individual
+C04995,2025-07-27,San Justo,empresa
+C01467,2020-07-21,CABA,individual
+C01530,2020-11-03,CABA,individual
+C04708,2020-12-08,San Justo,individual
+C02207,2024-12-08,Avellaneda,individual
+C02719,2020-10-24,Morón,individual
+C04290,2020-09-23,Quilmes,individual
+C02206,2022-10-17,Lomas de Zamora,individual
+C04827,2020-02-26,Avellaneda,individual
+C03032,2024-05-08,Quilmes,empresa
+C04997,2025-01-15,Lanús,individual
+C04297,2020-02-09,San Justo,individual
+C02178,2021-12-14,Morón,individual
+C00289,2024-01-29,Ramos Mejía,individual
+C01000,2025-06-23,Ramos Mejía,individual
+C02958,2020-01-13,CABA,individual
+C01133,2020-01-24,Quilmes,empresa
+C02782,2023-02-28,Lanús,individual
+C01056,2021-04-03,Avellaneda,empresa
+C02723,2024-06-14,Merlo,individual
+C02514,2025-01-21,CABA,empresa
+C01075,2022-07-31,Lomas de Zamora,empresa
+C03937,2024-05-12,San Justo,individual
+C03161,2020-04-20,Avellaneda,individual
+C01820,2024-12-24,Lanús,individual
+C00516,2025-06-01,Quilmes,individual
+C02498,2024-05-17,Lomas de Zamora,empresa
+C02150,2022-08-23,Quilmes,individual
+C03933,2020-10-31,Morón,individual
+C03964,2024-02-10,Lomas de Zamora,individual
+C03746,2021-02-12,La Matanza,individual
+C04773,2023-04-17,CABA,individual
+C04644,2025-12-06,Ituzaingó,individual
+C01365,2023-10-25,Avellaneda,individual
+C04426,2023-09-08,La Matanza,empresa
+C04882,2021-01-19,Ramos Mejía,individual
+C03815,2023-12-19,Ituzaingó,individual
+C03050,2020-09-24,Morón,individual
+C03178,2025-01-07,CABA,individual
+C04190,2025-12-27,Morón,individual
+C03852,2023-10-23,Avellaneda,individual
+C03259,2020-07-29,CABA,individual
+C00732,2022-12-10,CABA,individual
+C00304,2023-10-04,Ramos Mejía,individual
+C00110,2021-04-30,Avellaneda,individual
+C02311,2024-04-25,Lomas de Zamora,individual
+C03235,2022-09-21,Morón,individual
+C00541,2021-01-09,La Matanza,individual
+C00140,2024-04-23,Lomas de Zamora,individual
+C01737,2022-01-02,Ituzaingó,individual
+C01154,2020-12-19,Lanús,individual
+C01891,2021-04-25,La Matanza,individual
+C00532,2022-06-30,Avellaneda,individual
+C00738,2022-08-29,CABA,individual
+C03001,2025-01-19,Lanús,individual
+C00442,2022-01-21,Ramos Mejía,individual
+C01611,2025-02-11,Morón,individual
+C02911,2023-12-15,Merlo,individual
+C04598,2024-01-12,Lomas de Zamora,individual
+C01642,2020-10-06,CABA,individual
+C03225,2020-01-09,Ituzaingó,individual
+C03487,2024-06-22,La Matanza,individual
+C00415,2022-10-31,Tres de Febrero,empresa
+C02209,2021-06-21,San Justo,individual
+C01411,2020-06-09,Morón,individual
+C04836,2024-06-12,Morón,individual
+C02398,2022-05-12,Lanús,individual
+C02349,2025-01-04,San Justo,individual
+C02641,2024-07-18,Tres de Febrero,individual
+C04775,2020-05-22,San Justo,individual
+C00225,2021-01-22,Merlo,individual
+C04683,2020-09-08,Lanús,individual
+C00579,2023-06-19,Ramos Mejía,individual
+C00095,2020-09-16,Quilmes,empresa
+C03431,2022-02-13,La Matanza,individual
+C00698,2024-01-27,Quilmes,individual
+C04135,2023-10-17,CABA,empresa
+C00410,2021-09-20,La Matanza,individual
+C04532,2023-10-26,CABA,individual
+C04955,2022-06-01,Avellaneda,individual
+C04111,2024-02-28,Merlo,individual
+C03238,2025-12-11,Lomas de Zamora,individual
+C00520,2025-05-14,Ituzaingó,individual
+C00180,2021-08-08,San Justo,individual
+C00798,2025-11-17,CABA,individual
+C04478,2020-02-20,Avellaneda,empresa
+C01192,2022-12-01,Avellaneda,individual
+C00857,2022-05-01,San Justo,empresa
+C02172,2025-04-15,La Matanza,individual
+C04502,2021-08-08,Avellaneda,individual
+C04820,2024-08-06,Avellaneda,individual
+C03126,2021-07-02,Morón,individual
+C01031,2021-02-01,Quilmes,individual
+C03978,2022-07-03,Lomas de Zamora,individual
+C01114,2020-03-12,Morón,individual
+C03571,2020-01-07,Quilmes,individual
+C01510,2023-02-16,San Justo,empresa
+C04946,2021-01-27,Lanús,individual
+C00552,2022-09-17,Merlo,individual
+C00819,2022-07-27,Ituzaingó,individual
+C00051,2025-12-08,Quilmes,individual
+C02169,2023-04-07,Quilmes,individual
+C03828,2020-10-28,Ramos Mejía,individual
+C00913,2022-12-27,Avellaneda,individual
+C02405,2023-01-19,Avellaneda,individual
+C00272,2021-07-18,Avellaneda,individual
+C04139,2025-07-21,Tres de Febrero,individual
+C04415,2022-12-27,Quilmes,individual
+C01270,2023-12-07,Merlo,individual
+C00858,2024-12-31,Quilmes,individual
+C00734,2024-12-13,Ramos Mejía,individual
+C01669,2022-02-03,Lanús,individual
+C00247,2024-01-02,Quilmes,individual
+C00405,2021-05-11,Lomas de Zamora,individual
+C04161,2025-02-07,Ituzaingó,individual
+C02421,2021-11-26,Avellaneda,individual
+C01928,2021-08-19,Quilmes,individual
+C00389,2022-10-05,Tres de Febrero,individual
+C02535,2020-03-16,Lanús,individual
+C00030,2023-05-14,Tres de Febrero,individual
+C02286,2025-11-20,Tres de Febrero,individual
+C00378,2021-11-25,Lomas de Zamora,individual
+C03220,2024-08-25,Ituzaingó,individual
+C00013,2024-05-18,Quilmes,empresa
+C04846,2020-05-03,Quilmes,individual
+C04377,2021-03-02,Tres de Febrero,individual
+C00127,2025-04-25,Ituzaingó,individual
+C03089,2020-02-22,Ituzaingó,individual
+C03536,2024-11-24,Lanús,individual
+C04533,2022-12-24,Morón,individual
+C02960,2023-06-28,La Matanza,individual
+C03744,2023-03-17,Ituzaingó,individual
+C00753,2024-11-09,Morón,individual
+C03912,2023-02-06,Lomas de Zamora,individual
+C02166,2024-04-19,Merlo,individual
+C02406,2024-09-19,CABA,empresa
+C00024,2024-05-19,Avellaneda,individual
+C02804,2024-05-21,Lanús,individual
+C03851,2023-08-29,Avellaneda,individual
+C02294,2025-12-17,Ituzaingó,individual
+C04443,2022-01-02,Ituzaingó,individual
+C00358,2024-08-25,Lomas de Zamora,individual
+C00360,2023-10-28,Lanús,individual
+C00121,2023-12-06,Morón,individual
+C00710,2022-03-28,Lomas de Zamora,individual
+C03387,2022-07-21,Tres de Febrero,individual
+C02882,2022-06-30,Ituzaingó,individual
+C01983,2022-01-26,Morón,individual
+C03135,2024-03-02,Ituzaingó,individual
+C02888,2022-03-13,Ituzaingó,individual
+C00080,2024-02-13,Morón,empresa
+C00817,2020-02-04,Ramos Mejía,individual
+C00157,2021-06-13,Ramos Mejía,individual
+C01452,2021-06-23,Merlo,individual
+C01500,2024-01-18,Quilmes,individual
+C04833,2020-10-29,Ituzaingó,individual
+C02491,2022-08-01,Quilmes,individual
+C00258,2022-04-27,Tres de Febrero,individual
+C01428,2020-11-14,San Justo,individual
+C02790,2021-10-01,San Justo,empresa
+C03989,2022-12-14,Ituzaingó,individual
+C01980,2024-10-18,Lanús,individual
+C02851,2023-07-04,Ramos Mejía,individual
+C04769,2022-11-05,Merlo,individual
+C01814,2020-12-15,Lanús,individual
+C00047,2021-04-21,Ramos Mejía,individual
+C00956,2020-05-26,Morón,individual
+C00054,2023-06-13,Ituzaingó,individual
+C04609,2025-07-28,Lomas de Zamora,empresa
+C00719,2020-05-07,La Matanza,individual
+C01969,2024-10-03,San Justo,individual
+C02898,2023-05-25,San Justo,empresa
+C03929,2022-02-09,Lanús,individual
+C00438,2022-10-08,Lomas de Zamora,individual
+C00010,2022-09-12,Ituzaingó,individual
+C02949,2020-07-04,CABA,individual
+C00107,2025-03-26,Tres de Febrero,individual
+C01042,2022-07-10,La Matanza,individual
+C03424,2024-06-04,Lomas de Zamora,individual
+C00471,2021-03-26,Lanús,empresa
+C02916,2024-04-08,Merlo,individual
+C02032,2022-10-29,Lomas de Zamora,individual
+C00665,2022-09-04,San Justo,individual
+C03228,2024-09-15,Merlo,empresa
+C02477,2020-12-22,Quilmes,individual
+C02184,2023-10-05,Quilmes,individual
+C00804,2023-06-16,Ramos Mejía,individual
+C04677,2025-10-04,Merlo,individual
+C00230,2023-02-07,CABA,individual
+C03199,2022-01-24,La Matanza,individual
+C03869,2021-04-16,Avellaneda,individual
+C03132,2025-04-03,Morón,individual
+C02812,2021-08-07,Morón,individual
+C02510,2022-01-03,Merlo,individual
+C00925,2023-08-05,San Justo,individual
+C03015,2023-05-26,Morón,individual
+C00432,2022-05-03,Lomas de Zamora,individual
+C00458,2023-09-01,Merlo,individual
+C00855,2021-08-01,San Justo,individual
+C00208,2025-11-16,Merlo,individual
+C01598,2021-09-16,Quilmes,individual
+C00383,2025-01-17,San Justo,individual
+C03011,2023-01-28,San Justo,individual
+C01012,2024-11-01,Merlo,empresa
+C03202,2025-07-20,Morón,individual
+C01747,2025-12-11,Quilmes,individual
+C01857,2025-08-15,Merlo,individual
+C04536,2021-06-25,CABA,empresa
+C02148,2020-11-26,Lanús,individual
+C01074,2021-05-23,Morón,individual
+C02836,2021-11-10,San Justo,individual
+C02766,2024-12-09,CABA,individual
+C03923,2024-12-23,La Matanza,individual
+C04029,2020-10-26,Morón,individual
+C01801,2023-06-09,Lomas de Zamora,empresa
+C01878,2020-09-01,Ramos Mejía,empresa
+C02268,2024-01-09,Morón,individual
+C00635,2025-07-22,Ramos Mejía,empresa
+C00749,2022-03-10,Merlo,individual
+C04483,2021-07-22,Ramos Mejía,empresa
+C00583,2025-02-14,La Matanza,individual
+C01654,2022-08-01,Morón,individual
+C03888,2020-10-31,Quilmes,individual
+C00655,2021-12-15,Quilmes,individual
+C04737,2024-05-26,Merlo,individual
+C04802,2022-11-10,Merlo,empresa
+C02317,2025-12-31,Lanús,individual
+C02533,2023-03-11,Tres de Febrero,individual
+C03495,2021-04-20,Ramos Mejía,individual
+C04629,2022-09-17,Lomas de Zamora,individual
+C00642,2022-11-19,Morón,individual
+C03561,2020-12-05,Morón,individual
+C04710,2021-12-18,Lomas de Zamora,individual
+C01791,2022-12-29,Ituzaingó,individual
+C00066,2021-03-07,Ramos Mejía,individual
+C03546,2023-03-07,Ramos Mejía,individual
+C00448,2024-07-22,Lanús,individual
+C03781,2025-05-27,Morón,empresa
+C00647,2020-08-13,Lomas de Zamora,individual
+C04527,2022-02-26,Ramos Mejía,individual
+C00594,2021-11-01,Avellaneda,individual
+C01504,2022-01-02,Morón,empresa
+C00883,2023-07-01,Merlo,individual
+C00308,2023-10-29,Avellaneda,individual
+C03004,2023-10-14,Lanús,individual
+C03459,2025-07-08,Tres de Febrero,individual
+C01307,2022-04-07,Merlo,empresa
+C00077,2020-05-08,Lanús,individual
+C01766,2021-03-17,Lanús,individual
+C02583,2025-11-17,Avellaneda,individual
+C01398,2023-01-18,La Matanza,individual
+C01080,2020-05-05,Tres de Febrero,empresa
+C03600,2023-02-23,La Matanza,individual
+C04057,2023-04-20,Merlo,individual
+C01499,2023-03-26,CABA,individual
+C03611,2020-12-27,Quilmes,empresa
+C02027,2024-12-08,Lanús,empresa
+C02840,2023-05-09,Lomas de Zamora,individual
+C00849,2022-12-24,Lomas de Zamora,individual
+C03177,2020-03-11,Lomas de Zamora,individual
+C02370,2022-12-01,Merlo,empresa
+C04897,2025-11-28,Ituzaingó,individual
+C03885,2025-02-16,La Matanza,individual
+C03428,2024-03-22,La Matanza,individual
+C04452,2022-09-30,Quilmes,individual
+C00852,2021-08-05,Lanús,individual
+C02534,2021-02-17,Ituzaingó,individual
+C04117,2024-09-24,CABA,individual
+C01060,2025-09-07,Avellaneda,individual
+C00524,2020-10-17,Merlo,individual
+C00924,2025-09-30,Lanús,individual
+C00917,2024-10-26,La Matanza,individual
+C04993,2021-06-01,San Justo,empresa
+C01378,2025-04-13,Ramos Mejía,individual
+C00381,2023-09-04,Ramos Mejía,individual
+C01401,2023-06-15,Ituzaingó,individual
+C03541,2022-11-15,La Matanza,individual
+C03339,2024-09-28,Lomas de Zamora,empresa
+C02666,2023-09-09,La Matanza,individual
+C03033,2022-10-28,Ituzaingó,individual
+C02183,2022-12-23,Tres de Febrero,individual
+C04122,2024-04-30,Lanús,individual
+C02449,2023-11-25,Tres de Febrero,empresa
+C04156,2024-12-10,CABA,individual
+C03565,2025-01-16,San Justo,individual
+C03755,2025-05-05,San Justo,individual
+C02589,2024-01-15,Tres de Febrero,individual
+C02677,2023-11-23,Ituzaingó,individual
+C00321,2020-09-12,Tres de Febrero,empresa
+C01468,2024-07-18,Lomas de Zamora,individual
+C00005,2020-07-24,Merlo,empresa
+C03953,2021-12-07,Lanús,individual
+C00869,2025-08-17,La Matanza,empresa
+C03663,2021-12-03,Quilmes,individual
+C03198,2023-10-27,La Matanza,empresa
+C00796,2022-03-08,Tres de Febrero,individual
+C00926,2023-11-30,CABA,individual
+C02224,2024-06-26,CABA,individual
+C03223,2025-03-10,La Matanza,individual
+C01033,2020-08-03,Morón,individual
+C03486,2022-07-02,Merlo,individual
+C03186,2020-03-01,CABA,empresa
+C04922,2022-06-03,Morón,individual
+C02849,2022-10-31,La Matanza,individual
+C02041,2022-10-08,Lomas de Zamora,individual
+C02218,2020-01-08,Merlo,individual
+C02632,2021-07-22,Avellaneda,individual
+C02837,2020-05-10,Ituzaingó,individual
+C03672,2025-10-06,Lanús,individual
+C01157,2025-11-10,Ituzaingó,individual
+C02371,2020-11-12,Tres de Febrero,empresa
+C01821,2024-05-06,Quilmes,individual
+C01647,2023-08-20,Lanús,individual
+C04146,2022-08-28,Tres de Febrero,individual
+C03893,2024-08-25,Lomas de Zamora,individual
+C00513,2025-02-20,Avellaneda,individual
+C01743,2023-08-10,CABA,individual
+C04625,2020-07-30,Quilmes,individual
+C04854,2022-12-14,Avellaneda,individual
+C03245,2025-04-29,San Justo,individual
+C04540,2024-12-21,Merlo,individual
+C02789,2022-11-06,Ramos Mejía,individual
+C02356,2021-12-16,Quilmes,individual
+C04853,2023-04-21,San Justo,empresa
+C03702,2024-10-18,Lanús,individual
+C00244,2023-06-18,Ramos Mejía,individual
+C01368,2023-04-21,Ituzaingó,individual
+C03484,2023-09-19,Avellaneda,individual
+C02565,2024-08-10,Tres de Febrero,individual
+C02609,2022-10-17,CABA,empresa
+C01976,2024-07-30,Merlo,individual
+C04699,2023-07-26,San Justo,individual
+C04115,2023-03-15,Quilmes,empresa
+C01739,2024-11-04,Ituzaingó,individual
+C00495,2025-08-31,Avellaneda,individual
+C02392,2022-09-16,Morón,individual
+C03077,2022-07-07,Ituzaingó,individual
+C00948,2025-10-15,La Matanza,individual
+C00349,2023-07-08,San Justo,individual
+C00039,2025-09-05,La Matanza,empresa
+C02089,2024-09-06,Merlo,individual
+C03784,2020-09-10,Ramos Mejía,individual
+C04590,2021-10-20,La Matanza,individual
+C00840,2025-12-16,Ituzaingó,empresa
+C04744,2023-03-28,Lanús,individual
+C04972,2021-09-22,Merlo,individual
+C02280,2025-11-22,Lanús,individual
+C02179,2021-12-31,Morón,individual
+C00866,2022-12-12,Ramos Mejía,individual
+C04128,2024-02-13,Ramos Mejía,individual
+C03244,2020-06-24,Lanús,individual
+C01396,2021-07-30,Tres de Febrero,individual
+C02230,2021-12-02,San Justo,individual
+C01968,2020-08-05,Lomas de Zamora,individual
+C04705,2020-02-11,Tres de Febrero,individual
+C04475,2023-03-30,La Matanza,individual
+C00288,2020-01-14,Tres de Febrero,individual
+C03393,2024-11-17,Lanús,individual
+C03699,2023-06-04,Ramos Mejía,empresa
+C04640,2024-06-21,Quilmes,individual
+C01168,2023-04-12,Merlo,individual
+C00561,2024-03-07,CABA,individual
+C01182,2025-03-22,Quilmes,individual
+C04815,2024-11-26,Tres de Febrero,individual
+C04779,2025-10-01,La Matanza,individual
+C00186,2025-09-21,CABA,individual
+C00774,2020-09-05,Morón,empresa
+C00871,2025-06-20,Lanús,individual
+C04567,2021-10-13,Morón,individual
+C01888,2023-04-21,Merlo,individual
+C02610,2022-05-21,Morón,individual
+C04864,2020-04-09,Ramos Mejía,individual
+C04655,2024-11-21,La Matanza,individual
+C04749,2025-03-22,Ituzaingó,individual
+C01652,2024-07-13,Quilmes,empresa
+C02114,2022-10-31,Morón,individual
+C04950,2023-11-25,Tres de Febrero,individual
+C04697,2020-06-12,San Justo,empresa
+C00099,2023-05-24,Merlo,individual
+C03660,2021-02-10,Morón,individual
+C00776,2020-04-04,Merlo,individual
+C00569,2020-08-06,Quilmes,individual
+C03494,2021-12-08,Tres de Febrero,individual
+C01175,2021-04-14,Avellaneda,individual
+C01440,2023-01-02,Lomas de Zamora,individual
+C02664,2023-12-20,La Matanza,individual
+C04090,2025-01-28,Quilmes,empresa
+C04574,2025-02-15,Quilmes,individual
+C02604,2024-02-08,Morón,empresa
+C02877,2024-01-09,La Matanza,individual
+C03827,2025-08-10,Avellaneda,individual
+C03435,2023-09-11,Ramos Mejía,individual
+C01410,2022-12-30,San Justo,individual
+C00150,2023-07-20,CABA,individual
+C00241,2021-12-12,La Matanza,individual
+C04325,2024-08-21,Morón,individual
+C00479,2021-10-13,Morón,individual
+C04067,2020-06-17,San Justo,individual
+C00860,2020-01-21,Ituzaingó,individual
+C04292,2024-05-26,Quilmes,individual
+C04573,2025-10-01,Avellaneda,individual
+C03834,2025-12-06,Avellaneda,individual
+C01662,2021-03-04,San Justo,individual
+C02776,2025-08-21,Ituzaingó,individual
+C00058,2021-09-07,Merlo,individual
+C02883,2024-01-02,Ramos Mejía,empresa
+C02402,2020-01-23,Lomas de Zamora,individual
+C03133,2023-07-02,Lomas de Zamora,individual
+C03187,2024-02-13,Ramos Mejía,individual
+C03331,2024-01-11,Ituzaingó,empresa
+C01783,2023-07-14,CABA,individual
+C00194,2020-05-03,Tres de Febrero,empresa
+C03902,2023-07-19,Lanús,individual
+C02704,2021-07-09,Quilmes,individual
+C00971,2024-04-21,Merlo,empresa
+C04795,2021-05-12,Morón,individual
+C00807,2020-10-16,CABA,empresa
+C02968,2025-09-06,La Matanza,individual
+C04904,2021-07-04,La Matanza,individual
+C03938,2022-11-05,Morón,individual
+C00598,2025-01-07,CABA,individual
+C00375,2024-12-08,CABA,individual
+C03091,2020-10-04,Ituzaingó,individual
+C02772,2021-08-29,Avellaneda,individual
+C01028,2021-10-30,Ramos Mejía,individual
+C00248,2022-06-25,CABA,individual
+C04948,2020-03-15,Merlo,individual
+C02682,2022-06-23,Lomas de Zamora,individual
+C02636,2021-08-19,San Justo,individual
+C04095,2021-08-22,Ituzaingó,empresa
+C03297,2024-04-16,Avellaneda,empresa
+C01207,2021-10-10,Ituzaingó,individual
+C01477,2021-03-09,Lanús,individual
+C01511,2022-05-11,Tres de Febrero,individual
+C01770,2025-08-11,Lanús,empresa
+C02806,2021-02-28,San Justo,individual
+C03759,2020-11-09,Merlo,individual
+C03610,2024-05-26,CABA,individual
+C00044,2025-08-02,San Justo,individual
+C00966,2021-06-15,San Justo,empresa
+C00488,2024-10-26,Merlo,individual
+C02170,2021-11-11,Ramos Mejía,individual
+C00023,2022-11-05,Tres de Febrero,individual
+C01286,2023-06-29,Quilmes,individual
+C02005,2022-06-16,Ramos Mejía,individual
+C02324,2021-07-12,Merlo,empresa
+C04542,2024-09-21,CABA,individual
+C02413,2023-10-01,Avellaneda,individual
+C01312,2023-04-25,CABA,individual
+C00762,2023-09-21,La Matanza,individual
+C03946,2020-11-09,La Matanza,individual
+C01126,2021-04-11,Lomas de Zamora,individual
+C04422,2020-11-04,Avellaneda,individual
+C03958,2020-08-09,Quilmes,individual
+C01712,2022-06-18,Morón,individual
+C02253,2024-05-19,Avellaneda,individual
+C01409,2024-03-14,Avellaneda,individual
+C03324,2025-08-20,La Matanza,individual
+C02064,2025-05-15,Lomas de Zamora,individual
+C01332,2023-05-01,Lomas de Zamora,individual
+C00094,2022-03-04,Lomas de Zamora,individual
+C00326,2020-07-31,La Matanza,individual
+C02336,2020-05-29,Tres de Febrero,individual
+C02013,2021-06-29,CABA,individual
+C00768,2022-04-04,Lomas de Zamora,individual
+C03572,2020-01-12,Ituzaingó,individual
+C03471,2024-12-23,San Justo,individual
+C01624,2022-01-21,Tres de Febrero,individual
+C00260,2022-10-15,Morón,individual
+C00369,2022-07-10,Ituzaingó,individual
+C03616,2020-05-17,Lanús,individual
+C01498,2025-07-31,San Justo,individual
+C02190,2021-04-09,Tres de Febrero,individual
+C02747,2024-10-17,Tres de Febrero,individual
+C01121,2025-02-13,CABA,individual
+C04225,2024-09-09,Avellaneda,empresa
+C04281,2023-11-11,Quilmes,individual
+C03698,2020-06-15,La Matanza,individual
+C00714,2020-04-14,CABA,individual
+C03723,2022-11-10,Ituzaingó,individual
+C01729,2023-11-27,Merlo,individual
+C02304,2022-09-27,Tres de Febrero,individual
+C01682,2025-08-24,Morón,individual
+C04220,2020-12-25,Merlo,individual
+C02644,2022-05-30,Quilmes,individual
+C00481,2023-09-01,San Justo,individual
+C03628,2020-01-05,Morón,empresa
+C00572,2025-09-09,Lanús,individual
+C00050,2020-12-12,La Matanza,individual
+C01945,2022-12-22,Tres de Febrero,individual
+C03429,2024-04-08,Merlo,empresa
+C02225,2022-11-28,Ituzaingó,individual
+C00046,2020-01-16,San Justo,empresa
+C00934,2021-12-24,Morón,individual
+C04759,2021-06-22,Tres de Febrero,individual
+C02445,2021-07-29,Lomas de Zamora,individual
+C04921,2025-01-01,Morón,individual
+C02673,2021-03-04,Lomas de Zamora,individual
+C02777,2022-08-17,Quilmes,individual
+C00018,2021-06-25,Avellaneda,individual
+C00138,2023-08-18,Morón,individual
+C03452,2025-10-22,La Matanza,individual
+C04874,2023-11-01,San Justo,individual
+C03970,2025-12-16,CABA,empresa
+C01169,2020-04-16,Tres de Febrero,individual
+C02182,2020-02-04,Ituzaingó,individual
+C04998,2023-12-22,Tres de Febrero,individual
+C04179,2022-03-24,Merlo,individual
+C01248,2021-04-27,Merlo,individual
+C04287,2024-03-30,La Matanza,individual
+C01554,2022-08-17,Avellaneda,individual
+C00545,2025-08-04,Lomas de Zamora,individual
+C01085,2020-02-26,Lomas de Zamora,individual
+C01110,2025-08-23,Quilmes,individual
+C04657,2025-05-24,Merlo,individual
+C03347,2024-09-14,Tres de Febrero,individual
+C02379,2021-11-26,Morón,individual
+C01339,2024-07-03,Lanús,individual
+C03316,2023-03-05,Quilmes,individual
+C04379,2024-07-25,La Matanza,individual
+C00043,2025-10-14,Tres de Febrero,individual
+C03861,2023-02-13,CABA,individual
+C01364,2020-07-11,Morón,individual
+C02096,2024-07-21,Lanús,individual
+C02838,2020-08-03,Lanús,individual
+C02264,2025-12-17,CABA,individual
+C02312,2022-05-04,Quilmes,individual
+C03194,2021-10-27,Tres de Febrero,empresa
+C04595,2025-01-13,Tres de Febrero,individual
+C00978,2025-10-10,Merlo,individual
+C01302,2023-03-08,Lomas de Zamora,individual
+C00465,2022-06-25,Ramos Mejía,individual
+C03344,2023-12-19,Merlo,individual
+C03080,2025-10-09,Ituzaingó,individual
+C00604,2023-07-22,Quilmes,individual
+C00069,2020-02-01,La Matanza,individual
+C03514,2024-11-19,Ramos Mejía,empresa
+C04707,2023-07-23,La Matanza,individual
+C01090,2020-09-22,Lomas de Zamora,individual
+C04597,2023-03-02,Ramos Mejía,individual
+C02322,2020-02-12,Quilmes,individual
+C03338,2020-08-06,Ramos Mejía,individual
+C00770,2023-01-05,Lomas de Zamora,individual
+C03060,2022-02-27,San Justo,individual
+C02674,2025-05-06,Lanús,individual
+C03562,2022-08-25,La Matanza,individual
+C00403,2024-10-13,San Justo,individual
+C02123,2022-01-19,Quilmes,individual
+C01494,2022-05-01,Morón,individual
+C03468,2021-08-06,Ramos Mejía,individual
+C00075,2024-10-29,Merlo,individual
+C03917,2020-11-14,Merlo,individual
+C03101,2025-10-02,Lanús,individual
+C03006,2024-09-03,Avellaneda,individual
+C00020,2020-12-06,San Justo,individual
+C01564,2022-04-18,Avellaneda,individual
+C04803,2020-01-01,CABA,individual
+C03969,2021-09-13,Ituzaingó,individual
+C02111,2025-10-28,CABA,individual
+C00117,2024-02-11,Morón,individual
+C03576,2022-07-24,Quilmes,individual
+C02781,2022-12-26,Quilmes,individual
+C04351,2025-01-13,Quilmes,empresa
+C01324,2024-02-23,Ramos Mejía,individual
+C04206,2024-06-10,Lomas de Zamora,individual
+C02377,2022-11-05,CABA,individual
+C01638,2023-04-06,Lanús,individual
+C00031,2023-02-13,Morón,individual
+C04449,2024-05-06,Lomas de Zamora,individual
+C04150,2024-03-19,Merlo,individual
+C02426,2022-11-03,Tres de Febrero,empresa
+C03489,2024-04-14,Morón,individual
+C00344,2023-09-13,Merlo,individual
+C02444,2023-04-08,Avellaneda,individual
+C02727,2021-06-26,Lomas de Zamora,individual
+C02278,2024-05-04,Ramos Mejía,individual
+C03990,2020-11-15,Lomas de Zamora,individual
+C03802,2025-03-25,Ramos Mejía,individual
+C00155,2020-05-17,Lomas de Zamora,individual
+C00144,2023-12-02,Merlo,individual
+C01651,2023-03-18,Quilmes,individual
+C04837,2022-11-12,Merlo,individual
+C00192,2025-06-12,Quilmes,individual
+C03882,2021-12-03,Lomas de Zamora,individual
+C04696,2020-01-26,Lanús,empresa
+C04442,2024-03-29,Avellaneda,individual
+C04213,2020-08-16,Merlo,individual
+C04760,2020-06-19,Avellaneda,individual
+C04142,2020-02-07,San Justo,empresa
+C01275,2022-11-15,CABA,individual
+C03270,2021-05-30,Morón,individual
+C04646,2023-03-23,Quilmes,individual
+C04883,2023-05-06,Merlo,individual
+C02698,2024-10-01,Avellaneda,individual
+C00269,2021-07-22,Merlo,empresa
+C01824,2020-02-28,Tres de Febrero,empresa
+C04171,2021-05-29,Lanús,individual
+C04374,2020-01-11,Quilmes,individual
+C03539,2024-02-04,CABA,individual
+C04927,2024-04-16,Avellaneda,empresa
+C00742,2020-11-05,Tres de Febrero,individual
+C02084,2020-06-05,Lanús,individual
+C04996,2022-10-09,La Matanza,individual
+C01053,2020-04-19,San Justo,individual
+C01546,2020-01-11,San Justo,individual
+C03391,2022-06-02,Ituzaingó,individual
+C00133,2021-04-02,San Justo,individual
+C02262,2024-02-28,Lanús,empresa
+C02018,2024-07-16,Ituzaingó,individual
+C02923,2022-01-06,Ramos Mejía,individual
+C00760,2022-12-14,Lomas de Zamora,individual
+C02959,2020-11-21,CABA,empresa
+C03752,2020-08-05,Merlo,individual
+C00067,2024-06-26,Lomas de Zamora,individual
+C03568,2023-05-12,Morón,individual
+C00122,2022-10-01,CABA,individual
+C01608,2025-10-13,La Matanza,individual
+C03308,2025-08-27,La Matanza,individual
+C01443,2021-02-06,Merlo,individual
+C04718,2024-04-19,Ramos Mejía,individual
+C00957,2022-05-12,Quilmes,individual
+C04782,2021-12-18,Ramos Mejía,empresa
+C02724,2024-03-11,CABA,individual
+C02364,2023-11-20,Merlo,empresa
+C02770,2022-03-23,Lomas de Zamora,individual
+C04724,2025-02-08,Tres de Febrero,individual
+C03181,2021-09-01,Quilmes,individual
+C01284,2020-03-06,Tres de Febrero,individual
+C01610,2020-09-07,Lanús,individual
+C02463,2024-01-22,San Justo,individual
+C02867,2021-10-30,Morón,individual
+C04929,2023-09-25,Merlo,individual
+C01681,2023-09-12,Avellaneda,individual
+C02174,2025-01-20,Avellaneda,individual
+C00086,2022-03-06,Merlo,individual
+C04459,2020-07-20,La Matanza,individual
+C02697,2021-12-20,Lomas de Zamora,individual
+C00811,2022-06-08,Avellaneda,individual
+C00801,2024-06-10,CABA,individual
+C00724,2020-06-04,Quilmes,individual
+C02451,2023-07-09,CABA,individual
+C02346,2021-09-22,Ramos Mejía,individual
+C00624,2025-08-02,CABA,individual
+C03550,2024-10-10,Ramos Mejía,individual
+C00017,2022-02-04,La Matanza,individual
+C04841,2022-11-19,Quilmes,individual
+C01706,2023-06-11,Tres de Febrero,individual
+C03673,2022-02-03,Ituzaingó,individual
+C00912,2021-07-05,Morón,empresa
+C04194,2025-02-13,Tres de Febrero,individual
+C04912,2020-03-07,Lanús,individual
+C03981,2023-06-14,Ramos Mejía,individual
+C04109,2023-04-04,Morón,individual
+C01879,2024-01-25,San Justo,individual
+C02611,2024-01-25,Tres de Febrero,individual
+C04560,2024-05-24,Morón,individual
+C02699,2021-02-03,Tres de Febrero,individual
+C02822,2021-08-08,San Justo,individual
+C04641,2025-10-22,Ramos Mejía,individual
+C00355,2021-08-20,Merlo,individual
+C01825,2024-12-22,Lomas de Zamora,empresa
+C04919,2024-03-20,Avellaneda,individual
+C01745,2022-11-23,Ramos Mejía,individual
+C01449,2024-08-12,Ramos Mejía,empresa
+C03890,2020-05-02,La Matanza,individual
+C00271,2024-09-29,CABA,individual
+C00400,2021-02-10,CABA,individual
+C04010,2022-09-07,Avellaneda,individual
+C04766,2022-03-23,Lomas de Zamora,individual
+C03085,2022-07-23,Tres de Febrero,individual
+C04913,2020-05-27,CABA,individual
+C02341,2022-11-27,Morón,individual
+C03155,2025-08-25,Merlo,individual
+C02890,2025-05-13,Tres de Febrero,individual
+C04088,2024-02-05,Lanús,individual
+C03858,2021-06-08,Lomas de Zamora,individual
+C00709,2021-09-14,Morón,individual
+C02016,2025-08-14,Merlo,empresa
+C03506,2021-06-29,CABA,empresa
+C01808,2024-11-11,Avellaneda,individual
+C03365,2025-07-04,La Matanza,individual
+C01036,2022-07-17,San Justo,individual
+C03042,2020-07-31,Tres de Febrero,individual
+C00052,2025-10-17,Tres de Febrero,individual
+C04340,2023-07-22,CABA,individual
+C03234,2023-01-24,Merlo,empresa
+C01800,2023-11-21,Quilmes,individual
+C03122,2022-10-08,Tres de Febrero,empresa
+C02075,2021-06-19,Ramos Mejía,individual
+C03028,2023-09-03,San Justo,individual
+C00008,2022-02-09,La Matanza,individual
+C04728,2024-12-14,Tres de Febrero,individual
+C01750,2021-12-30,Merlo,empresa
+C02542,2021-04-03,Tres de Febrero,individual
+C03693,2025-02-21,Quilmes,individual
+C04578,2024-05-16,Morón,empresa
+C03158,2023-11-21,Avellaneda,individual
+C00342,2022-07-15,Quilmes,individual
+C01229,2021-10-31,San Justo,individual
+C04740,2022-12-30,Tres de Febrero,individual
+C01705,2024-12-16,Avellaneda,individual
+C01819,2021-04-02,Tres de Febrero,individual
+C04460,2023-01-11,Merlo,individual
+C03939,2024-07-01,Merlo,empresa
+C03626,2025-07-26,Quilmes,individual
+C03848,2025-03-16,Ramos Mejía,individual
+C03299,2025-05-23,Quilmes,individual
+C03094,2022-09-08,Lanús,individual
+C00723,2021-10-12,Lanús,empresa
+C00935,2022-02-10,Tres de Febrero,individual
+C00788,2020-11-16,San Justo,individual
+C04129,2022-01-25,Quilmes,individual
+C01532,2023-10-24,Morón,individual
+C04140,2024-12-18,Lomas de Zamora,individual
+C03340,2020-03-06,Quilmes,individual
+C02729,2022-10-28,La Matanza,individual
+C03205,2020-07-19,Tres de Febrero,individual
+C02624,2024-08-29,Avellaneda,individual
+C01645,2023-12-02,Tres de Febrero,empresa
+C04312,2020-01-02,Ramos Mejía,individual
+C02538,2024-01-10,Tres de Febrero,individual
+C03421,2025-07-29,Lomas de Zamora,individual
+C03516,2025-07-03,Tres de Febrero,individual
+C03760,2021-10-05,Tres de Febrero,individual
+C03545,2024-03-07,Avellaneda,individual
+C04789,2022-01-18,Avellaneda,individual
+C03887,2021-01-05,Ituzaingó,individual
+C03980,2023-06-04,Ramos Mejía,individual
+C04309,2024-06-25,Ituzaingó,individual
+C03290,2021-06-15,La Matanza,individual
+C02527,2022-07-04,San Justo,individual
+C01483,2023-12-25,Quilmes,individual
+C01909,2020-09-17,San Justo,individual
+C00296,2025-12-20,Lomas de Zamora,individual
+C03154,2023-07-24,Merlo,individual
+C04064,2022-06-10,Ramos Mejía,individual
+C03120,2024-11-02,Lomas de Zamora,individual
+C02193,2021-02-01,Quilmes,individual
+C02063,2023-07-28,Lomas de Zamora,individual
+C04388,2022-04-07,Ramos Mejía,individual
+C00068,2020-01-07,Lanús,individual
+C00040,2023-02-20,Avellaneda,individual
+C01367,2022-02-05,Ituzaingó,individual
+C00910,2022-02-06,Lomas de Zamora,individual
+C02868,2024-07-06,Tres de Febrero,individual
+C03534,2025-10-02,San Justo,individual
+C00712,2023-01-01,Lanús,individual
+C02110,2025-03-24,Tres de Febrero,individual
+C00166,2022-01-26,Merlo,individual
+C04423,2024-08-27,San Justo,individual
+C00379,2021-03-25,Merlo,individual
+C01086,2020-11-23,Lomas de Zamora,empresa
+C02120,2023-03-15,Ramos Mejía,individual
+C03052,2020-10-20,Lomas de Zamora,empresa
+C03832,2024-07-27,Quilmes,individual
+C01325,2022-04-30,Lanús,individual
+C00439,2024-11-13,Lanús,individual
+C03773,2024-12-15,Morón,individual
+C03697,2023-05-28,Quilmes,individual
+C00664,2020-03-24,Ituzaingó,individual
+C04121,2025-12-22,Quilmes,individual
+C00564,2022-03-14,San Justo,empresa
+C00789,2024-02-08,Quilmes,individual
+C00493,2022-08-17,Ramos Mejía,empresa
+C01614,2025-12-21,Avellaneda,individual
+C03117,2024-04-02,Morón,individual
+C00351,2022-12-24,CABA,individual
+C00413,2023-03-01,Ramos Mejía,individual
+C02992,2023-04-20,Lanús,individual
+C01162,2021-05-28,CABA,empresa
+C00207,2022-08-14,La Matanza,individual
+C03203,2020-10-07,San Justo,individual
+C03251,2023-11-07,Ramos Mejía,individual
+C03175,2024-07-21,Lanús,individual
+C01896,2021-01-24,Lomas de Zamora,individual
+C01867,2025-05-16,CABA,individual
+C03141,2023-11-23,Morón,individual
+C01051,2024-10-25,San Justo,individual
+C04395,2022-10-08,Ramos Mejía,individual
+C00873,2021-06-11,Merlo,individual
+C00078,2020-04-01,La Matanza,individual
+C03395,2024-07-21,Lanús,individual
+C04155,2020-02-20,Ramos Mejía,empresa
+C01407,2025-08-25,Lanús,individual
+C00988,2020-01-23,CABA,individual
+C02927,2021-08-11,Merlo,individual
+C01471,2021-05-25,Avellaneda,individual
+C04546,2021-03-31,Merlo,individual
+C01855,2021-10-25,Lanús,individual
+C01399,2021-05-30,Lanús,individual
+C04529,2022-05-10,Tres de Febrero,individual
+C03014,2023-05-02,Ramos Mejía,individual
+C04417,2025-01-03,Lanús,individual
+C01899,2023-09-07,Ituzaingó,individual
+C02504,2021-06-23,Tres de Febrero,individual
+C00306,2022-07-28,Lomas de Zamora,individual
+C04605,2022-10-25,Ramos Mejía,individual
+C01673,2022-05-06,Avellaneda,individual
+C04285,2025-05-23,CABA,individual
+C03457,2023-10-22,Lanús,individual
+C03853,2025-10-24,La Matanza,empresa
+C04510,2025-04-26,Ituzaingó,individual
+C03293,2024-10-02,Ramos Mejía,empresa
+C04747,2021-07-29,Tres de Febrero,individual
+C00673,2025-08-23,San Justo,individual
+C03213,2022-10-15,Lomas de Zamora,individual
+C04026,2024-01-19,Ituzaingó,individual
+C00137,2021-06-10,Avellaneda,individual
+C04596,2023-10-11,Lanús,individual
+C00457,2024-08-09,La Matanza,individual
+C01413,2023-03-21,Tres de Febrero,individual
+C04694,2023-10-11,Ramos Mejía,individual
+C00179,2020-02-03,Tres de Febrero,individual
+C01708,2023-12-20,CABA,individual
+C03603,2020-07-20,Tres de Febrero,individual
+C03507,2022-09-03,CABA,individual
+C03215,2023-02-16,Lanús,individual
+C02350,2020-01-01,Ituzaingó,individual
+C02874,2023-06-29,La Matanza,individual
+C01702,2025-05-01,CABA,individual
+C01984,2022-04-15,San Justo,individual
+C01067,2020-06-03,Ramos Mejía,individual
+C00302,2021-10-03,Merlo,individual
+C03669,2023-04-09,Avellaneda,individual
+C03676,2022-03-27,Lomas de Zamora,individual
+C02342,2025-06-28,Morón,individual
+C01772,2020-05-09,Merlo,empresa
+C03696,2023-02-12,Ituzaingó,empresa
+C00022,2025-02-15,Ramos Mejía,individual
+C01603,2024-07-17,Ituzaingó,empresa
+C04320,2021-07-31,Morón,individual
+C02816,2023-07-28,Ituzaingó,individual
+C04539,2025-04-30,Ramos Mejía,empresa
+C01607,2024-01-22,CABA,empresa
+C04814,2024-07-05,Quilmes,individual
+C00721,2023-07-09,Tres de Febrero,individual
+C02563,2020-01-09,Morón,individual
+C03118,2020-08-09,Ituzaingó,empresa
+C04788,2024-04-26,Lanús,empresa
+C00430,2023-01-27,San Justo,individual
+C00189,2023-07-05,Ituzaingó,empresa
+C02101,2025-05-10,Ituzaingó,individual
+C04666,2021-12-05,San Justo,individual
+C04616,2024-10-05,San Justo,individual
+C03913,2022-07-07,Quilmes,individual
+C00528,2022-03-24,Avellaneda,empresa
+C00915,2024-03-28,San Justo,individual
+C01762,2023-10-23,Ituzaingó,individual
+C04147,2024-10-23,Avellaneda,individual
+C00590,2025-01-07,Ituzaingó,individual
+C02827,2022-05-08,Lanús,individual
+C01255,2020-08-15,Avellaneda,individual
+C02928,2021-05-25,CABA,individual
+C02622,2020-07-02,Avellaneda,individual
+C02129,2025-11-12,Ramos Mejía,empresa
+C00674,2025-07-01,Ituzaingó,individual
+C03034,2021-06-21,CABA,individual
+C01457,2023-10-09,Quilmes,individual
+C02158,2022-02-04,Merlo,empresa
+C03857,2020-08-27,Morón,individual
+C01975,2024-07-05,Ramos Mejía,empresa
+C01024,2021-01-22,Lanús,individual
+C00588,2023-12-07,Lomas de Zamora,individual
+C02573,2021-09-21,Tres de Febrero,individual
+C00826,2022-10-28,Morón,individual
+C04319,2020-11-23,Morón,individual
+C01844,2022-11-19,Lanús,individual
+C02196,2021-06-30,Merlo,individual
+C00560,2023-02-08,Morón,individual
+C04267,2020-01-06,Lanús,individual
+C04203,2025-03-23,Merlo,individual
+C01991,2025-01-12,Avellaneda,individual
+C01385,2023-05-25,La Matanza,individual
+C03456,2024-11-05,Avellaneda,individual
+C00683,2020-08-07,Lomas de Zamora,individual
+C03986,2024-08-02,CABA,individual
+C03062,2020-02-22,CABA,individual
+C03206,2021-10-13,CABA,individual
+C02793,2023-01-02,Avellaneda,individual
+C00206,2025-09-12,CABA,individual
+C00692,2022-03-03,Ramos Mejía,individual
+C04939,2022-04-11,Avellaneda,individual
+C00220,2021-05-19,Tres de Febrero,individual
+C04566,2022-07-05,Lomas de Zamora,individual
+C03595,2024-11-04,Lanús,individual
+C02513,2021-01-09,Lomas de Zamora,individual
+C01491,2023-07-17,Morón,individual
+C04828,2023-08-23,Ituzaingó,individual
+C01536,2020-12-14,La Matanza,individual
+C04263,2020-03-06,Tres de Febrero,individual
+C00281,2021-05-16,Merlo,empresa
+C04725,2025-03-17,San Justo,individual
+C04255,2025-08-22,Lomas de Zamora,empresa
+C00339,2023-03-05,Tres de Febrero,individual
+C04007,2023-01-02,La Matanza,empresa
+C04341,2025-01-14,Merlo,individual
+C00147,2022-07-26,Ituzaingó,individual
+C02072,2025-03-14,CABA,individual
+C03943,2020-07-19,San Justo,individual
+C03260,2020-03-27,San Justo,individual
+C02127,2024-04-01,Avellaneda,individual
+C00363,2025-02-12,Morón,individual
+C01058,2024-07-25,Avellaneda,individual
+C04862,2024-04-24,San Justo,individual
+C00159,2024-09-14,CABA,individual
+C03778,2021-02-10,Merlo,individual
+C02807,2021-10-17,Morón,individual
+C03084,2025-09-17,Tres de Febrero,individual
+C00540,2020-03-11,CABA,individual
+C02236,2023-07-31,La Matanza,individual
+C01340,2024-01-10,Lomas de Zamora,individual
+C03714,2025-11-19,Quilmes,individual
+C03279,2021-07-29,Lanús,individual
+C01823,2023-12-05,Lomas de Zamora,individual
+C01465,2025-04-04,Quilmes,individual
+C01281,2023-09-19,Ramos Mejía,individual
+C00292,2020-11-09,La Matanza,empresa
+C03854,2025-12-17,CABA,individual
+C00994,2022-08-10,CABA,individual
+C01077,2022-10-17,Avellaneda,individual
+C03363,2022-05-19,Merlo,individual
+C02872,2023-10-28,Avellaneda,individual
+C01279,2024-04-12,Lanús,empresa
+C03819,2024-05-30,CABA,individual
+C03280,2024-04-14,Avellaneda,individual
+C02327,2024-07-21,Lanús,individual
+C02159,2022-05-03,Tres de Febrero,individual
+C03682,2020-12-12,La Matanza,individual
+C03941,2023-05-16,La Matanza,individual
+C04178,2022-04-16,Ramos Mejía,individual
+C01657,2021-12-05,Merlo,individual
+C00652,2025-03-24,CABA,empresa
+C03382,2022-12-12,Ramos Mejía,empresa
+C01595,2020-01-05,Quilmes,individual
+C00837,2024-07-06,Ituzaingó,empresa
+C02646,2024-09-02,Lanús,empresa
+C00998,2024-07-31,Quilmes,individual
+C00201,2025-05-08,Quilmes,individual
+C02489,2023-10-21,Avellaneda,individual
+C00704,2020-05-28,Morón,empresa
+C02252,2025-09-16,Tres de Febrero,individual
+C03685,2022-03-11,Tres de Febrero,empresa
+C02462,2025-08-14,Avellaneda,individual
+C03249,2024-12-19,Merlo,individual
+C03277,2021-03-14,La Matanza,empresa
+C04784,2024-05-01,Tres de Febrero,individual
+C00033,2021-01-03,Lomas de Zamora,empresa
+C00427,2021-11-22,Merlo,individual
+C02407,2023-10-19,Ramos Mejía,individual
+C01757,2021-07-20,Avellaneda,individual
+C03739,2021-09-22,Merlo,individual
+C01257,2020-04-09,Avellaneda,individual
+C00641,2025-11-13,Lanús,individual
+C01876,2023-02-11,CABA,individual
+C00658,2025-10-13,Quilmes,individual
+C03402,2023-08-24,Avellaneda,individual
+C00603,2020-02-20,Avellaneda,individual
+C00589,2023-04-21,Lomas de Zamora,individual
+C00518,2022-10-29,CABA,individual
+C03575,2021-07-10,CABA,individual
+C00542,2022-06-08,Merlo,individual
+C03721,2024-09-30,Tres de Febrero,individual
+C02131,2021-02-28,San Justo,individual
+C03396,2025-11-29,Lanús,individual
+C03517,2023-09-09,Tres de Febrero,individual
+C04829,2021-10-14,Lanús,individual
+C04680,2025-03-12,La Matanza,individual
+C00700,2020-09-10,Ituzaingó,individual
+C04323,2020-07-17,San Justo,individual
+C01715,2020-07-05,Quilmes,individual
+C02896,2023-11-03,Avellaneda,individual
+C00266,2024-06-11,Merlo,individual
+C03248,2022-09-11,Lomas de Zamora,empresa
+C03159,2022-11-18,Quilmes,individual
+C02083,2020-02-26,La Matanza,individual
+C00149,2022-02-12,Morón,individual
+C03736,2023-04-24,CABA,individual
+C01804,2021-03-27,CABA,individual
+C02986,2020-10-20,La Matanza,individual
+C03188,2024-12-18,Morón,individual
+C02231,2022-04-17,Tres de Febrero,empresa
+C00958,2025-07-04,La Matanza,individual
+C03830,2021-03-13,Tres de Febrero,individual
+C00071,2022-03-22,San Justo,empresa
+C02435,2023-07-21,San Justo,individual
+C04651,2025-10-31,Lanús,individual
+C04157,2020-01-11,La Matanza,individual
+C04524,2022-02-15,Avellaneda,individual
+C01617,2021-08-08,Morón,individual
+C04816,2025-09-12,Lanús,individual
+C01544,2022-02-09,Morón,individual
+C03473,2024-04-25,Ituzaingó,empresa
+C04618,2020-06-17,La Matanza,individual
+C02553,2022-04-16,Tres de Febrero,individual
+C00506,2020-02-26,Avellaneda,individual
+C04611,2025-10-25,La Matanza,individual
+C02763,2022-12-29,Avellaneda,individual
+C03787,2021-02-26,Morón,individual
+C00317,2024-01-23,CABA,individual
+C04023,2025-08-22,Morón,individual
+C04727,2025-11-01,Lomas de Zamora,individual
+C04123,2022-04-01,Ramos Mejía,individual
+C02106,2022-05-06,Morón,individual
+C02213,2022-07-18,San Justo,individual
+C04558,2024-01-06,San Justo,individual
+C04215,2024-02-23,Merlo,individual
+C00848,2023-10-21,La Matanza,individual
+C04489,2024-07-08,Avellaneda,empresa
+C02967,2024-08-20,Morón,individual
+C01439,2021-08-05,Morón,individual
+C03856,2022-07-06,Morón,individual
+C02735,2022-01-23,CABA,individual
+C01731,2020-06-09,Merlo,individual
+C03087,2021-02-22,Quilmes,individual
+C04224,2022-11-26,La Matanza,empresa
+C02913,2025-11-13,Lomas de Zamora,individual
+C04570,2021-09-29,Quilmes,individual
+C01191,2020-01-24,Lanús,individual
+C01627,2023-08-10,Lomas de Zamora,empresa
+C01211,2021-10-15,Merlo,empresa
+C02310,2023-05-28,San Justo,individual
+C02820,2020-09-24,Quilmes,individual
+C02416,2025-07-25,Merlo,individual
+C01116,2025-10-10,Avellaneda,individual
+C04764,2024-01-27,San Justo,individual
+C03813,2023-01-04,Lanús,individual
+C01444,2020-10-13,San Justo,individual
+C01718,2022-04-19,CABA,individual
+C04421,2020-10-06,Tres de Febrero,individual
+C02429,2022-07-26,La Matanza,individual
+C04279,2021-03-28,Avellaneda,individual
+C03679,2023-04-07,Lomas de Zamora,individual
+C01373,2021-12-22,CABA,individual
+C04348,2025-06-01,Lomas de Zamora,individual
+C03788,2023-07-10,Ituzaingó,empresa
+C04403,2024-08-09,Lanús,individual
+C00084,2024-05-02,Ramos Mejía,individual
+C04934,2023-08-04,La Matanza,individual
+C00437,2022-03-02,Avellaneda,individual
+C02999,2022-08-30,Lanús,empresa
+C03016,2020-11-14,San Justo,individual
+C01967,2023-11-10,Merlo,individual
+C02345,2020-08-29,Quilmes,individual
+C03007,2024-05-24,Lanús,individual
+C01516,2022-01-28,Morón,individual
+C00492,2021-07-09,Ramos Mejía,individual
+C03795,2022-09-03,Avellaneda,individual
+C02969,2024-04-24,Tres de Febrero,individual
+C00181,2022-10-21,CABA,individual
+C02479,2024-07-08,La Matanza,individual
+C04851,2023-12-18,Ramos Mejía,individual
+C03216,2024-03-26,CABA,individual
+C00567,2025-05-29,Ituzaingó,empresa
+C00761,2020-12-13,Tres de Febrero,individual
+C04583,2025-09-19,La Matanza,individual
+C00251,2020-12-28,Quilmes,individual
+C04311,2025-08-31,La Matanza,empresa
+C04438,2025-08-12,Quilmes,individual
+C01760,2022-12-26,Lanús,individual
+C01578,2020-10-24,Quilmes,empresa
+C04238,2024-05-18,Avellaneda,individual
+C00182,2024-12-25,Ramos Mejía,individual
+C02093,2021-09-25,Merlo,individual
+C00057,2022-06-16,CABA,individual
+C03012,2024-03-04,Lanús,individual
+C02955,2021-07-10,Morón,individual
+C03505,2021-10-01,Lanús,individual
+C03777,2023-09-13,Ituzaingó,individual
+C04214,2020-12-09,San Justo,empresa
+C04545,2020-12-10,CABA,individual
+C00679,2020-04-01,La Matanza,individual
+C03288,2023-07-14,Morón,empresa
+C03526,2023-08-28,Ramos Mejía,individual
+C04262,2022-08-12,CABA,empresa
+C04752,2023-03-10,Tres de Febrero,individual
+C02495,2020-09-18,Lomas de Zamora,individual
+C02848,2025-05-24,La Matanza,individual
+C03618,2024-11-22,Lomas de Zamora,individual
+C04900,2022-06-03,La Matanza,individual
+C03905,2025-10-05,Lomas de Zamora,individual
+C02518,2024-05-24,Lanús,individual
+C03254,2024-11-06,Tres de Febrero,individual
+C02095,2024-12-28,Lomas de Zamora,individual
+C04219,2021-09-26,San Justo,individual
+C04709,2020-01-24,Ituzaingó,empresa
+C01062,2020-08-19,Ramos Mejía,individual
+C00836,2024-09-28,Tres de Febrero,individual
+C01015,2021-04-21,La Matanza,individual
+C03164,2020-12-09,Ituzaingó,individual
+C01289,2023-02-13,Lanús,individual
+C03743,2020-02-16,Avellaneda,individual
+C01352,2024-05-25,Merlo,empresa
+C02973,2020-09-12,Ituzaingó,individual
+C03559,2021-03-17,Lomas de Zamora,empresa
+C02439,2021-04-21,Avellaneda,empresa
+C00730,2021-10-13,Tres de Febrero,empresa
+C02107,2021-11-03,Lanús,individual
+C00746,2024-03-27,La Matanza,individual
+C03081,2024-04-09,Avellaneda,individual
+C03779,2022-09-09,Ituzaingó,individual
+C02997,2022-04-07,Ramos Mejía,individual
+C04045,2025-09-05,Merlo,empresa
+C02668,2021-06-13,Avellaneda,individual
+C02163,2024-01-13,Lomas de Zamora,individual
+C03237,2022-06-13,La Matanza,individual
+C01822,2023-12-29,Avellaneda,individual
+C04119,2021-10-01,CABA,individual
+C04859,2024-10-27,Avellaneda,empresa
+C04035,2024-03-03,Lomas de Zamora,individual
+C01210,2024-03-03,Ramos Mejía,individual
+C00995,2023-09-21,Lomas de Zamora,individual
+C04162,2020-12-03,Lanús,individual
+C00864,2024-12-21,Lomas de Zamora,individual
+C00397,2021-03-18,CABA,empresa
+C02238,2023-08-18,Morón,individual
+C00245,2022-08-24,Merlo,individual
+C04476,2023-05-31,Quilmes,individual
+C03174,2021-02-18,Avellaneda,individual
+C03197,2020-12-02,Lomas de Zamora,individual
+C04889,2022-03-06,San Justo,individual
+C04871,2021-03-27,Lomas de Zamora,individual
+C04077,2020-03-17,Lomas de Zamora,individual
+C04074,2020-11-25,Quilmes,individual
+C01469,2023-12-06,Ramos Mejía,individual
+C00278,2025-07-11,Lanús,empresa
+C01884,2024-08-16,San Justo,individual
+C01013,2023-05-09,Merlo,individual
+C02115,2020-12-18,Lanús,empresa
+C01613,2020-12-13,La Matanza,individual
+C00792,2020-01-26,Lomas de Zamora,individual
+C02546,2024-05-23,Quilmes,individual
+C03566,2020-10-17,Quilmes,individual
+C04282,2023-05-07,Morón,individual
+C03817,2022-03-15,Tres de Febrero,individual
+C03865,2021-12-26,Ramos Mejía,individual
+C03104,2023-07-14,CABA,empresa
+C04101,2023-11-26,Merlo,individual
+C03176,2022-07-25,Morón,individual
+C04895,2023-11-20,Avellaneda,individual
+C04914,2024-11-02,Ituzaingó,individual
+C01781,2022-02-14,Quilmes,individual
+C03691,2022-10-29,La Matanza,individual
+C04304,2025-05-04,Tres de Febrero,empresa
+C02894,2024-01-04,La Matanza,individual
+C03253,2025-11-11,Tres de Febrero,individual
+C02022,2024-09-18,San Justo,individual
+C03360,2021-10-19,Tres de Febrero,individual
+C03275,2023-12-03,Ramos Mejía,empresa
+C04580,2022-09-04,Lanús,individual
+C02105,2020-05-25,CABA,individual
+C00193,2020-01-08,San Justo,individual
+C01068,2024-11-23,San Justo,individual
+C00226,2023-08-16,Morón,individual
+C02523,2022-01-04,Lomas de Zamora,individual
+C02058,2020-10-24,Quilmes,individual
+C00713,2022-08-13,Morón,empresa
+C02981,2022-03-10,Quilmes,individual
+C03842,2024-12-12,Merlo,individual
+C01602,2021-01-19,Merlo,individual
+C04392,2025-12-08,Ramos Mejía,individual
+C02873,2021-02-10,Ramos Mejía,individual
+C02125,2024-12-09,Ituzaingó,individual
+C02897,2020-09-19,CABA,individual
+C01063,2022-06-19,Ituzaingó,individual
+C02291,2020-09-21,San Justo,individual
+C03335,2020-06-22,Quilmes,individual
+C03757,2022-07-26,Merlo,individual
+C03499,2022-06-17,Lomas de Zamora,individual
+C03957,2024-03-25,Tres de Febrero,individual
+C03041,2020-01-13,La Matanza,individual
+C02818,2024-08-02,Lanús,individual
+C03306,2020-12-11,La Matanza,individual
+C02977,2021-05-27,La Matanza,individual
+C02189,2021-07-30,San Justo,individual
+C00459,2020-02-18,Lomas de Zamora,individual
+C02683,2020-06-15,San Justo,individual
+C01078,2020-11-28,Lanús,individual
+C03826,2024-06-19,Avellaneda,empresa
+C02485,2020-04-22,CABA,individual
+C03409,2021-04-19,Quilmes,individual
+C01811,2020-12-01,Merlo,individual
+C00171,2020-06-05,Avellaneda,individual
+C01759,2020-05-28,Morón,individual
+C00246,2021-03-13,Avellaneda,individual
+C04241,2023-01-16,Morón,individual
+C01419,2024-11-19,Avellaneda,individual
+C03667,2023-01-30,Ituzaingó,individual
+C02036,2021-08-05,Lanús,individual
+C01521,2020-12-31,Merlo,empresa
+C02681,2022-03-07,Quilmes,empresa
+C02507,2020-07-06,Lomas de Zamora,individual
+C02744,2021-10-23,Morón,empresa
+C01118,2021-07-01,Merlo,individual
+C00527,2024-08-19,Ramos Mejía,individual
+C04062,2020-11-07,Ituzaingó,empresa
+C04786,2024-10-23,Quilmes,empresa
+C02764,2022-01-04,Ituzaingó,individual
+C03477,2021-06-16,Merlo,individual
+C03394,2024-12-17,San Justo,individual
+C01237,2020-10-27,La Matanza,individual
+C04610,2023-04-21,Lomas de Zamora,individual
+C04014,2022-02-13,Tres de Febrero,individual
+C03295,2025-10-30,Quilmes,individual
+C01238,2025-03-28,CABA,empresa
+C03876,2024-05-17,Morón,individual
+C00927,2024-07-23,Lomas de Zamora,individual
+C00367,2025-11-04,CABA,individual
+C04504,2025-03-22,Lanús,individual
+C00904,2022-04-18,Merlo,empresa
+C01472,2023-10-29,Tres de Febrero,individual
+C03139,2022-06-28,San Justo,individual
+C01538,2025-06-22,Tres de Febrero,individual
+C04326,2025-04-28,Merlo,empresa
+C01912,2022-01-26,Tres de Febrero,individual
+C01390,2022-07-05,Merlo,individual
+C04958,2023-04-23,La Matanza,individual
+C02975,2023-09-22,Lanús,individual
+C02425,2024-11-22,Lomas de Zamora,individual
+C04076,2021-07-25,CABA,individual
+C04968,2022-09-30,Tres de Febrero,individual
+C04684,2020-08-31,Lomas de Zamora,empresa
+C02274,2024-01-03,Tres de Febrero,individual
+C00303,2020-06-11,Ituzaingó,empresa
+C04661,2020-12-29,Avellaneda,individual
+C03874,2023-01-25,Ramos Mejía,empresa
+C04345,2025-03-06,Merlo,empresa
+C03304,2020-09-07,Morón,individual
+C00455,2024-09-23,Ituzaingó,individual
+C03764,2021-12-09,Ituzaingó,individual
+C02102,2020-11-27,San Justo,individual
+C00553,2024-12-12,CABA,empresa
+C00940,2020-04-23,Avellaneda,individual
+C02739,2021-11-21,Avellaneda,individual
+C04893,2021-01-22,La Matanza,individual
+C00952,2024-12-09,Ituzaingó,empresa
+C02215,2025-08-07,Ituzaingó,individual
+C01330,2025-12-12,La Matanza,individual
+C00670,2023-08-24,Ramos Mejía,empresa
+C02074,2020-10-17,Ramos Mejía,individual
+C03884,2024-04-16,Quilmes,empresa
+C01463,2022-07-30,Ramos Mejía,individual
+C03035,2021-11-06,San Justo,individual
+C01917,2022-01-12,Tres de Febrero,individual
+C01903,2025-08-14,Ituzaingó,individual
+C04742,2023-08-07,Lomas de Zamora,individual
+C04519,2020-08-20,Ramos Mejía,individual
+C03273,2021-05-19,San Justo,individual
+C03397,2021-07-31,La Matanza,individual
+C01548,2023-04-11,Avellaneda,individual
+C03388,2025-12-19,La Matanza,individual
+C00816,2020-07-03,Lomas de Zamora,individual
+C00324,2024-04-24,Tres de Febrero,individual
+C00984,2025-10-05,Merlo,empresa
+C04080,2023-05-24,CABA,individual
+C01254,2020-11-16,Merlo,individual
+C02295,2021-07-08,Lomas de Zamora,individual
+C00906,2022-10-28,La Matanza,empresa
+C04915,2024-12-20,Ituzaingó,individual
+C02614,2024-06-20,Tres de Febrero,individual
+C02850,2020-10-04,Ituzaingó,individual
+C02505,2021-06-19,Lomas de Zamora,individual
+C00447,2024-03-09,San Justo,empresa
+C04408,2020-04-08,Ituzaingó,individual
+C00829,2020-12-01,Lanús,individual
+C01570,2020-07-02,Morón,individual
+C03124,2024-08-29,Lanús,individual
+C02709,2020-09-10,Avellaneda,individual
+C00699,2021-09-12,La Matanza,individual
+C02595,2025-04-15,Lomas de Zamora,individual
+C01690,2024-03-13,Ramos Mejía,individual
+C02298,2024-06-23,Tres de Febrero,individual
+C00496,2023-05-08,Avellaneda,individual
+C00854,2023-02-16,Morón,empresa
+C03898,2025-01-28,Ituzaingó,individual
+C01327,2023-03-02,Quilmes,individual
+C04739,2024-01-03,Avellaneda,individual
+C04070,2023-08-24,Lomas de Zamora,individual
+C04656,2023-10-01,Tres de Febrero,individual
+C02551,2022-08-15,Ituzaingó,empresa
+C03719,2025-07-02,Tres de Febrero,individual
+C04885,2024-05-31,Quilmes,individual
+C04044,2023-07-05,Avellaneda,individual
+C00041,2023-06-07,Lanús,individual
+C01023,2021-02-27,Avellaneda,individual
+C03163,2020-01-10,Avellaneda,individual
+C04703,2020-05-14,Avellaneda,individual
+C03578,2022-02-05,Quilmes,individual
+C01265,2022-09-08,Ramos Mejía,empresa
+C01488,2020-10-05,San Justo,individual
+C00007,2023-06-13,Merlo,individual
+C00417,2022-09-14,La Matanza,individual
+C02325,2024-03-21,Tres de Febrero,individual
+C01136,2025-09-15,Quilmes,individual
+C02802,2025-06-17,Lomas de Zamora,empresa
+C03113,2023-04-11,Morón,empresa
+C01981,2020-05-23,Lomas de Zamora,individual
+C02154,2024-02-04,Quilmes,individual
+C02689,2023-03-06,Morón,individual
+C00377,2024-06-02,Lomas de Zamora,individual
+C03479,2021-03-02,Lanús,individual
+C01606,2020-03-12,Ramos Mejía,individual
+C04051,2025-11-29,CABA,individual
+C01043,2020-10-08,Ituzaingó,individual
+C02993,2025-03-31,CABA,individual
+C04412,2022-01-20,Quilmes,individual
+C01059,2024-03-12,Avellaneda,empresa
+C01779,2024-05-10,Ituzaingó,individual
+C00356,2024-06-06,Lanús,individual
+C01453,2023-11-27,CABA,empresa
+C00062,2020-10-10,Morón,individual
+C01789,2023-03-10,La Matanza,individual
+C00228,2021-07-18,Ramos Mejía,individual
+C01506,2020-07-27,Ramos Mejía,individual
+C02237,2024-06-08,Tres de Febrero,individual
+C01515,2023-07-15,Lanús,empresa
+C00270,2023-03-17,San Justo,empresa
+C03776,2024-02-23,Avellaneda,individual
+C03833,2025-09-19,Lomas de Zamora,individual
+C02917,2025-06-10,Avellaneda,individual
+C03500,2022-06-04,San Justo,individual
+C04114,2025-06-29,Merlo,individual
+C01881,2022-12-27,Ramos Mejía,empresa
+C04046,2025-01-28,Tres de Febrero,individual
+C01311,2022-09-25,Avellaneda,individual
+C01777,2025-09-29,La Matanza,individual
+C03740,2020-08-09,Lomas de Zamora,individual
+C00649,2023-05-12,Avellaneda,individual
+C04181,2022-08-09,Lomas de Zamora,individual
+C04038,2024-08-14,San Justo,individual
+C04468,2025-06-13,Tres de Febrero,individual
+C00786,2021-05-19,Morón,individual
+C03625,2024-05-19,Ituzaingó,individual
+C01907,2020-08-11,Quilmes,empresa
+C00064,2024-11-22,Avellaneda,individual
+C03287,2021-11-07,Quilmes,individual
+C02881,2025-08-20,Ituzaingó,individual
+C01600,2023-05-06,San Justo,empresa
+C02248,2021-12-20,Merlo,individual
+C01932,2025-05-28,San Justo,empresa
+C04979,2020-01-15,Avellaneda,individual
+C03727,2022-12-17,Morón,individual
+C02842,2022-08-20,Ramos Mejía,individual
+C02554,2023-01-15,Lanús,individual
+C01451,2025-06-29,Lanús,individual
+C01922,2023-11-18,Merlo,individual
+C02657,2023-04-17,La Matanza,individual
+C00936,2020-05-04,Morón,individual
+C04433,2021-06-18,San Justo,individual
+C03204,2020-05-18,CABA,individual
+C03214,2023-10-05,Ituzaingó,individual
+C04013,2020-07-18,Morón,individual
+C02555,2023-05-12,Morón,individual
+C03664,2022-11-19,CABA,individual
+C04623,2024-02-01,Lanús,individual
+C02330,2024-02-13,Lanús,individual
+C04942,2023-07-16,Ituzaingó,individual
+C03737,2021-07-28,Ituzaingó,individual
+C00477,2024-03-05,Lomas de Zamora,individual
+C03044,2021-01-08,Quilmes,individual
+C00573,2023-02-01,Merlo,individual
+C01011,2024-10-03,Morón,individual
+C04743,2022-07-20,Avellaneda,individual
+C01481,2024-06-18,Quilmes,individual
+C02634,2022-08-31,Tres de Febrero,individual
+C01392,2024-01-22,San Justo,individual
+C01872,2024-12-29,San Justo,individual
+C04125,2023-03-13,CABA,empresa
+C01045,2020-04-19,San Justo,individual
+C04770,2024-05-17,Avellaneda,individual
+C02056,2021-01-23,San Justo,individual
+C01540,2025-06-25,La Matanza,individual
+C01689,2023-12-29,La Matanza,individual
+C01696,2025-12-31,Ramos Mejía,individual
+C00253,2021-07-15,Ramos Mejía,individual
+C00882,2024-04-27,Quilmes,empresa
+C02045,2021-02-16,Merlo,individual
+C02393,2025-06-08,San Justo,individual
+C01950,2020-04-22,Lanús,empresa
+C03169,2024-02-11,Avellaneda,empresa
+C00195,2024-05-09,Avellaneda,individual
+C01555,2023-12-27,Quilmes,individual
+C01948,2023-12-20,San Justo,individual
+C00279,2022-08-03,CABA,empresa
+C04843,2023-07-09,Ramos Mejía,individual
+C04734,2024-11-10,Lanús,individual
+C00143,2022-12-27,Merlo,individual
+C00021,2023-06-02,Quilmes,individual
+C04924,2023-07-05,Lomas de Zamora,individual
+C02800,2022-01-05,Merlo,individual
+C04240,2025-10-06,Avellaneda,individual
+C00775,2025-10-13,Lanús,individual
+C02506,2023-02-05,Merlo,individual
+C04690,2020-07-04,Quilmes,individual
+C01361,2022-03-02,Quilmes,individual
+C03173,2020-04-08,Morón,individual
+C02531,2024-12-08,Quilmes,individual
+C03326,2025-10-30,Quilmes,individual
+C01105,2021-12-05,Ramos Mejía,empresa
+C03637,2023-10-04,Ituzaingó,individual
+C04246,2022-10-18,Merlo,individual
+C04945,2020-03-24,Tres de Febrero,individual
+C04462,2022-05-05,Morón,individual
+C03555,2025-11-08,Quilmes,individual
+C03509,2021-01-01,Ituzaingó,empresa
+C02946,2025-09-30,CABA,individual
+C01660,2024-12-04,Quilmes,individual
+C03193,2024-02-20,Lomas de Zamora,individual
+C00777,2021-01-26,Tres de Febrero,individual
+C04127,2024-12-31,Lanús,individual
+C01749,2024-12-26,Lomas de Zamora,individual
+C00284,2023-03-31,Avellaneda,individual
+C01925,2023-06-29,Morón,individual
+C02749,2022-02-02,Morón,individual
+C01099,2022-02-18,Tres de Febrero,individual
+C01810,2024-01-11,Ituzaingó,individual
+C02244,2024-11-06,Ramos Mejía,individual
+C00115,2022-07-29,Tres de Febrero,individual
+C04226,2024-01-30,Quilmes,empresa
+C02902,2025-07-31,Merlo,individual
+C01383,2022-05-31,Merlo,individual
+C01964,2023-12-14,Quilmes,individual
+C01901,2023-03-21,CABA,individual
+C04849,2025-08-24,Morón,empresa
+C00216,2021-10-24,CABA,empresa
+C02232,2022-05-15,La Matanza,individual
+C00426,2023-07-19,Merlo,individual
+C00081,2022-09-21,Lomas de Zamora,individual
+C04130,2024-07-17,Lomas de Zamora,individual
+C03850,2025-11-22,Ituzaingó,individual
+C01581,2025-06-03,Quilmes,individual
+C04593,2020-12-29,La Matanza,individual
+C04756,2025-04-27,Lomas de Zamora,individual
+C04071,2022-10-26,Tres de Febrero,individual
+C04772,2020-06-06,Morón,empresa
+C01008,2024-03-25,Ituzaingó,individual
+C04124,2023-09-29,San Justo,individual
+C02191,2021-10-10,Morón,individual
+C03071,2020-10-30,CABA,empresa
+C01994,2022-10-25,CABA,individual
+C00483,2020-11-17,Ituzaingó,individual
+C03592,2020-03-04,Ramos Mejía,individual
+C01902,2020-06-28,Lanús,individual
+C01034,2022-10-21,Lanús,empresa
+C00881,2020-05-11,Avellaneda,empresa
+C00530,2022-02-11,Tres de Febrero,individual
+C01565,2022-07-22,Avellaneda,empresa
+C04812,2022-01-10,Morón,individual
+C00163,2023-01-21,Lanús,empresa
+C02203,2025-02-08,Lomas de Zamora,individual
+C00357,2021-05-15,CABA,individual
+C03994,2023-09-29,Tres de Febrero,individual
+C02316,2020-12-13,Ituzaingó,individual
+C00396,2021-12-05,Avellaneda,individual
+C03540,2020-09-13,Avellaneda,empresa
+C00616,2023-01-07,Morón,individual
+C02128,2022-03-14,Merlo,individual
+C02339,2023-04-12,CABA,individual
+C04617,2025-12-10,Ramos Mejía,individual
+C02059,2023-01-27,Morón,empresa
+C01797,2025-03-01,La Matanza,individual
+C01933,2020-02-09,Ramos Mejía,empresa
+C04362,2022-07-10,Lomas de Zamora,empresa
+C00146,2021-03-02,Ituzaingó,individual
+C01829,2023-10-09,La Matanza,individual
+C01953,2025-05-10,Ramos Mejía,individual
+C01421,2022-05-12,Tres de Febrero,individual
+C00393,2023-11-08,Lanús,individual
+C04078,2025-07-25,CABA,individual
+C03179,2020-08-01,Morón,individual
+C03911,2024-01-24,CABA,individual
+C03383,2021-03-27,Morón,individual
+C01395,2022-01-05,Morón,individual
+C04753,2021-11-05,Quilmes,individual
+C01189,2020-01-02,CABA,individual
+C04880,2022-08-17,Lanús,individual
+C03148,2020-10-06,CABA,individual
+C02648,2025-01-31,Merlo,individual
+C01240,2025-06-27,Morón,individual
+C01007,2020-07-18,San Justo,individual
+C03303,2025-04-17,Ramos Mejía,individual
+C02266,2020-08-16,Merlo,individual
+C00609,2024-09-28,Ramos Mejía,individual
+C04086,2025-06-22,La Matanza,individual
+C01343,2024-12-26,Lomas de Zamora,individual
+C03357,2023-09-12,CABA,individual
+C02442,2021-08-16,Lanús,individual
+C04385,2024-04-30,Merlo,individual
+C03924,2020-05-19,Morón,individual
+C00651,2020-12-31,Lanús,individual
+C00596,2023-10-19,CABA,individual
+C00234,2025-03-22,Quilmes,individual
+C04648,2023-12-13,Quilmes,individual
+C03583,2021-06-06,Morón,individual
+C03624,2023-01-20,San Justo,individual
+C04531,2023-08-08,Ituzaingó,individual
+C03491,2025-09-03,San Justo,individual
+C01768,2021-12-11,Morón,individual
+C03483,2020-01-29,La Matanza,individual
+C03043,2025-06-04,Ramos Mejía,individual
+C02465,2024-04-11,Lomas de Zamora,individual
+C04676,2024-07-12,Ituzaingó,individual
+C04470,2021-01-09,Avellaneda,empresa
+C00859,2021-05-02,Tres de Febrero,individual
+C04098,2022-07-29,CABA,individual
+C03511,2021-10-17,Avellaneda,individual
+C02020,2023-12-29,Morón,individual
+C03577,2024-01-11,Morón,individual
+C00863,2020-07-21,La Matanza,empresa
+C03355,2021-01-18,Morón,individual
+C03657,2020-10-10,San Justo,individual
+C01589,2025-10-04,Merlo,individual
+C01691,2021-12-21,Lomas de Zamora,individual
+C01699,2022-07-19,Lanús,empresa
+C04891,2024-01-13,Tres de Febrero,individual
+C02374,2025-10-30,Lomas de Zamora,individual
+C01176,2021-01-08,CABA,individual
+C04337,2021-12-02,San Justo,individual
+C02796,2021-08-09,Ituzaingó,individual
+C00919,2020-07-15,Ituzaingó,individual
+C02995,2023-04-28,La Matanza,empresa
+C01711,2021-06-09,Ramos Mejía,empresa
+C01069,2023-03-06,Ituzaingó,individual
+C02043,2021-08-17,San Justo,individual
+C04103,2025-05-18,Ituzaingó,individual
+C01671,2025-08-14,Tres de Febrero,individual
+C02601,2022-09-24,Lanús,individual
+C01002,2021-12-24,La Matanza,individual
+C03170,2024-03-21,Lomas de Zamora,empresa
+C00252,2025-12-20,CABA,empresa
+C01217,2025-07-31,Lomas de Zamora,individual
+C00450,2025-06-04,Tres de Febrero,individual
+C01220,2022-02-28,Morón,individual
+C03079,2020-03-13,San Justo,individual
+C01826,2020-05-25,San Justo,individual
+C04890,2022-05-28,CABA,individual
+C01313,2025-02-10,Quilmes,empresa
+C01433,2023-05-19,San Justo,individual
+C02288,2025-08-28,Lanús,individual
+C00537,2021-02-13,Ramos Mejía,individual
+C04793,2022-09-05,Tres de Febrero,empresa
+C03460,2025-02-19,Morón,individual
+C00502,2025-09-03,Ramos Mejía,individual
+C01904,2021-04-20,Ramos Mejía,individual
+C04223,2023-06-04,Ramos Mejía,individual
+C04043,2024-06-10,Ramos Mejía,individual
+C01761,2023-11-19,Merlo,empresa
+C04758,2023-01-22,Lomas de Zamora,individual
+C03918,2022-04-10,Quilmes,individual
+C03614,2024-05-28,Lomas de Zamora,empresa
+C02670,2025-04-15,Lanús,empresa
+C00875,2021-12-18,Tres de Febrero,individual
+C00963,2020-11-10,Morón,empresa
+C02249,2025-01-14,Morón,individual
+C00832,2022-11-11,Ramos Mejía,individual
+C03436,2022-02-03,Lomas de Zamora,individual
+C03544,2022-05-25,Tres de Febrero,individual
+C03406,2022-10-21,Ituzaingó,individual
+C00701,2023-03-05,Ramos Mejía,individual
+C04410,2024-07-02,Morón,individual
+C03359,2022-01-01,Lomas de Zamora,individual
+C04344,2021-10-08,La Matanza,individual
+C04748,2020-12-02,Lomas de Zamora,individual
+C02511,2025-01-01,San Justo,individual
+C00612,2025-05-15,Tres de Febrero,individual
+C02501,2020-03-13,CABA,individual
+C02308,2022-10-05,Tres de Febrero,empresa
+C01282,2022-09-10,Ramos Mejía,individual
+C02139,2022-09-01,Lanús,individual
+C02212,2023-07-18,Lomas de Zamora,empresa
+C00684,2025-03-22,Lomas de Zamora,individual
+C02687,2023-09-07,Merlo,individual
+C00173,2022-12-09,Avellaneda,individual
+C02672,2020-01-22,San Justo,individual
+C04382,2021-01-26,Tres de Febrero,individual
+C03677,2022-09-30,Morón,individual
+C02971,2025-09-09,CABA,individual
+C01448,2021-08-27,Avellaneda,individual
+C03569,2024-09-04,Ramos Mejía,individual
+C01214,2024-01-27,Tres de Febrero,individual
+C01640,2023-05-11,La Matanza,individual
+C03136,2022-12-08,Lomas de Zamora,individual
+C01287,2025-10-04,Tres de Febrero,individual
+C00987,2024-11-28,Morón,individual
+C00759,2025-01-29,Lanús,individual
+C01664,2020-08-30,Ramos Mejía,individual
+C02434,2025-09-15,Lomas de Zamora,individual
+C03525,2024-01-26,Quilmes,individual
+C00884,2025-10-30,Ramos Mejía,individual
+C03829,2023-09-28,Ramos Mejía,individual
+C03684,2021-11-08,Quilmes,empresa
+C01738,2020-11-03,Morón,individual
+C04375,2021-01-26,San Justo,empresa
+C03090,2020-09-09,Merlo,individual
+C00576,2023-05-31,Ramos Mejía,individual
+C01734,2022-08-04,San Justo,individual
+C04322,2023-10-08,Avellaneda,individual
+C00942,2023-05-16,Ramos Mejía,individual
+C01663,2021-08-02,San Justo,empresa
+C04544,2023-05-02,Merlo,individual
+C02338,2021-09-29,Tres de Febrero,individual
+C00298,2025-06-20,San Justo,empresa
+C02914,2024-10-04,Lanús,empresa
+C04149,2020-02-29,Avellaneda,individual
+C02918,2022-02-04,Morón,individual
+C04695,2021-04-08,Tres de Febrero,individual
+C02243,2021-08-17,Avellaneda,empresa
+C03692,2025-07-20,Tres de Febrero,individual
+C00993,2020-05-10,Lanús,individual
+C04952,2020-10-17,La Matanza,individual
+C00478,2023-07-25,Morón,individual
+C00164,2025-09-09,Tres de Febrero,empresa
+C02271,2022-11-26,Ramos Mejía,empresa
+C02570,2021-06-26,Ituzaingó,empresa
+C04048,2024-11-03,Ramos Mejía,individual
+C02700,2020-06-19,CABA,individual
+C00783,2021-06-14,Lanús,individual
+C02132,2022-02-08,La Matanza,empresa
+C00900,2025-05-05,CABA,individual
+C01519,2024-01-15,Lanús,empresa
+C03549,2025-08-20,CABA,individual
+C03792,2024-12-01,Ramos Mejía,individual
+C03255,2022-07-27,Lanús,individual
+C04189,2023-05-29,San Justo,individual
+C02078,2025-07-08,CABA,individual
+C03607,2022-06-10,Tres de Febrero,individual
+C00968,2024-01-22,Lomas de Zamora,individual
+C04754,2021-11-25,Lomas de Zamora,individual
+C03185,2021-04-13,Avellaneda,individual
+C03930,2023-07-16,Merlo,individual
+C01459,2020-06-05,Ramos Mejía,individual
+C01356,2025-10-20,La Matanza,empresa
+C01985,2020-11-05,CABA,empresa
+C01359,2022-11-28,Lanús,individual
+C01112,2020-10-09,La Matanza,individual
+C00782,2022-02-12,CABA,empresa
+C04464,2025-05-11,Ituzaingó,individual
+C03602,2025-04-01,La Matanza,individual
+C01827,2020-03-16,Tres de Febrero,individual
+C03142,2024-01-28,Lomas de Zamora,empresa
+C03342,2020-07-19,Avellaneda,individual
+C01636,2024-08-30,La Matanza,individual
+C00103,2023-12-14,CABA,individual
+C04252,2024-08-30,La Matanza,individual
+C00815,2022-06-20,San Justo,individual
+C00211,2021-10-03,CABA,individual
+C04132,2025-04-19,Ramos Mejía,individual
+C04844,2020-01-27,La Matanza,individual
+C02142,2024-07-28,Quilmes,empresa
+C00139,2023-11-25,La Matanza,individual
+C02272,2024-03-04,Lanús,individual
+C02875,2020-07-15,Quilmes,individual
+C04732,2020-11-15,Morón,individual
+C02852,2025-02-19,Tres de Febrero,empresa
+C04572,2025-06-06,CABA,individual
+C04553,2022-03-24,San Justo,individual
+C00312,2021-03-10,Morón,individual
+C00954,2024-10-27,La Matanza,individual
+C00297,2022-09-27,Lomas de Zamora,individual
+C00392,2024-03-08,Morón,empresa
+C01155,2020-07-07,Quilmes,individual
+C00350,2024-04-09,Ituzaingó,individual
+C00534,2022-08-24,Morón,individual
+C04984,2024-02-06,Merlo,individual
+C03351,2022-11-06,San Justo,individual
+C01871,2024-01-21,Lomas de Zamora,individual
+C02176,2025-12-23,CABA,empresa
+C00711,2022-11-18,Ituzaingó,individual
+C03789,2023-11-29,Ituzaingó,individual
+C02652,2021-03-20,La Matanza,individual
+C02443,2021-07-24,Tres de Febrero,individual
+C03552,2021-12-14,La Matanza,individual
+C03292,2021-05-17,La Matanza,individual
+C03892,2022-08-23,Morón,individual
+C03880,2021-03-17,Avellaneda,individual
+C00475,2020-04-24,Ramos Mejía,empresa
+C03488,2023-06-21,Lomas de Zamora,individual
+C02290,2024-11-21,San Justo,empresa
+C01299,2025-11-18,CABA,individual
+C04557,2020-08-12,Quilmes,individual
+C03762,2025-06-15,Morón,individual
+C04063,2025-08-24,Lomas de Zamora,individual
+C02658,2024-10-09,Avellaneda,individual
+C00510,2021-08-21,CABA,individual
+C00028,2024-03-21,Ramos Mejía,empresa
+C01285,2021-07-03,CABA,empresa
+C00985,2023-09-11,Ituzaingó,individual
+C00235,2024-12-09,Tres de Febrero,individual
+C00548,2021-01-31,Lomas de Zamora,individual
+C01348,2024-05-20,Merlo,individual
+C03171,2020-01-09,Ituzaingó,empresa
+C03054,2024-05-16,Ituzaingó,individual
+C00945,2022-05-05,Merlo,individual
+C02734,2025-07-08,Ramos Mejía,individual
+C04888,2022-10-15,Ramos Mejía,individual
+C03959,2021-09-06,CABA,individual
+C01653,2020-04-08,Ramos Mejía,individual
+C01787,2023-05-29,Morón,individual
+C00969,2024-10-05,Lanús,individual
+C01930,2025-07-23,CABA,empresa
+C04628,2023-10-19,Lomas de Zamora,individual
+C01960,2022-09-15,Ituzaingó,individual
+C02204,2022-05-23,CABA,individual
+C03810,2025-07-11,Avellaneda,empresa
+C00625,2022-01-23,Quilmes,individual
+C03157,2021-08-27,Ituzaingó,individual
+C03419,2020-02-08,Ramos Mejía,individual
+C03099,2025-01-21,Avellaneda,empresa
+C04380,2020-08-29,San Justo,individual
+C02966,2021-12-27,Ramos Mejía,individual
+C01476,2024-10-24,San Justo,individual
+C03464,2023-06-24,San Justo,empresa
+C04152,2021-12-19,Merlo,individual
+C02908,2022-08-06,Quilmes,empresa
+C01714,2021-06-27,Avellaneda,empresa
+C01531,2021-06-30,Ramos Mejía,individual
+C02070,2022-04-15,La Matanza,individual
+C00205,2022-12-16,Ituzaingó,empresa
+C04033,2022-10-02,Ramos Mejía,individual
+C01727,2024-08-09,Quilmes,individual
+C01927,2025-02-24,La Matanza,empresa
+C02464,2022-07-06,Ituzaingó,individual
+C02825,2021-11-23,La Matanza,individual
+C01843,2023-07-22,Tres de Febrero,individual
+C03793,2020-08-07,Avellaneda,individual
+C02864,2020-07-04,Lomas de Zamora,individual
+C02798,2022-12-16,CABA,individual
+C01436,2020-05-07,Morón,individual
+C03700,2024-02-20,La Matanza,individual
+C02383,2021-08-29,La Matanza,individual
+C01812,2023-01-28,La Matanza,individual
+C02961,2022-02-19,Avellaneda,individual
+C02386,2023-11-20,Ituzaingó,empresa
+C00142,2020-10-18,Morón,individual
+C03258,2021-06-02,Lomas de Zamora,individual
+C02879,2023-09-03,Lanús,individual
+C02135,2021-05-21,CABA,empresa
+C04938,2021-04-29,CABA,individual
+C04591,2025-10-17,Avellaneda,individual
+C02795,2023-09-13,Morón,individual
+C00975,2025-04-13,Lanús,individual
+C00874,2020-07-12,Ramos Mejía,individual
+C01267,2025-02-03,Ramos Mejía,individual
+C02855,2022-08-27,San Justo,individual
+C04041,2025-11-20,Ituzaingó,individual
+C00170,2021-01-05,CABA,individual
+C03061,2024-10-19,CABA,individual
+C01047,2024-09-28,Avellaneda,individual
+C00446,2025-09-11,Quilmes,individual
+C03770,2025-07-17,Lanús,individual
+C01262,2020-06-07,Lomas de Zamora,individual
+C03952,2021-12-13,Ramos Mejía,individual
+C03227,2023-07-24,Lanús,individual
+C00273,2021-04-01,Quilmes,individual
+C04484,2022-02-03,Tres de Febrero,individual
+C03037,2020-01-30,Lomas de Zamora,individual
+C04298,2021-09-27,Lomas de Zamora,individual
+C02367,2025-11-10,Lomas de Zamora,individual
+C04704,2021-06-01,Quilmes,individual
+C01326,2025-07-18,Merlo,individual
+C02300,2021-04-11,Ituzaingó,individual
+C00029,2024-01-26,Ituzaingó,individual
+C04467,2023-12-07,Avellaneda,individual
+C02387,2021-11-19,La Matanza,empresa
+C01858,2024-12-15,Avellaneda,empresa
+C01550,2022-02-11,San Justo,individual
+C00265,2024-09-12,San Justo,empresa
+C00847,2024-09-01,La Matanza,empresa
+C02185,2021-11-10,Ituzaingó,individual
+C02623,2024-04-03,Ituzaingó,individual
+C02417,2021-03-02,Avellaneda,empresa
+C00640,2021-09-08,Tres de Febrero,individual
+C02259,2022-07-15,San Justo,individual
+C02436,2022-02-05,Lomas de Zamora,individual
+C03528,2021-04-12,Merlo,individual
+C03030,2021-01-18,CABA,individual
+C00261,2022-12-21,Lanús,empresa
+C03701,2023-07-30,San Justo,individual
+C03542,2023-11-24,Ituzaingó,individual
+C01694,2023-04-10,Avellaneda,individual
+C04276,2022-07-27,Lanús,individual
+C03686,2024-04-01,Ituzaingó,individual
+C02950,2021-05-19,Merlo,individual
+C00212,2025-08-16,CABA,individual
+C01174,2022-02-23,Avellaneda,individual
+C03318,2022-07-17,Quilmes,individual
+C01384,2024-08-10,CABA,individual
+C04231,2025-04-15,Avellaneda,empresa
+C01851,2024-04-20,San Justo,empresa
+C04065,2024-02-27,Ituzaingó,individual
+C01089,2021-04-08,Merlo,individual
+C03413,2021-12-26,Ituzaingó,individual
+C02499,2022-10-17,Merlo,individual
+C01941,2025-06-25,Tres de Febrero,individual
+C04256,2020-02-03,Lomas de Zamora,individual
+C04571,2025-11-07,La Matanza,individual
+C02440,2020-08-08,Quilmes,empresa
+C02702,2022-04-21,Morón,individual
+C04118,2022-05-13,Quilmes,empresa
+C00645,2022-09-07,Ramos Mejía,individual
+C04259,2020-04-30,San Justo,individual
+C01776,2022-12-02,Ituzaingó,individual
+C00259,2023-09-07,CABA,individual
+C04745,2021-09-14,Morón,individual
+C02100,2024-01-29,Lomas de Zamora,empresa
+C02932,2022-12-12,Tres de Febrero,individual
+C01919,2022-02-08,Ituzaingó,individual
+C02571,2020-12-03,Quilmes,individual
+C04776,2022-08-25,Quilmes,individual
+C00689,2021-03-29,La Matanza,individual
+C02035,2022-09-14,Avellaneda,individual
+C01557,2022-03-25,CABA,individual
+C01050,2022-12-14,CABA,individual
+C03962,2021-07-28,Quilmes,empresa
+C02340,2024-07-22,Lanús,individual
+C01679,2024-09-19,Tres de Febrero,individual
+C04818,2025-01-21,Lanús,individual
+C04925,2020-01-10,CABA,individual
+C01725,2024-03-09,CABA,individual
+C02628,2020-08-06,Ituzaingó,individual
+C02397,2020-07-18,La Matanza,empresa
+C01318,2020-01-13,Tres de Febrero,individual
+C03375,2021-03-29,Avellaneda,individual
+C03820,2023-04-26,CABA,individual
+C04295,2024-02-17,Ramos Mejía,individual
+C01388,2021-06-02,Ramos Mejía,individual
+C03501,2023-04-27,CABA,individual
+C01380,2023-12-10,Ituzaingó,individual
+C02200,2020-12-09,Quilmes,individual
+C01195,2024-08-20,CABA,individual
+C00580,2022-09-27,Merlo,individual
+C03320,2022-08-03,Ituzaingó,individual
+C02983,2021-08-01,Tres de Febrero,individual
+C04585,2022-05-26,Lanús,empresa
+C04722,2021-03-27,CABA,individual
+C00406,2022-12-19,CABA,individual
+C00914,2022-03-05,Morón,empresa
+C01032,2021-08-12,Merlo,individual
+C04106,2023-03-12,Morón,individual
+C02427,2025-05-14,Lanús,individual
+C00715,2021-02-26,La Matanza,individual
+C00038,2025-06-09,Ramos Mejía,empresa
+C03426,2021-01-29,Merlo,individual
+C01686,2022-10-13,Merlo,empresa
+C02415,2020-08-11,Avellaneda,individual
+C01153,2025-04-08,Merlo,individual
+C04873,2023-05-15,Quilmes,individual
+C01030,2021-08-23,Tres de Febrero,individual
+C04825,2025-10-07,Lomas de Zamora,individual
+C02529,2025-01-24,Merlo,individual
+C02737,2023-09-14,Merlo,individual
+C02061,2021-12-31,Merlo,individual
+C00004,2022-05-06,Avellaneda,individual
+C04089,2022-03-25,Morón,individual
+C02603,2021-08-16,Ramos Mejía,individual
+C02826,2021-05-15,Merlo,individual
+C01915,2023-09-18,Quilmes,individual
+C03082,2021-04-01,Avellaneda,individual
+C00498,2021-04-16,Lanús,individual
+C01551,2024-11-29,San Justo,individual
+C01979,2023-03-24,Merlo,individual
+C02540,2024-12-14,Lanús,individual
+C00554,2025-12-22,Morón,individual
+C03671,2024-01-15,Avellaneda,individual
+C04594,2024-09-11,Avellaneda,individual
+C04761,2021-06-14,La Matanza,individual
+C04093,2025-09-26,Avellaneda,empresa
+C00056,2020-05-03,Tres de Febrero,empresa
+C01837,2020-08-12,San Justo,individual
+C04902,2023-07-15,Lanús,individual
+C00546,2021-12-30,San Justo,empresa
+C04999,2025-03-26,Lanús,individual
+C04777,2023-02-20,Lanús,individual
+C02901,2025-12-07,San Justo,individual
+C02138,2020-04-09,La Matanza,individual
+C00717,2023-01-03,Ituzaingó,individual
+C00414,2024-06-24,Quilmes,individual
+C01345,2021-06-28,San Justo,empresa
+C00758,2023-02-28,Merlo,individual
+C02009,2024-08-09,Lomas de Zamora,individual
+C01936,2024-05-26,Quilmes,individual
+C04599,2025-07-07,Morón,individual
+C04630,2024-10-09,CABA,individual
+C00632,2022-07-03,Morón,individual
+C00462,2023-03-21,Lomas de Zamora,individual
+C01445,2023-02-07,La Matanza,individual
+C03475,2021-09-24,Quilmes,individual
+C02140,2025-05-20,CABA,individual
+C04342,2023-04-26,La Matanza,individual
+C04878,2024-12-31,Tres de Febrero,individual
+C00070,2020-07-03,La Matanza,individual
+C00165,2025-03-31,Lomas de Zamora,individual
+C00888,2022-02-20,Lomas de Zamora,individual
+C04040,2021-04-15,Avellaneda,individual
+C00865,2020-01-28,Morón,empresa
+C01227,2020-03-26,Avellaneda,individual
+C03130,2021-08-31,La Matanza,individual
+C00901,2023-09-20,Avellaneda,individual
+C02257,2022-02-09,Avellaneda,individual
+C03580,2023-03-31,Lanús,individual
+C02373,2024-03-08,Tres de Febrero,individual
+C03020,2024-06-11,La Matanza,individual
+C02985,2020-06-15,Ramos Mejía,individual
+C04148,2020-10-10,Ramos Mejía,individual
+C01977,2022-06-14,Tres de Febrero,individual
+C00779,2022-05-09,CABA,individual
+C01003,2024-05-14,La Matanza,individual
+C02761,2024-10-14,Morón,empresa
+C03289,2025-05-28,Lanús,individual
+C04006,2022-11-16,Ramos Mejía,individual
+C03466,2024-08-10,Lanús,individual
+C03841,2025-10-01,La Matanza,individual
+C04138,2024-01-08,Merlo,individual
+C04002,2024-11-10,Lanús,individual
+C00918,2024-07-20,San Justo,individual
+C00791,2020-05-03,Ramos Mejía,empresa
+C02472,2025-03-21,Lanús,individual
+C02143,2025-07-13,Lanús,individual
+C03064,2024-04-18,Ramos Mejía,individual
+C04668,2023-05-27,Quilmes,individual
+C04273,2022-10-30,Merlo,individual
+C00242,2024-12-07,CABA,individual
+C03604,2021-07-24,San Justo,individual
+C00614,2022-01-04,Ramos Mejía,individual
+C04957,2021-03-21,Merlo,individual
+C02378,2020-03-04,CABA,empresa
+C00328,2021-01-06,Quilmes,individual
+C04188,2021-06-22,La Matanza,individual
+C04763,2022-08-19,Merlo,individual
+C04306,2025-05-27,Avellaneda,individual
+C04538,2022-08-19,Ramos Mejía,individual
+C01006,2022-02-20,Morón,individual
+C04930,2021-11-29,Quilmes,individual
+C04396,2021-12-15,CABA,individual
+C03872,2023-10-11,Ituzaingó,individual
+C01831,2022-01-25,Morón,individual
+C02635,2020-01-23,Lanús,individual
+C00280,2024-05-03,San Justo,individual
+C01631,2023-09-03,CABA,individual
+C01710,2022-05-02,Ituzaingó,individual
+C04936,2022-09-09,Morón,individual
+C00422,2022-06-05,Quilmes,individual
+C01850,2021-12-01,Quilmes,individual
+C03415,2021-04-05,Morón,individual
+C00436,2022-07-31,CABA,individual
+C03332,2023-03-14,Ituzaingó,individual
+C04066,2021-11-10,Ituzaingó,individual
+C00490,2025-10-28,Merlo,individual
+C04324,2020-06-23,Morón,individual
+C02369,2021-08-11,Tres de Febrero,individual
+C03948,2024-04-04,Ituzaingó,individual
+C03985,2021-02-21,La Matanza,individual
+C01019,2023-08-19,Merlo,individual
+C03496,2023-06-24,CABA,empresa
+C01688,2023-11-21,Lanús,individual
+C04607,2021-08-22,Quilmes,individual
+C03983,2023-08-20,Avellaneda,individual
+C00525,2020-09-27,La Matanza,individual
+C03112,2021-07-27,Merlo,individual
+C03463,2022-07-22,Avellaneda,individual
+C01675,2020-08-25,Merlo,individual
+C01179,2020-11-13,Merlo,individual
+C02265,2024-11-02,Avellaneda,empresa
+C02508,2025-07-09,La Matanza,individual
+C00120,2024-09-17,La Matanza,individual
+C02438,2020-08-04,Tres de Febrero,individual
+C02226,2024-08-26,Morón,individual
+C04673,2025-06-03,Ramos Mejía,individual
+C00666,2024-11-28,La Matanza,individual
+C03711,2020-04-18,San Justo,individual
+C03839,2025-05-03,La Matanza,individual
+C01629,2022-12-10,Morón,individual
+C00727,2023-12-04,CABA,empresa
+C04237,2022-04-18,Ramos Mejía,individual
+C00172,2021-12-27,Ramos Mejía,individual
+C01853,2023-06-24,Avellaneda,individual
+C03632,2022-12-25,La Matanza,individual
+C04318,2024-08-22,Merlo,individual
+C00780,2022-09-23,Merlo,individual
+C02662,2021-04-17,Morón,individual
+C03643,2020-12-19,Lomas de Zamora,individual
+C04104,2023-01-21,La Matanza,individual
+C01859,2020-09-17,Merlo,individual
+C03445,2024-10-02,Tres de Febrero,individual
+C03645,2023-06-03,Tres de Febrero,empresa
+C01432,2025-12-15,Lomas de Zamora,individual
+C03334,2022-10-07,La Matanza,individual
+C01913,2022-06-07,Ituzaingó,individual
+C02581,2022-02-18,Lanús,individual
+C01205,2023-08-20,Lanús,individual
+C00352,2023-07-31,Lanús,individual
+C00887,2025-08-27,Lomas de Zamora,individual
+C00011,2024-10-22,San Justo,individual
+C02275,2020-01-25,Ramos Mejía,individual
+C00362,2022-01-30,Morón,individual
+C03662,2022-02-28,Quilmes,individual
+C02160,2024-07-20,Morón,individual
+C01038,2023-04-23,Quilmes,individual
+C02261,2022-01-24,La Matanza,individual
+C03454,2020-08-10,Avellaneda,individual
+C02880,2023-08-24,San Justo,individual
+C04735,2021-11-11,Quilmes,empresa
+C03991,2021-05-31,Avellaneda,individual
+C00696,2020-08-06,Quilmes,individual
+C03343,2025-11-11,Morón,individual
+C00794,2024-07-29,Ituzaingó,individual
+C03710,2021-08-30,Quilmes,individual
+C02547,2021-07-28,Lanús,individual
+C00365,2024-12-16,Avellaneda,individual
+C04989,2020-12-21,Lanús,individual
+C02620,2021-04-28,Lomas de Zamora,individual
+C04195,2024-08-17,Avellaneda,individual
+C00681,2021-11-16,Avellaneda,empresa
+C04473,2022-07-09,Morón,empresa
+C02788,2022-06-26,Lanús,individual
+C03129,2021-10-26,Lomas de Zamora,empresa
+C00622,2025-03-16,Morón,individual
+C01803,2023-10-15,Morón,individual
+C04359,2025-07-05,Ituzaingó,individual
+C00793,2021-10-02,Lomas de Zamora,individual
+C03975,2024-06-25,Tres de Febrero,individual
+C02197,2021-01-17,Morón,individual
+C00264,2022-01-27,Lomas de Zamora,individual
+C02844,2023-05-28,Ituzaingó,individual
+C01150,2022-06-21,Ramos Mejía,empresa
+C00176,2021-11-28,Lanús,individual
+C01670,2025-10-10,Ituzaingó,individual
+C01509,2020-07-05,Merlo,individual
+C03166,2024-06-28,Ramos Mejía,individual
+C03195,2023-03-30,Ituzaingó,individual
+C00960,2023-05-30,Lanús,empresa
+C04627,2021-03-25,Lomas de Zamora,individual
+C04469,2025-09-25,Lanús,individual
+C00523,2025-03-23,Tres de Febrero,individual
+C02550,2022-02-25,Avellaneda,individual
+C00045,2023-12-30,Lanús,individual
+C00353,2022-05-31,Morón,individual
+C02787,2022-04-01,Quilmes,individual
+C04552,2020-11-24,Lomas de Zamora,individual
+C01415,2021-08-12,Quilmes,individual
+C01868,2023-08-11,La Matanza,individual
+C04910,2025-10-17,Ituzaingó,individual
+C00384,2020-05-01,Tres de Febrero,individual
+C03281,2021-02-10,Lanús,individual
+C04173,2020-10-13,Quilmes,individual
+C04384,2023-08-10,San Justo,empresa
+C04498,2023-07-16,Avellaneda,individual
+C01741,2022-02-28,Ramos Mejía,individual
+C00505,2020-04-15,Tres de Febrero,individual
+C03210,2024-11-13,CABA,individual
+C04092,2023-12-24,Morón,individual
+C01316,2020-07-18,Morón,individual
+C04047,2024-09-01,Ramos Mejía,empresa
+C00354,2021-07-14,Ramos Mejía,empresa
+C00134,2024-11-23,San Justo,individual
+C03947,2022-05-08,Lanús,individual
+C04034,2021-12-04,Avellaneda,empresa
+C03707,2025-02-20,Avellaneda,individual
+C02599,2025-07-31,Ramos Mejía,individual
+C00187,2020-11-26,Merlo,individual
+C03207,2020-08-28,Tres de Febrero,empresa
+C03430,2025-09-26,Merlo,individual
+C04000,2023-12-17,CABA,individual
+C03025,2025-12-31,Ituzaingó,individual
+C03608,2025-09-28,Quilmes,individual
+C01438,2022-05-12,Ramos Mejía,individual
+C01473,2023-08-11,Ituzaingó,individual
+C00500,2022-12-26,Lanús,individual
+C04455,2024-10-04,Ituzaingó,individual
+C00391,2022-03-08,San Justo,individual
+C01630,2025-02-07,Merlo,individual
+C01355,2024-03-02,CABA,empresa
+C00574,2020-12-22,San Justo,individual
+C03325,2022-05-18,Morón,individual
+C01418,2024-08-27,Lomas de Zamora,individual
+C01573,2025-08-23,Lomas de Zamora,individual
+C00382,2023-09-07,Lomas de Zamora,empresa
+C03945,2020-08-15,Tres de Febrero,individual
+C02046,2024-04-05,La Matanza,individual
+C00037,2024-03-22,San Justo,empresa
+C02688,2021-09-07,Lanús,individual
+C02921,2025-02-02,Tres de Febrero,individual
+C01988,2021-03-14,CABA,individual
+C00411,2023-12-07,San Justo,individual
+C02801,2022-12-02,Lanús,individual
+C03137,2024-10-13,Ramos Mejía,individual
+C01225,2023-04-10,Lanús,individual
+C04622,2020-12-04,Morón,individual
+C04266,2022-03-14,Avellaneda,empresa
+C02040,2020-11-22,Quilmes,individual
+C01425,2021-03-09,Quilmes,individual
+C03354,2023-12-22,CABA,individual
+C03984,2023-03-24,Avellaneda,individual
+C04702,2020-06-04,Avellaneda,empresa
+C03231,2021-11-19,Lomas de Zamora,individual
+C03150,2023-05-04,Quilmes,empresa
+C02760,2020-03-28,Lomas de Zamora,individual
+C00452,2023-09-28,Tres de Febrero,individual
+C03371,2024-12-03,Ituzaingó,individual
+C01748,2021-08-25,San Justo,individual
+C01900,2021-12-31,Ituzaingó,individual
+C00294,2020-11-30,Merlo,individual
+C01978,2022-09-24,Lanús,empresa
+C03312,2024-06-13,CABA,individual
+C01200,2022-10-23,Quilmes,individual
+C00621,2022-07-01,Avellaneda,individual
+C01877,2023-10-08,Merlo,individual
+C04670,2021-03-27,Ramos Mejía,individual
+C04465,2021-09-06,La Matanza,individual
+C01525,2024-11-11,San Justo,empresa
+C02293,2024-08-26,Lomas de Zamora,individual
+C03973,2023-07-11,CABA,individual
+C02088,2024-12-04,San Justo,individual
+C01547,2025-09-29,Ramos Mejía,individual
+C01280,2020-06-03,Morón,individual
+C00892,2025-01-28,Avellaneda,individual
+C04196,2025-09-02,Lomas de Zamora,individual
+C03106,2021-05-15,Ituzaingó,individual
+C01487,2024-02-01,Ituzaingó,individual
+C04631,2023-07-07,CABA,individual
+C00890,2024-08-29,Avellaneda,individual
+C03345,2022-03-10,Lanús,individual
+C00827,2020-07-09,Ituzaingó,individual
+C01308,2023-11-03,San Justo,individual
+C04799,2020-10-01,Lanús,individual
+C03749,2020-04-01,La Matanza,individual
+C04153,2022-05-02,Avellaneda,individual
+C01765,2025-05-08,San Justo,individual
+C01709,2025-02-06,San Justo,individual
+C02843,2023-04-24,Morón,individual
+C02631,2023-06-03,Merlo,individual
+C00512,2021-02-13,Avellaneda,individual
+C03446,2024-03-20,Lomas de Zamora,individual
+C04391,2021-06-19,Morón,individual
+C02389,2024-02-20,CABA,empresa
+C01250,2020-03-25,Avellaneda,individual
+C01666,2024-10-11,Lanús,individual
+C00949,2020-02-24,Quilmes,individual
+C00118,2022-01-03,Avellaneda,individual
+C04291,2023-01-19,Quilmes,empresa
+C01320,2020-06-28,San Justo,individual
+C01574,2024-04-08,Quilmes,individual
+C01758,2024-04-10,Lanús,individual
+C01935,2023-10-20,CABA,individual
+C01815,2020-04-30,San Justo,individual
+C04027,2023-08-09,Lomas de Zamora,individual
+C03411,2020-10-14,San Justo,individual
+C04994,2024-01-31,San Justo,individual
+C03708,2022-01-31,Merlo,individual
+C04949,2022-05-26,San Justo,individual
+C01889,2020-08-08,Ituzaingó,individual
+C00920,2025-10-27,La Matanza,individual
+C00476,2022-07-22,Lanús,individual
+C02941,2021-11-21,Ramos Mejía,individual
+C00132,2023-07-05,Lomas de Zamora,empresa
+C02753,2024-12-28,Ituzaingó,individual
+C04778,2024-02-16,Ituzaingó,individual
+C02799,2020-02-22,Quilmes,individual
+C02239,2020-12-20,La Matanza,individual
+C00813,2020-05-07,San Justo,individual
+C00333,2022-01-08,Merlo,individual
+C00637,2025-07-01,Merlo,individual
+C01156,2024-11-07,San Justo,individual
+C00487,2022-06-09,Lanús,individual
+C00443,2025-02-26,Quilmes,individual
+C02756,2021-05-27,San Justo,individual
+C03265,2020-11-07,Lomas de Zamora,individual
+C02638,2020-06-10,Tres de Febrero,individual
+C03212,2025-06-30,Ramos Mejía,individual
+C04072,2021-12-25,CABA,individual
+C01341,2022-08-14,San Justo,empresa
+C02938,2020-06-22,Lanús,individual
+C03412,2021-05-04,Lanús,individual
+C02925,2024-09-08,San Justo,empresa
+C00305,2022-10-27,Ramos Mejía,individual
+C04941,2020-10-25,Ituzaingó,individual
+C01730,2023-03-02,Lanús,individual
+C00880,2023-08-01,Ituzaingó,individual
+C03860,2020-07-01,Lanús,empresa
+C04790,2025-10-10,La Matanza,individual
+C03724,2024-06-02,Merlo,empresa
+C01242,2020-07-15,Lomas de Zamora,empresa
+C02839,2020-07-16,Quilmes,individual
+C01111,2025-06-21,La Matanza,individual
+C00316,2023-01-28,Lanús,individual
+C04576,2022-04-26,Ituzaingó,individual
+C03151,2022-06-16,Lanús,individual
+C03954,2020-12-02,Morón,individual
+C03843,2020-05-23,Lanús,individual
+C03742,2020-05-23,Quilmes,individual
+C03935,2025-12-14,Lomas de Zamora,individual
+C00728,2021-09-18,Quilmes,individual
+C04232,2021-10-22,Morón,empresa
+C01786,2021-06-24,Avellaneda,empresa
+C02509,2020-05-17,Lomas de Zamora,individual
+C03520,2024-02-25,CABA,individual
+C03533,2020-02-16,Tres de Febrero,individual
+C00608,2022-05-05,Quilmes,individual
+C03291,2021-02-19,Merlo,individual
+C00563,2020-01-06,CABA,individual
+C02612,2021-12-14,Ituzaingó,empresa
+C02580,2021-08-19,Lomas de Zamora,individual
+C01966,2024-04-30,Tres de Febrero,individual
+C04257,2025-02-08,Lomas de Zamora,individual
+C03086,2020-09-26,San Justo,individual
+C02033,2023-05-11,La Matanza,individual
+C03266,2021-11-18,Lomas de Zamora,empresa
+C00736,2023-11-20,Lomas de Zamora,individual
+C02352,2020-06-26,CABA,individual
+C00451,2023-10-03,Avellaneda,individual
+C01717,2022-01-02,CABA,individual
+C03051,2025-10-08,Merlo,individual
+C02149,2022-04-20,San Justo,individual
+C02600,2022-01-22,Avellaneda,individual
+C04288,2020-12-27,Avellaneda,individual
+C03868,2023-12-24,Morón,individual
+C04794,2021-08-24,San Justo,empresa
+C00660,2022-03-14,Tres de Febrero,individual
+C01113,2023-06-10,Merlo,individual
+C00691,2024-03-25,La Matanza,individual
+C02791,2023-11-23,Merlo,individual
+C01480,2022-07-20,Morón,individual
+C00556,2023-08-21,Ramos Mejía,empresa
+C00797,2022-12-25,San Justo,individual
+C03942,2024-07-14,La Matanza,individual
+C00366,2020-12-30,San Justo,individual
+C01637,2023-03-22,Lomas de Zamora,individual
+C02306,2025-08-13,San Justo,individual
+C00802,2025-07-28,La Matanza,individual
+C01764,2021-04-22,CABA,individual
+C04445,2022-11-08,Quilmes,individual
+C02544,2023-01-16,San Justo,individual
+C00961,2024-03-16,Lanús,individual
+C01518,2022-06-05,CABA,individual
+C01931,2020-02-14,La Matanza,individual
+C04568,2025-11-29,Quilmes,empresa
+C00408,2022-12-13,Ituzaingó,individual
+C00100,2024-09-17,Ituzaingó,empresa
+C01965,2023-05-03,Lanús,individual
+C01795,2025-09-20,Quilmes,individual
+C03863,2021-06-24,Morón,individual
+C00591,2025-09-19,Morón,individual
+C00668,2025-05-21,Morón,individual
+C01442,2021-11-21,Morón,empresa
+C01041,2020-09-21,Avellaneda,empresa
+C00482,2021-09-22,Avellaneda,individual
+C00025,2023-09-28,CABA,individual
+C01723,2023-04-12,Merlo,individual
+C00116,2020-12-12,Ituzaingó,individual
+C03208,2020-03-04,Quilmes,empresa
+C00222,2020-02-11,Lomas de Zamora,individual
+C03172,2024-06-11,Morón,individual
+C01740,2022-05-28,CABA,individual
+C01862,2021-04-14,Merlo,empresa
+C03747,2024-06-08,Morón,individual
+C03799,2022-09-25,San Justo,individual
+C04300,2024-08-15,Lanús,individual
+C03563,2024-07-14,Morón,individual
+C04903,2025-06-23,Lanús,empresa
+C01918,2021-08-08,San Justo,individual
+C01018,2022-12-19,Quilmes,individual
+C01387,2022-03-09,Merlo,individual
+C02757,2020-08-26,Tres de Febrero,individual
+C04184,2020-04-02,Tres de Febrero,individual
+C01149,2021-11-20,CABA,empresa
+C03704,2025-03-22,Avellaneda,individual
+C04428,2021-01-03,San Justo,individual
+C01996,2025-07-10,Lomas de Zamora,individual
+C04689,2021-12-04,Avellaneda,empresa
+C02695,2024-09-02,Morón,individual
+C01507,2025-06-14,Quilmes,individual
+C02530,2021-10-23,La Matanza,individual
+C03131,2021-07-08,Ramos Mejía,empresa
+C01489,2021-04-06,Quilmes,individual
+C00899,2024-08-22,Morón,individual
+C01446,2023-11-30,Ituzaingó,individual
+C04723,2022-12-06,Tres de Febrero,empresa
+C02431,2022-12-03,Tres de Febrero,individual
+C02211,2021-02-10,Morón,individual
+C01584,2021-08-11,Lomas de Zamora,individual
+C01833,2024-03-10,Ramos Mejía,individual
+C04976,2021-03-01,La Matanza,individual
+C04054,2024-07-31,Avellaneda,individual
+C00902,2022-05-11,San Justo,individual
+C02780,2023-07-13,Ituzaingó,individual
+C02220,2021-10-02,Morón,individual
+C00106,2025-02-13,San Justo,individual
+C02889,2025-02-27,CABA,individual
+C04235,2025-03-20,Avellaneda,individual
+C01796,2025-11-18,Quilmes,individual
+C04456,2025-11-18,Avellaneda,individual
+C00237,2020-11-13,Lomas de Zamora,individual
+C03369,2024-12-19,CABA,individual
+C04368,2023-04-19,Lomas de Zamora,individual
+C00167,2020-04-18,La Matanza,individual
+C01503,2021-08-31,Ituzaingó,individual
+C03656,2023-09-25,Avellaneda,individual
+C03619,2021-08-01,Merlo,individual
+C01625,2020-08-05,La Matanza,individual
+C03053,2023-02-07,Lomas de Zamora,individual
+C01683,2024-11-21,San Justo,individual
+C04817,2024-03-09,La Matanza,individual
+C03582,2020-03-07,Quilmes,individual
+C02861,2020-11-07,Morón,individual
+C01021,2024-12-20,Ramos Mejía,individual
+C03867,2021-07-05,Morón,individual
+C01329,2021-05-21,Tres de Febrero,individual
+C04990,2024-12-14,Lomas de Zamora,individual
+C02705,2023-06-22,Ituzaingó,empresa
+C03450,2020-07-20,CABA,individual
+C04024,2023-07-04,Ramos Mejía,empresa
+C03878,2021-01-21,La Matanza,empresa
+C00822,2023-06-09,La Matanza,individual
+C01259,2023-08-11,Ituzaingó,individual
+C01321,2022-06-03,La Matanza,individual
+C01046,2023-01-21,Ramos Mejía,individual
+C00386,2021-07-20,Avellaneda,individual
+C03733,2023-10-22,San Justo,individual
+C04638,2021-12-20,Quilmes,individual
+C02260,2021-04-09,Avellaneda,individual
+C04110,2021-08-27,Lomas de Zamora,individual
+C04551,2020-06-26,Lomas de Zamora,individual
+C01911,2022-02-01,La Matanza,individual
+C04036,2024-02-21,Morón,individual
+C04962,2020-03-27,CABA,individual
+C00091,2023-02-20,La Matanza,individual
+C04691,2021-07-07,Merlo,individual
+C03965,2021-04-06,Merlo,empresa
+C02912,2023-06-28,Ramos Mejía,individual
+C00009,2025-08-25,La Matanza,individual
+C00079,2023-09-01,Ramos Mejía,individual
+C02375,2025-10-12,San Justo,individual
+C01464,2025-05-15,CABA,empresa
+C00937,2022-01-11,CABA,individual
+C02539,2022-09-20,Ituzaingó,individual
+C02884,2023-05-11,Ituzaingó,empresa
+C01055,2020-05-03,San Justo,individual
+C00453,2025-09-08,Quilmes,individual
+C01616,2025-05-09,Avellaneda,individual
+C00606,2023-10-09,Avellaneda,individual
+C01266,2021-12-21,CABA,individual
+C01246,2021-10-31,Lomas de Zamora,individual
+C04612,2022-07-29,Lomas de Zamora,individual
+C03125,2025-04-15,Morón,individual
+C03593,2020-12-29,Lanús,individual
+C02654,2025-10-05,La Matanza,empresa
+C01061,2024-05-06,Lomas de Zamora,individual
+C01620,2021-06-14,Avellaneda,individual
+C03219,2025-02-25,Avellaneda,empresa
+C04600,2023-05-02,Ramos Mejía,individual
+C00152,2024-09-04,Tres de Febrero,empresa
+C02569,2022-09-10,Tres de Febrero,individual
+C04755,2020-08-29,Lomas de Zamora,individual
+C02315,2023-11-01,Lanús,individual
+C02073,2024-03-21,CABA,individual
+C03622,2025-04-28,San Justo,empresa
+C00716,2024-10-25,Lomas de Zamora,individual
+C00839,2023-10-26,Ituzaingó,individual
+C01309,2022-09-30,Lanús,individual
+C00555,2021-06-21,La Matanza,individual
+C00364,2025-06-20,Lomas de Zamora,individual
+C02121,2025-09-07,Merlo,individual
+C01751,2023-12-26,Ituzaingó,empresa
+C00340,2022-11-09,Tres de Febrero,individual
+C04575,2022-05-05,La Matanza,individual
+C00372,2025-06-22,Lomas de Zamora,individual
+C00299,2020-03-23,La Matanza,individual
+C04887,2022-10-17,San Justo,individual
+C02878,2021-05-31,Ituzaingó,individual
+C04855,2022-05-07,Lanús,individual
+C01502,2020-03-17,Morón,individual
+C02319,2024-09-12,Morón,individual
+C04477,2021-08-12,Avellaneda,individual
+C02740,2022-01-08,San Justo,individual
+C01908,2023-02-16,Lomas de Zamora,individual
+C03896,2024-04-17,Lomas de Zamora,individual
+C01577,2020-02-09,La Matanza,individual
+C03356,2025-01-05,CABA,individual
+C03734,2021-12-22,Lanús,individual
+C01939,2025-02-01,Avellaneda,empresa
+C02892,2022-08-04,Merlo,individual
+C02011,2023-03-12,Tres de Febrero,individual
+C01535,2024-09-30,La Matanza,individual
+C02869,2021-05-28,Merlo,individual
+C04274,2023-12-06,Ramos Mejía,individual
+C01092,2021-01-18,La Matanza,empresa
+C03537,2022-11-24,Merlo,individual
+C00076,2022-07-28,Merlo,individual
+C00119,2021-06-18,Quilmes,individual
+C00217,2021-04-30,La Matanza,individual
+C03140,2022-05-28,Quilmes,individual
+C03469,2021-10-13,Lomas de Zamora,individual
+C02549,2023-09-01,San Justo,individual
+C01890,2021-06-20,Tres de Febrero,individual
+C02564,2020-09-30,CABA,empresa
+C01131,2024-03-05,Ituzaingó,empresa
+C01143,2023-08-29,CABA,individual
+C01523,2021-05-05,Morón,individual
+C02516,2025-07-05,Lanús,individual
+C03715,2025-08-11,Avellaneda,empresa
+C03620,2025-08-03,Lanús,individual
+C00981,2020-10-22,San Justo,individual
+C01454,2020-06-01,Merlo,empresa
+C01793,2020-06-11,Lomas de Zamora,individual
+C03803,2021-01-03,Lomas de Zamora,individual
+C03921,2025-09-01,San Justo,individual
+C03932,2025-08-08,Tres de Febrero,individual
+C04992,2023-10-27,Ramos Mejía,individual
+C02247,2023-04-30,Lomas de Zamora,individual
+C02947,2023-03-24,Ituzaingó,individual
+C04242,2023-03-05,Quilmes,individual
+C04485,2024-06-05,Ituzaingó,individual
+C00511,2025-05-28,Lomas de Zamora,individual
+C04714,2020-02-09,Merlo,individual
+C00315,2023-04-02,Avellaneda,individual
+C01222,2023-06-12,La Matanza,individual
+C02098,2024-06-15,Ituzaingó,individual
+C00997,2024-03-18,Avellaneda,individual
+C03221,2025-08-18,San Justo,individual
+C03821,2022-12-27,Ituzaingó,individual
+C03951,2023-05-28,Ituzaingó,individual
+C02905,2025-07-27,Avellaneda,individual
+C03979,2023-02-09,Lomas de Zamora,individual
+C03361,2020-08-02,La Matanza,individual
+C03931,2025-03-15,CABA,individual
+C04457,2020-08-07,San Justo,empresa
+C02124,2022-07-11,Avellaneda,individual
+C01545,2025-05-17,Tres de Febrero,individual
+C01221,2022-09-08,Quilmes,individual
+C04506,2022-06-29,Morón,individual
+C03670,2021-07-04,Ituzaingó,individual
+C03635,2025-04-04,Ramos Mejía,individual
+C01236,2022-12-17,CABA,individual
+C01475,2024-10-23,Quilmes,individual
+C03420,2025-08-30,Ituzaingó,individual
+C03267,2021-04-07,Morón,individual
+C00467,2021-04-17,Avellaneda,empresa
+C03695,2020-12-14,La Matanza,empresa
+C01319,2024-03-01,San Justo,individual
+C00015,2024-03-19,Morón,individual
+C03998,2024-11-22,Tres de Febrero,empresa
+C04016,2023-04-05,Merlo,individual
+C00335,2023-06-20,Ituzaingó,individual
+C00371,2024-04-08,CABA,individual
+C01052,2021-12-13,Ituzaingó,individual
+C02428,2025-09-24,La Matanza,individual
+C01184,2024-05-12,La Matanza,individual
+C01485,2021-12-17,La Matanza,empresa
+C01172,2025-01-12,San Justo,empresa
+C00688,2023-08-17,Lomas de Zamora,individual
+C01215,2024-12-23,San Justo,individual
+C04480,2023-01-18,San Justo,individual
+C01784,2025-11-03,Morón,individual
+C04431,2022-11-04,Tres de Febrero,empresa
+C01895,2021-02-25,San Justo,empresa
+C04807,2021-12-06,San Justo,individual
+C03974,2020-02-15,Ramos Mejía,empresa
+C04187,2024-11-06,Lanús,empresa
+C01763,2022-05-30,Ramos Mejía,individual
+C04986,2025-06-07,San Justo,individual
+C04310,2021-10-14,CABA,empresa
+C01949,2024-01-19,Lomas de Zamora,individual
+C00267,2025-06-16,La Matanza,individual
+C04435,2021-08-13,San Justo,empresa
+C02099,2025-06-07,San Justo,individual
+C00135,2021-04-14,San Justo,individual
+C04985,2025-04-09,Ituzaingó,individual
+C04559,2021-04-12,San Justo,empresa
+C01771,2022-09-26,Lanús,individual
+C02050,2024-04-16,Lanús,individual
+C00766,2021-06-18,Ramos Mejía,individual
+C04762,2025-02-25,Avellaneda,empresa
+C00972,2022-03-06,Lanús,individual
+C02354,2020-09-13,Merlo,individual
+C01405,2022-11-13,Lomas de Zamora,individual
+C01253,2023-11-12,San Justo,individual
+C04280,2023-05-13,La Matanza,empresa
+C01106,2023-12-05,CABA,individual
+C00309,2022-10-20,Morón,individual
+C04867,2023-10-11,Lanús,individual
+C03999,2022-07-26,San Justo,individual
+C01241,2023-09-16,Lanús,empresa
+C04352,2025-10-01,Lomas de Zamora,individual
+C04503,2021-08-31,Tres de Febrero,individual
+C01999,2022-12-05,San Justo,individual
+C00733,2022-05-18,Ituzaingó,empresa
+C03088,2025-02-05,Quilmes,individual
+C00834,2021-02-19,Avellaneda,individual
+C04261,2020-05-28,La Matanza,individual
+C01944,2021-08-17,La Matanza,individual
+C02980,2022-07-21,San Justo,individual
+C03008,2020-07-19,Quilmes,individual
+C02651,2020-03-16,Lanús,individual
+C02515,2020-03-13,Avellaneda,individual
+C02721,2021-12-18,Ituzaingó,individual
+C00429,2024-11-08,Merlo,individual
+C04197,2024-02-26,Quilmes,individual
+C03224,2023-12-08,Quilmes,individual
+C03886,2021-04-07,Ramos Mejía,individual
+C01517,2025-03-03,La Matanza,individual
+C00705,2021-10-14,Avellaneda,individual
+C01962,2024-12-29,Lanús,individual
+C02752,2025-05-23,La Matanza,individual
+C04458,2021-09-28,Ramos Mejía,individual
+C00198,2021-11-21,Merlo,individual
+C03547,2020-07-13,San Justo,individual
+C01934,2021-02-25,San Justo,individual
+C02344,2021-10-27,San Justo,individual
+C01958,2022-05-03,San Justo,individual
+C03307,2024-12-09,CABA,individual
+C02694,2021-01-14,La Matanza,individual
+C04806,2021-12-28,Ramos Mejía,individual
+C02267,2020-04-09,Lomas de Zamora,individual
+C00613,2021-01-19,Avellaneda,individual
+C00586,2023-10-07,CABA,individual
+C04515,2022-05-23,La Matanza,individual
+C01752,2020-04-24,Merlo,individual
+C02296,2020-10-23,Ramos Mejía,individual
+C04492,2023-06-24,La Matanza,individual
+C00072,2025-09-04,Merlo,empresa
+C03814,2021-05-30,Lomas de Zamora,individual
+C03211,2024-09-01,Lanús,individual
+C02746,2020-02-13,La Matanza,individual
+C03502,2022-06-29,Quilmes,individual
+C03218,2024-02-13,Ramos Mejía,individual
+C02703,2024-06-10,CABA,individual
+C00929,2024-07-31,San Justo,empresa
+C03439,2025-10-01,Merlo,individual
+C01724,2024-12-07,San Justo,empresa
+C04588,2021-08-16,La Matanza,individual
+C02118,2025-01-22,Quilmes,individual
+C04863,2024-07-26,CABA,individual
+C01845,2021-01-16,Merlo,empresa
+C00412,2024-06-20,Avellaneda,empresa
+C01572,2024-05-20,Tres de Febrero,individual
+C03432,2024-05-03,Morón,individual
+C01119,2020-05-08,Merlo,individual
+C03048,2021-12-01,Lanús,empresa
+C00894,2021-02-04,CABA,individual
+C03296,2022-01-09,Morón,empresa
+C00611,2022-02-11,Merlo,individual
+C00128,2025-08-15,Tres de Febrero,individual
+C02177,2023-03-28,Ramos Mejía,individual
+C00026,2025-12-25,Lanús,individual
+C04688,2021-12-20,Merlo,individual
+C02082,2024-09-05,Morón,individual
+C02086,2024-05-03,Quilmes,individual
+C02104,2021-03-01,La Matanza,individual
+C00898,2021-05-13,San Justo,individual
+C03317,2021-07-06,CABA,individual
+C01995,2022-04-29,Ituzaingó,individual
+C01882,2021-05-17,Lanús,individual
+C04839,2021-10-07,Morón,individual
+C03731,2021-07-08,Lomas de Zamora,empresa
+C01130,2024-10-12,Morón,individual
+C01792,2022-12-14,Merlo,individual
+C00395,2025-12-12,Tres de Febrero,individual
+C03720,2023-04-09,Tres de Febrero,individual
+C03594,2024-09-13,La Matanza,individual
+C01337,2025-06-07,Merlo,individual
+C04440,2021-09-09,San Justo,individual
+C04202,2021-05-02,Avellaneda,individual
+C02524,2022-11-08,Tres de Febrero,individual
+C01226,2020-08-06,CABA,empresa
+C00633,2024-11-10,Lanús,individual
+C04367,2025-02-12,La Matanza,individual
+C00967,2021-10-23,San Justo,empresa
+C02594,2023-04-12,La Matanza,individual
+C00184,2020-01-27,Ramos Mejía,individual
+C02180,2020-12-05,Avellaneda,individual
+C04624,2020-08-19,CABA,individual
+C01025,2025-09-04,Morón,empresa
+C03433,2021-01-06,Morón,individual
+C01590,2024-09-27,Tres de Febrero,empresa
+C02217,2021-09-08,Avellaneda,individual
+C02187,2024-08-02,Merlo,individual
+C02450,2021-02-20,Ituzaingó,individual
+C04099,2020-01-23,Quilmes,empresa
+C03585,2022-04-28,Tres de Febrero,individual
+C01561,2020-06-11,La Matanza,empresa
+C02097,2024-09-24,Ituzaingó,individual
+C03337,2020-06-16,Lanús,empresa
+C01125,2023-11-20,Morón,individual
+C00568,2025-05-16,Morón,individual
+C01245,2025-08-16,Lanús,individual
+C04331,2025-07-27,Tres de Febrero,individual
+C01342,2025-01-15,CABA,individual
+C01585,2020-04-04,Lanús,individual
+C02783,2021-12-24,Avellaneda,individual
+C00893,2023-03-27,La Matanza,individual
+C04615,2020-12-09,Avellaneda,individual
+C00750,2024-06-20,Lanús,individual
+C03916,2022-08-06,Tres de Febrero,individual
+C03374,2025-09-06,San Justo,individual
+C00445,2022-10-09,Tres de Febrero,individual
+C02725,2022-09-01,Avellaneda,empresa
+C00065,2025-06-30,Tres de Febrero,individual
+C03003,2025-05-27,La Matanza,individual
+C02057,2023-03-04,La Matanza,individual
+C03732,2021-02-17,Merlo,individual
+C04665,2021-07-08,Quilmes,individual
+C01856,2022-04-06,Morón,individual
+C04175,2021-08-24,Ituzaingó,empresa
+C01634,2025-11-28,Ituzaingó,individual
+C00778,2022-05-24,Ituzaingó,individual
+C04932,2020-08-18,CABA,individual
+C03816,2024-08-30,Ituzaingó,individual
+C02269,2023-08-26,Morón,empresa
+C04316,2023-07-14,Ituzaingó,individual
+C04390,2022-01-11,Lanús,individual
+C01735,2021-11-23,Ituzaingó,empresa
+C03729,2021-02-25,Merlo,individual
+C03480,2022-10-21,Ramos Mejía,individual
+C02596,2022-10-28,Ituzaingó,individual
+C04446,2022-06-27,Quilmes,individual
+C04079,2020-05-09,La Matanza,individual
+C02922,2022-09-06,Ramos Mejía,empresa
+C03846,2025-12-27,Ramos Mejía,individual
+C04321,2022-08-11,Merlo,individual
+C01861,2025-09-28,Lanús,individual
+C02214,2023-05-26,Avellaneda,individual
+C01458,2024-05-17,Lomas de Zamora,individual
+C04420,2025-07-17,La Matanza,individual
+C01894,2022-05-16,Ituzaingó,individual
+C03859,2025-04-09,Morón,individual
+C03341,2024-07-11,Lomas de Zamora,individual
+C02988,2022-02-11,San Justo,individual
+C00092,2021-06-08,Morón,individual
+C03301,2020-07-22,CABA,individual
+C03638,2022-02-22,Tres de Febrero,individual
+C01479,2023-12-03,Tres de Febrero,empresa
+C03968,2020-07-11,Morón,individual
+C02738,2025-04-02,Ituzaingó,individual
+C03232,2023-12-20,San Justo,individual
+C03823,2025-12-30,La Matanza,individual
+C02811,2022-03-12,Lomas de Zamora,individual
+C03741,2022-03-31,Lomas de Zamora,individual
+C03633,2024-12-06,Quilmes,individual
+C04017,2023-11-24,La Matanza,empresa
+C01434,2021-02-14,Lanús,individual
+C00319,2023-05-16,Lanús,empresa
+C01697,2021-01-07,Tres de Febrero,individual
+C00376,2025-04-18,CABA,individual
+C01754,2025-08-24,Lanús,individual
+C04509,2021-05-17,Lomas de Zamora,individual
+C02029,2025-02-10,La Matanza,individual
+C04183,2022-05-23,Lanús,individual
+C02030,2022-10-05,Avellaneda,individual
+C04354,2023-02-13,San Justo,individual
+C02202,2024-05-12,Lanús,individual
+C02194,2024-11-24,Morón,empresa
+C03606,2020-05-10,Lomas de Zamora,individual
+C04073,2022-03-20,Avellaneda,individual
+C04134,2023-07-23,Avellaneda,individual
+C00318,2023-12-24,San Justo,individual
+C03242,2023-11-27,Ituzaingó,empresa
+C03250,2025-05-17,Merlo,individual
+C03009,2022-06-19,Quilmes,individual
+C01505,2022-09-02,Tres de Febrero,individual
+C00922,2022-03-09,Tres de Febrero,individual
+C04009,2024-03-24,Tres de Febrero,individual
+C01450,2022-06-09,Ramos Mejía,individual
+C01539,2024-10-10,Morón,individual
+C04004,2023-07-19,Lanús,empresa
+C04826,2024-07-08,Ituzaingó,empresa
+C04397,2024-06-23,Tres de Febrero,individual
+C04783,2024-07-02,Avellaneda,individual
+C00169,2021-11-04,Tres de Febrero,empresa
+C03109,2023-05-13,San Justo,individual
+C03143,2025-11-21,La Matanza,individual
+C01732,2025-08-19,Merlo,individual
+C04254,2025-10-22,Quilmes,individual
+C04201,2022-03-09,Tres de Febrero,individual
+C04481,2025-10-02,Lanús,individual
+C02391,2023-01-24,Quilmes,individual
+C04819,2020-01-27,Avellaneda,empresa
+C04001,2022-12-11,Lanús,individual
+C03709,2025-10-27,San Justo,individual
+C04212,2023-09-25,Tres de Febrero,individual
+C02559,2021-05-09,Avellaneda,empresa
+C03323,2022-10-23,Ramos Mejía,individual
+C03873,2021-09-06,Avellaneda,individual
+C02219,2020-08-18,Lomas de Zamora,individual
+C03493,2023-12-13,San Justo,individual
+C00473,2020-04-21,Merlo,individual
+C01437,2023-06-20,Tres de Febrero,individual
+C02412,2024-01-31,Quilmes,individual
+C00767,2025-07-07,Morón,individual
+C00295,2021-10-10,Merlo,individual
+C03498,2022-03-05,Ituzaingó,individual
+C02834,2025-08-11,CABA,individual
+C04730,2025-04-20,Lomas de Zamora,individual
+C00424,2020-04-19,Ituzaingó,individual
+C02399,2022-02-20,Merlo,empresa
+C02362,2023-06-30,La Matanza,individual
+C04906,2025-11-17,Morón,individual
+C04221,2023-03-31,Ramos Mejía,individual
+C01193,2021-03-10,Tres de Febrero,individual
+C04626,2020-07-03,Ramos Mejía,individual
+C00074,2024-01-10,Ramos Mejía,individual
+C01910,2022-11-07,Lomas de Zamora,individual
+C04314,2021-06-11,Tres de Febrero,empresa
+C02003,2021-04-11,La Matanza,empresa
+C00035,2024-08-01,Merlo,individual
+C02557,2020-01-20,Merlo,individual
+C04879,2025-10-23,La Matanza,individual
+C04166,2025-05-28,Morón,empresa
+C04472,2022-07-25,Tres de Febrero,individual
+C02784,2022-07-04,Tres de Febrero,individual
+C02809,2024-09-20,CABA,empresa
+C00484,2023-09-30,Tres de Febrero,individual
+C02794,2020-12-26,CABA,individual
+C00593,2022-10-22,San Justo,individual
+C00657,2020-04-24,CABA,individual
+C04247,2021-12-25,Lanús,individual
+C00620,2022-06-06,Lomas de Zamora,individual
+C01335,2021-06-04,La Matanza,empresa
+C04209,2024-11-24,La Matanza,individual
+C00503,2024-08-17,Ituzaingó,individual
+C01580,2025-12-24,Ramos Mejía,individual
+C01832,2024-12-18,Morón,individual
+C03348,2021-04-12,Merlo,individual
+C04160,2021-04-14,Avellaneda,empresa
+C00514,2025-04-20,La Matanza,individual
+C01938,2020-06-23,Ramos Mejía,individual
+C04959,2022-10-12,San Justo,individual
+C02996,2024-01-07,San Justo,individual
+C00398,2023-12-05,Lanús,individual
+C01374,2025-04-08,Lomas de Zamora,individual
+C00629,2025-04-12,Merlo,individual
+C01185,2021-09-25,Lanús,individual
+C04931,2024-02-19,Ramos Mejía,individual
+C04245,2022-07-18,Ramos Mejía,individual
+C01678,2020-08-20,Morón,individual
+C02786,2023-06-24,La Matanza,individual
+C00744,2022-09-11,La Matanza,individual
+C04448,2025-07-21,Avellaneda,individual
+C00653,2020-08-10,Morón,individual
+C01005,2022-10-29,Ituzaingó,individual
+C02334,2022-10-16,Morón,individual
+C00401,2020-11-12,Quilmes,individual
+C00581,2022-12-08,San Justo,individual
+C00002,2022-08-26,Lanús,individual
+C00833,2020-05-26,Ramos Mejía,individual
+C03300,2022-12-29,Merlo,individual
+C04909,2025-02-07,Tres de Febrero,individual
+C00999,2020-10-07,Avellaneda,individual
+C03836,2022-06-04,Quilmes,individual
+C00145,2022-03-12,Quilmes,individual
+C02561,2024-11-08,San Justo,individual
+C01914,2025-05-20,San Justo,empresa
+C02466,2024-11-10,Ituzaingó,individual
+C02478,2024-06-27,Lanús,individual
+C03790,2025-07-07,Ramos Mejía,individual
+C04199,2020-07-10,Morón,individual
+C04757,2024-03-07,Tres de Febrero,individual
+C04112,2023-08-31,Merlo,individual
+C03844,2020-03-10,Avellaneda,individual
+C00680,2021-10-29,Lomas de Zamora,empresa
+C03570,2024-08-26,Morón,individual
+C00314,2022-08-12,CABA,individual
+C00124,2024-08-28,Tres de Febrero,empresa
+C02521,2025-11-02,Lanús,individual
+C02696,2025-12-15,Ituzaingó,individual
+C01943,2023-09-29,CABA,individual
+C01393,2021-10-01,Morón,empresa
+C03145,2020-01-24,Ituzaingó,individual
+C03895,2022-10-23,Merlo,individual
+C01583,2021-04-05,Lanús,individual
+C00361,2024-02-26,Morón,individual
+C04964,2024-07-03,CABA,individual
+C02441,2021-08-20,Tres de Febrero,individual
+C00602,2023-04-15,Morón,individual
+C04338,2020-04-11,Ramos Mejía,individual
+C04852,2023-04-06,Ramos Mejía,individual
+C03458,2023-05-04,Lomas de Zamora,individual
+C00941,2021-04-29,Merlo,individual
+C01680,2024-07-29,Ituzaingó,individual
+C02870,2021-07-11,Merlo,individual
+C04664,2025-07-30,Tres de Febrero,empresa
+C02372,2021-05-01,Quilmes,individual
+C03811,2023-12-07,Quilmes,individual
+C04434,2024-03-23,Ituzaingó,individual
+C03209,2021-08-06,La Matanza,individual
+C02691,2023-04-06,Merlo,individual
+C00370,2025-12-27,Ituzaingó,individual
+C01929,2024-04-01,Tres de Febrero,individual
+C04008,2024-03-10,Merlo,individual
+C04543,2025-04-03,CABA,empresa
+C02473,2021-04-16,Ramos Mejía,individual
+C04935,2020-03-21,Tres de Febrero,empresa
+C03100,2020-01-22,San Justo,individual
+C00867,2021-12-24,Ramos Mejía,individual
+C00707,2023-07-04,Ituzaingó,individual
+C02667,2023-05-04,Ituzaingó,individual
+C04981,2021-05-21,Morón,empresa
+C00726,2022-12-01,Quilmes,individual
+C04032,2020-08-29,Lanús,individual
+C00494,2023-07-25,Ituzaingó,individual
+C01315,2025-09-25,Merlo,empresa
+C01520,2025-08-02,San Justo,individual
+C03766,2022-10-21,Quilmes,empresa
+C00605,2023-12-14,Tres de Febrero,individual
+C02235,2024-08-28,Ramos Mejía,individual
+C02759,2023-03-06,Quilmes,individual
+C00853,2022-11-02,CABA,empresa
+C00083,2022-09-04,Avellaneda,empresa
+C00214,2025-05-30,CABA,individual
+C00111,2023-05-23,Merlo,individual
+C04163,2023-07-10,Tres de Febrero,empresa
+C04049,2025-12-17,Tres de Febrero,individual
+C03417,2023-04-05,Lanús,individual
+C03639,2022-06-05,Quilmes,individual
+C00896,2022-07-08,Quilmes,individual
+C03910,2021-11-22,Ramos Mejía,individual
+C01707,2021-12-12,Quilmes,individual
+C00551,2023-02-14,Merlo,individual
+C03524,2024-06-28,Avellaneda,empresa
+C04305,2021-02-07,Lomas de Zamora,individual
+C00600,2020-08-13,Merlo,individual
+C00737,2022-01-12,Lanús,individual
+C01358,2020-10-30,Lomas de Zamora,individual
+C00338,2022-06-23,San Justo,individual
+C04037,2024-04-27,San Justo,individual
+C02585,2022-08-14,San Justo,individual
+C02616,2022-08-17,Ramos Mejía,individual
+C04278,2020-11-08,Lanús,individual
+C01700,2021-10-04,Lanús,empresa
+C02979,2021-04-24,Avellaneda,individual
+C01322,2023-11-06,CABA,individual
+C02990,2023-11-24,Merlo,empresa
+C01490,2023-08-07,Lanús,empresa
+C00690,2020-06-02,La Matanza,individual
+C00464,2025-10-14,Quilmes,individual
+C00200,2024-06-27,Ituzaingó,empresa
+C03649,2020-10-07,Quilmes,individual
+C04513,2024-07-23,Quilmes,individual
+C02081,2024-05-08,San Justo,individual
+C02355,2021-12-05,Avellaneda,individual
+C04172,2024-11-15,Lomas de Zamora,individual
+C00861,2025-03-10,La Matanza,individual
+C01526,2023-03-10,Tres de Febrero,individual
+C01431,2020-08-28,Ramos Mejía,individual
+C00982,2021-02-26,Merlo,individual
+C01571,2022-10-22,Ramos Mejía,individual
+C04586,2022-10-03,Merlo,individual
+C02587,2025-03-14,San Justo,individual
+C01513,2021-11-04,Tres de Febrero,empresa
+C00466,2022-06-15,Morón,individual
+C01140,2024-06-05,CABA,individual
+C03996,2024-10-26,San Justo,individual
+C00311,2020-01-10,Ramos Mejía,individual
+C04991,2024-12-06,Tres de Febrero,individual
+C01403,2020-04-29,Avellaneda,individual
+C02824,2023-06-06,Avellaneda,individual
+C04126,2022-11-27,Ramos Mejía,individual
+C03806,2022-03-22,Ituzaingó,individual
+C00202,2024-09-16,Merlo,individual
+C04332,2022-12-21,Morón,individual
+C03451,2023-02-22,CABA,individual
+C01809,2025-12-04,Quilmes,individual
+C04937,2021-09-25,Ituzaingó,individual
+C01054,2022-03-28,CABA,individual
+C02957,2022-08-15,Ramos Mejía,individual
+C04315,2024-03-19,Morón,individual
+C01496,2024-01-22,Lomas de Zamora,individual
+C00805,2022-12-20,Avellaneda,individual
+C00751,2022-09-18,Lanús,empresa
+C03601,2025-07-14,Morón,individual
+C03675,2023-04-22,Ituzaingó,empresa
+C02165,2021-01-22,Lanús,empresa
+C02481,2022-11-22,Merlo,individual
+C03427,2024-06-03,Quilmes,empresa
+C00682,2020-04-24,CABA,individual
+C00535,2024-12-26,La Matanza,individual
+C02396,2025-12-17,Quilmes,individual
+C04528,2020-01-17,Quilmes,individual
+C04488,2025-02-04,Morón,individual
+C04911,2020-05-22,Ramos Mejía,individual
+C04534,2025-04-01,Quilmes,individual
+C00584,2022-10-05,Lanús,empresa
+C03097,2025-10-03,CABA,individual
+C03609,2022-09-18,CABA,individual
+C02363,2021-04-03,Lomas de Zamora,individual
+C03381,2025-01-25,Morón,individual
+C02487,2024-11-10,Tres de Febrero,individual
+C02653,2020-02-07,Lanús,individual
+C00125,2024-02-01,Avellaneda,individual
+C02076,2021-10-10,Merlo,individual
+C02122,2021-12-22,San Justo,empresa
+C03268,2022-03-10,CABA,individual
+C03617,2023-10-16,Lanús,individual
+C04228,2024-10-18,San Justo,individual
+C01588,2025-09-26,Morón,individual
+C00799,2021-06-24,Ramos Mejía,individual
+C02430,2024-11-30,Ramos Mejía,individual
+C03944,2020-02-25,Lomas de Zamora,individual
+C02920,2024-02-14,Tres de Febrero,individual
+C04791,2025-04-14,Avellaneda,individual
+C01838,2025-03-25,Avellaneda,individual
+C04031,2021-04-08,Lomas de Zamora,individual
+C03512,2021-12-25,La Matanza,individual
+C03350,2020-08-20,Tres de Febrero,individual
+C02284,2023-11-29,San Justo,individual
+C02743,2024-05-22,Tres de Febrero,individual
+C04398,2023-05-23,Tres de Febrero,individual
+C03527,2025-11-14,Lanús,individual
+C04364,2021-11-27,Avellaneda,individual
+C01290,2024-04-19,Quilmes,individual
+C03380,2023-10-27,La Matanza,individual
+C02926,2021-06-22,La Matanza,individual
+C04894,2025-12-28,CABA,individual
+C00856,2022-06-22,Ituzaingó,individual
+C04850,2023-11-14,Morón,individual
+C02476,2025-07-06,La Matanza,empresa
+C02847,2025-09-22,La Matanza,individual
+C03246,2023-09-17,La Matanza,individual
+C01073,2020-03-20,La Matanza,individual
+C03812,2021-12-08,Merlo,individual
+C02785,2022-05-12,Lanús,individual
+C01956,2020-07-18,Ituzaingó,individual
+C01799,2022-10-27,La Matanza,individual
+C01097,2024-02-24,Morón,individual
+C04096,2025-01-26,Lanús,individual
+C00752,2022-01-25,Lomas de Zamora,individual
+C04653,2022-01-01,Lomas de Zamora,individual
+C00595,2025-06-22,La Matanza,individual
+C01142,2021-12-18,Morón,individual
+C01492,2025-01-19,Merlo,individual
+C02606,2023-02-02,Avellaneda,individual
+C03425,2024-01-31,Ituzaingó,individual
+C01495,2023-03-06,Tres de Febrero,individual
+C02887,2022-02-07,La Matanza,individual
+C04686,2022-03-25,Ramos Mejía,individual
+C02910,2024-07-05,Quilmes,individual
+C00419,2025-07-06,Tres de Febrero,individual
+C01643,2022-05-06,Quilmes,individual
+C01728,2024-08-08,La Matanza,empresa
+C03862,2023-03-13,Tres de Febrero,individual
+C04330,2024-03-31,Quilmes,empresa
+C02303,2020-09-08,Lomas de Zamora,individual
+C04405,2020-12-31,Tres de Febrero,individual
+C02965,2020-02-03,Quilmes,individual
+C01568,2023-06-07,Merlo,individual
+C04430,2022-04-17,La Matanza,individual
+C02970,2022-01-12,CABA,individual
+C02157,2024-09-18,La Matanza,individual
+C01720,2023-07-23,San Justo,individual
+C01835,2025-12-07,Quilmes,individual
+C02574,2021-01-02,Lanús,individual
+C00501,2020-12-16,San Justo,individual
+C03581,2022-06-06,Tres de Febrero,individual
+C01558,2022-04-19,Avellaneda,individual
+C04068,2023-03-07,Tres de Febrero,individual
+C04966,2025-09-09,San Justo,individual
+C01406,2025-10-20,Ramos Mejía,individual
+C00933,2024-07-09,Morón,individual
+C01165,2025-03-07,Morón,individual
+C03414,2025-03-07,San Justo,individual
+C04613,2020-12-18,Quilmes,individual
+C02630,2020-01-07,Merlo,individual
+C01232,2023-09-24,Lanús,individual
+C01412,2025-10-25,Lomas de Zamora,individual
+C01397,2024-12-02,CABA,empresa
+C01721,2023-01-19,Ramos Mejía,individual
+C04733,2020-12-11,Lomas de Zamora,individual
+C04427,2020-10-19,CABA,empresa
+C04537,2021-10-31,Ramos Mejía,individual
+C04926,2022-02-06,San Justo,empresa
+C01769,2024-03-05,CABA,individual
+C02558,2022-08-22,San Justo,individual
+C01716,2020-12-22,CABA,individual
+C04272,2021-10-22,Lanús,individual
+C04360,2025-05-22,San Justo,individual
+C02710,2025-01-31,Quilmes,individual
+C01733,2021-11-29,Tres de Febrero,individual
+C03966,2025-01-28,CABA,individual
+C02332,2020-07-17,Merlo,individual
+C04516,2023-03-16,San Justo,individual
+C01389,2025-01-30,La Matanza,individual
+C03761,2021-08-13,Merlo,individual
+C04872,2023-05-23,La Matanza,individual
+C00795,2022-04-15,Morón,individual
+C01959,2024-01-15,Morón,individual
+C00694,2022-05-27,Lanús,individual
+C00634,2022-03-16,La Matanza,individual
+C01441,2021-10-31,Quilmes,individual
+C00559,2025-03-01,Lomas de Zamora,individual
+C00114,2022-02-04,Lanús,individual
+C03019,2024-03-19,Lomas de Zamora,individual
+C02860,2025-04-13,Lomas de Zamora,individual
+C00210,2021-08-25,Merlo,individual
+C01575,2021-01-07,CABA,individual
+C03333,2022-03-16,Lomas de Zamora,individual
+C02832,2023-02-21,Lomas de Zamora,individual
+C04514,2025-05-30,CABA,individual
+C04983,2022-10-15,San Justo,individual
+C01798,2024-09-07,La Matanza,individual
+C00497,2024-10-30,CABA,individual
+C04296,2021-06-12,Avellaneda,empresa
+C04211,2022-03-08,Tres de Febrero,individual
+C02771,2024-02-25,Ramos Mejía,individual
+C03661,2025-10-09,Ituzaingó,individual
+C02642,2023-05-25,San Justo,individual
+C01830,2024-02-22,Avellaneda,individual
+C03797,2022-06-08,Ramos Mejía,empresa
+C04884,2025-09-30,Tres de Febrero,individual
+C00536,2025-05-17,Ramos Mejía,individual
+C02447,2024-02-17,San Justo,individual
+C02420,2025-01-17,Merlo,individual
+C00977,2020-11-09,Avellaneda,individual
+C02522,2021-10-13,San Justo,individual
+C04667,2020-11-05,Merlo,empresa
+C03940,2022-02-08,Ituzaingó,individual
+C01016,2024-01-31,Tres de Febrero,individual
+C03200,2022-01-04,Avellaneda,individual
+C03589,2022-08-30,La Matanza,individual
+C00769,2023-02-03,Quilmes,individual
+C04525,2025-09-07,San Justo,individual
+C03768,2025-07-21,Merlo,individual
+C04876,2024-12-05,Lomas de Zamora,individual
+C02823,2022-04-16,Ituzaingó,empresa
+C02080,2020-12-28,Lomas de Zamora,empresa
+C03866,2022-08-18,Lanús,individual
+C02829,2023-02-09,Quilmes,individual
+C00991,2024-12-31,Lanús,individual
+C04767,2023-03-23,San Justo,empresa
+C01569,2021-05-18,Lanús,empresa
+C04466,2025-01-16,CABA,individual
+C03328,2023-01-17,Morón,empresa
+C03272,2020-05-15,Morón,empresa
+C01632,2023-01-10,Morón,individual
+C00055,2024-09-11,Ituzaingó,individual
+C01288,2025-03-14,Merlo,individual
+C00221,2024-08-06,CABA,individual
