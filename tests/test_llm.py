@@ -192,3 +192,36 @@ class TestGenerateSqlErrors:
             mock_client.chat.completions.create.side_effect = Exception("connection timeout")
             with pytest.raises(RuntimeError, match="Error al llamar a Groq"):
                 generate_sql("¿Cuántos clientes?")
+
+
+# ---------------------------------------------------------------------------
+# generate_sql — preguntas fuera de dominio
+# ---------------------------------------------------------------------------
+
+from src.llm import DomainError
+
+
+class TestGenerateSqlDomain:
+    def test_out_of_domain_raises_domain_error(self):
+        response = _make_groq_response("FUERA_DE_DOMINIO")
+        with patch("src.llm._client") as mock_client, \
+             patch("src.llm.format_schema_for_prompt", return_value="SCHEMA"):
+            mock_client.chat.completions.create.return_value = response
+            with pytest.raises(DomainError):
+                generate_sql("¿Cuál es la capital de Francia?")
+
+    def test_out_of_domain_token_case_insensitive(self):
+        response = _make_groq_response("fuera_de_dominio")
+        with patch("src.llm._client") as mock_client, \
+             patch("src.llm.format_schema_for_prompt", return_value="SCHEMA"):
+            mock_client.chat.completions.create.return_value = response
+            with pytest.raises(DomainError):
+                generate_sql("¿Cuál es la capital de Francia?")
+
+    def test_in_domain_question_does_not_raise(self):
+        response = _make_groq_response("SELECT segment FROM customer_analytics")
+        with patch("src.llm._client") as mock_client, \
+             patch("src.llm.format_schema_for_prompt", return_value="SCHEMA"):
+            mock_client.chat.completions.create.return_value = response
+            result = generate_sql("¿Cuántos clientes VIP hay?")
+        assert result == "SELECT segment FROM customer_analytics"

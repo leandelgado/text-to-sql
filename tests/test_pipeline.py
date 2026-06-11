@@ -4,6 +4,7 @@ import pandas as pd
 import pytest
 
 from src.guardrails import GuardrailError
+from src.llm import DomainError
 from src.pipeline import run_pipeline
 
 
@@ -81,6 +82,32 @@ class TestRunPipelineSelfCorrection:
             run_pipeline("¿Cuántos clientes?")
         second_call_kwargs = mock_gen.call_args_list[1].kwargs
         assert second_call_kwargs.get("error_context") is not None
+
+
+class TestRunPipelineDomainRejection:
+    def test_out_of_domain_sets_error_message(self):
+        with patch("src.pipeline.generate_sql", side_effect=DomainError("fuera de dominio")), \
+             patch("src.pipeline.run_query") as mock_query:
+            result = run_pipeline("¿Cuál es la capital de Francia?")
+        assert "fuera de dominio" in result["error"].lower()
+
+    def test_out_of_domain_skips_run_query(self):
+        with patch("src.pipeline.generate_sql", side_effect=DomainError("fuera de dominio")), \
+             patch("src.pipeline.run_query") as mock_query:
+            run_pipeline("¿Cuál es la capital de Francia?")
+        mock_query.assert_not_called()
+
+    def test_out_of_domain_df_is_none(self):
+        with patch("src.pipeline.generate_sql", side_effect=DomainError("fuera de dominio")), \
+             patch("src.pipeline.run_query") as mock_query:
+            result = run_pipeline("¿Cuál es la capital de Francia?")
+        assert result["df"] is None
+
+    def test_out_of_domain_sql_is_none(self):
+        with patch("src.pipeline.generate_sql", side_effect=DomainError("fuera de dominio")), \
+             patch("src.pipeline.run_query") as mock_query:
+            result = run_pipeline("¿Cuál es la capital de Francia?")
+        assert result["sql"] is None
 
 
 class TestRunPipelinePersistentFailure:

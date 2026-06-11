@@ -7,6 +7,12 @@ from src.schema import format_schema_for_prompt
 
 _client = groq_sdk.Groq(api_key=GROQ_API_KEY)
 
+_OUT_OF_DOMAIN_TOKEN = "FUERA_DE_DOMINIO"
+
+
+class DomainError(ValueError):
+    """La pregunta no está relacionada con los datos del negocio."""
+
 _BLOCK_RE = re.compile(r"```(?:sql)?\s*\n(.*?)```", re.DOTALL | re.IGNORECASE)
 
 
@@ -62,7 +68,9 @@ def _build_system_prompt() -> str:
     return (
         "Eres un experto en DuckDB SQL para una concesionaria automotriz.\n"
         "Tu única tarea es convertir preguntas en español a queries SQL válidas para DuckDB.\n"
-        "Respondé ÚNICAMENTE con el SQL, sin explicaciones, comentarios ni bloques de código markdown.\n"
+        "Solo podés responder preguntas sobre los datos disponibles en el esquema (ventas, clientes, productos).\n"
+        f"Si la pregunta NO está relacionada con esos datos, respondé ÚNICAMENTE con la palabra: {_OUT_OF_DOMAIN_TOKEN}\n"
+        "De lo contrario, respondé ÚNICAMENTE con el SQL, sin explicaciones, comentarios ni bloques de código markdown.\n"
         f"El catálogo y esquema por defecto es {db}.\n\n"
         "Ejemplos:\n"
         f"{_few_shot()}\n"
@@ -86,4 +94,9 @@ def generate_sql(question: str, error_context: str | None = None) -> str:
     if not response.choices:
         raise RuntimeError(f"Groq devolvió una respuesta vacía para '{question}'")
     raw = response.choices[0].message.content
-    return _extract_sql(raw)
+    sql = _extract_sql(raw)
+    if sql.upper() == _OUT_OF_DOMAIN_TOKEN:
+        raise DomainError(
+            "La pregunta no está relacionada con los datos de la concesionaria."
+        )
+    return sql

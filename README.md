@@ -74,7 +74,7 @@ Usuario (pregunta en español)
   UI: tabla + gráfico + SQL expandible + historial de sesión
 ```
 
-El flujo completo está orquestado por `src/pipeline.py`. Ante un error de ejecución en DuckDB, `pipeline.run_pipeline` reenvía el SQL fallido y el mensaje de error al LLM para un segundo intento (**self-correction**) antes de propagar el fallo a la UI.
+El flujo completo está orquestado por `src/pipeline.py`. Antes de generar SQL, el LLM evalúa si la pregunta está dentro del dominio del negocio (ventas, clientes, productos); si no, responde `FUERA_DE_DOMINIO` y el pipeline lanza `DomainError` sin tocar la base de datos. Ante un error de ejecución en DuckDB, `pipeline.run_pipeline` reenvía el SQL fallido y el mensaje de error al LLM para un segundo intento (**self-correction**) antes de propagar el fallo a la UI.
 
 ---
 
@@ -83,8 +83,8 @@ El flujo completo está orquestado por `src/pipeline.py`. Ante un error de ejecu
 | Archivo | Función |
 |---|---|
 | [app.py](app.py) | UI Streamlit: campo de texto, botones de preguntas de ejemplo, expander con el SQL generado, `st.dataframe` con resultados, gráfico automático, historial de sesión en `st.session_state` y warmup del esquema cacheado al iniciar. |
-| [src/pipeline.py](src/pipeline.py) | Orquesta el flujo `generate_sql → apply_guardrails → run_query` con manejo de self-correction; devuelve `{sql, df, error, corrected}`. |
-| [src/llm.py](src/llm.py) | Cliente Groq con `temperature=0`. Construye el system prompt en español con el esquema completo + 3 ejemplos few-shot (incluyendo un JOIN entre `fact_sales` y `customer_analytics`). Extrae el SQL del bloque de código en la respuesta. Acepta `error_context` para el reintento de self-correction. |
+| [src/pipeline.py](src/pipeline.py) | Orquesta el flujo `generate_sql → apply_guardrails → run_query` con manejo de `DomainError`, `GuardrailError` y self-correction; devuelve `{sql, df, error, corrected}`. |
+| [src/llm.py](src/llm.py) | Cliente Groq con `temperature=0`. Construye el system prompt en español con el esquema completo + 3 ejemplos few-shot (incluyendo un JOIN entre `fact_sales` y `customer_analytics`). Filtra preguntas fuera de dominio: si el LLM responde `FUERA_DE_DOMINIO`, lanza `DomainError` antes de llegar a guardrails o a la DB. Acepta `error_context` para el reintento de self-correction. |
 | [src/guardrails.py](src/guardrails.py) | Parsea el SQL con `sqlglot` en dialecto DuckDB. Rechaza todo lo que no sea un único `SELECT` (DDL, DML, múltiples sentencias) y lanza `GuardrailError`. Inyecta `LIMIT 1000` si no está presente. |
 | [src/db.py](src/db.py) | Conecta un DuckDB en memoria y adjunta `data/warehouse.duckdb` como catálogo `client_segmentation`. Expone `run_query(sql) → pd.DataFrame`. |
 | [src/schema.py](src/schema.py) | Introspección vía `DESCRIBE` cacheada a nivel módulo. Obtiene valores posibles de columnas categóricas clave (`segment`, `channel`, `product_category`) con `SELECT DISTINCT`. Expone `get_schema()` y `format_schema_for_prompt()` para enriquecer el prompt del LLM. |
@@ -172,8 +172,8 @@ La suite en [tests/](tests/) cubre los módulos principales con mocks, sin reque
 |---|---|
 | [tests/test_guardrails.py](tests/test_guardrails.py) | Casos válidos e inválidos de `apply_guardrails`: DDL, DML, múltiples sentencias, inyección de LIMIT. |
 | [tests/test_charting.py](tests/test_charting.py) | Heurística de `suggest_chart`: bar vs. line, columnas temporales, DataFrames sin dimensión/numérica. |
-| [tests/test_pipeline.py](tests/test_pipeline.py) | Flujo completo de `run_pipeline` con mocks de `generate_sql` y `run_query`, incluyendo el camino de self-correction. |
-| [tests/test_llm.py](tests/test_llm.py) | `generate_sql` con mock del cliente Groq: extracción de SQL desde bloques markdown y manejo de `error_context`. |
+| [tests/test_pipeline.py](tests/test_pipeline.py) | Flujo completo de `run_pipeline` con mocks de `generate_sql` y `run_query`, incluyendo self-correction y rechazo de preguntas fuera de dominio (`DomainError`). |
+| [tests/test_llm.py](tests/test_llm.py) | `generate_sql` con mock del cliente Groq: extracción de SQL desde bloques markdown, manejo de `error_context` y detección del token `FUERA_DE_DOMINIO` para lanzar `DomainError`. |
 
 ```bash
 pytest

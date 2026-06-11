@@ -1,6 +1,6 @@
 from src.db import run_query
 from src.guardrails import GuardrailError, apply_guardrails
-from src.llm import generate_sql
+from src.llm import DomainError, generate_sql
 
 
 def run_pipeline(question: str) -> dict:
@@ -11,6 +11,9 @@ def run_pipeline(question: str) -> dict:
         sql = generate_sql(question)
         validated = apply_guardrails(sql)
         result["sql"] = validated
+    except DomainError as exc:
+        result["error"] = f"Pregunta fuera de dominio: {exc}"
+        return result
     except GuardrailError as exc:
         result["sql"] = sql
         result["error"] = f"Consulta rechazada por guardrails: {exc}"
